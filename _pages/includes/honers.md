@@ -7,6 +7,18 @@
   <span style="font-size: 90%;">RA-L, IEEE Robotics and Automation Society</span>
   </p>
 - <p style="margin: 0; line-height: 1.2;">
+  2025<strong> IROS EXPO Best Demonstration Award </strong> <br>
+  <span style="font-size: 90%;">IROS 2025, IEEE Robotics and Automation Society</span>
+  </p>
+- <p style="margin: 0; line-height: 1.2;">
+  2025<strong> IROS Best Paper Award on Safety, Security, and Rescue Robotics Finalists </strong> <br>
+  <span style="font-size: 90%;">IROS 2025, IEEE Robotics and Automation Society</span>
+  </p>
+- <p style="margin: 0; line-height: 1.2;">
+  2025<strong> EvSLAM Challenge-1st Place </strong> <br>
+  <span style="font-size: 90%;">IROS 2025</span>
+  </p>
+- <p style="margin: 0; line-height: 1.2;">
   2024<strong> World’s Top 2% Scientists</strong> <br>
   <span style="font-size: 90%;">Stanford and Elsevier</span>
   </p>
