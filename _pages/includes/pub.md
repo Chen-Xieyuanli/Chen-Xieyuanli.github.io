@@ -51,18 +51,22 @@
    
    Sha Lu, Xuecheng Xu, Yuxuan Wu, Haojian Lu, **<u>Xieyuanli Chen</u>**, Rong Xiong, Yue Wang
 
-- [BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles](https://ieeexplore.ieee.org/document/11063461)
+- [BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Autonomous Ground Vehicles](https://ieeexplore.ieee.org/document/11063461)
   <div class="pub-links">
   <details class="bibtex-details">
     <summary class="bibtex-button">[BibTeX]</summary>
     <div class="bibtex-block">
-      <pre><code>@article{luo2025bevplace++,
-   title={Bevplace++: Fast, robust, and lightweight lidar global localization for unmanned ground vehicles},
-   author={Luo, Lun and Cao, Si-Yuan and Li, Xiaorui and Xu, Jintao and Ai, Rui and Yu, Zhu and Chen, Xieyuanli},
-   journal={IEEE Transactions on Robotics},
-   year={2025},
-   publisher={IEEE}
-   }</code></pre>
+      <pre><code>@ARTICLE{11063461,
+  author={Luo, Lun and Cao, Si-Yuan and Li, Xiaorui and Xu, Jintao and Ai, Rui and Yu, Zhu and Chen, Xieyuanli},
+  journal={IEEE Transactions on Robotics}, 
+  title={BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Autonomous Ground Vehicles}, 
+  year={2025},
+  volume={41},
+  number={},
+  pages={4479-4498},
+  keywords={Location awareness;Laser radar;Feature extraction;Point cloud compression;Pose estimation;Accuracy;Image recognition;Three-dimensional displays;Simultaneous localization and mapping;Training;3-      degrees of freedom (DoF) pose estimation;global localization;light detection and ranging (LiDAR);loop closing;place recognition},
+  doi={10.1109/TRO.2025.3585385}
+  }</code></pre>
   </div>
   </details>
   <a href="https://arxiv.org/pdf/2408.01841" class="pub-link">[PDF]</a>
@@ -74,6 +78,31 @@
   *IEEE Transactions on Robotics (**T-RO**)*
   
   Lun Luo, Si-Yuan Cao, Xiaorui Li, Jintao Xu, Rui Ai, Zhu Yu, **<u>Xieyuanli Chen</u>**
+
+ - [Stable grasp generation enabled by part segmentation for real-world robotic applications](https://www.sciencedirect.com/science/article/abs/pii/S0736584525002248)
+  <div class="pub-links">
+  <details class="bibtex-details">
+    <summary class="bibtex-button">[BibTeX]</summary>
+    <div class="bibtex-block">
+      <pre><code>@article{GUO2026103170,
+  title = {Stable grasp generation enabled by part segmentation for real-world robotic applications},
+  journal = {Robotics and Computer-Integrated Manufacturing},
+  volume = {98},
+  pages = {103170},
+  year = {2026},
+  issn = {0736-5845},
+  doi = {https://doi.org/10.1016/j.rcim.2025.103170},
+  url = {https://www.sciencedirect.com/science/article/pii/S0736584525002248},
+  author = {Zirui Guo and Xieyuanli Chen and Junkai Ren and Zhiqiang Zheng and Huimin Lu and Ruibin Guo}
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0736584525002248" class="pub-link">[PDF]</a>
+  </div>
+  
+  *Robotics and Computer-Integrated Manufacturing*
+  
+  Zirui Guo, **<u>Xieyuanli Chen</u>**, Junkai Ren, Zhiqiang Zheng, Huimin Lu, Ruibin Guo
   
  - [SegNet4D: Efficient Instance-Aware 4D Semantic Segmentation for LiDAR Point Cloud](https://ieeexplore.ieee.org/abstract/document/10993479/) 
    <div class="pub-links">
@@ -208,6 +237,105 @@
   
   Yanpeng Jia, Ting Wang, **<u>Xieyuanli Chen</u>**, Shiliang Shao
   
+- [Dynamic Gaits Locomotion for Quadrupedal Robots With Gait Phase Decomposition](https://ieeexplore.ieee.org/abstract/document/11214703) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{11214703,
+      author={Zhang, Daoxun and Chen, Xieyuanli and Lang, Lin and Zhong, Zhengyu and Chen, Yanjie and Lu, Huimin},
+      journal={IEEE Transactions on Industrial Electronics}, 
+      title={Dynamic Gaits Locomotion for Quadrupedal Robots With Gait Phase Decomposition}, 
+      year={2025},
+      volume={},
+      number={},
+      pages={1-12},
+      keywords={Robots;Quadrupedal robots;Dynamics;Legged locomotion;Oscillators;Adaptation models;Robot kinematics;Reinforcement learning;Optimal control;Schedules;Force control;legged locomotion;model predictive control;optimization and optimal control},
+      doi={10.1109/TIE.2025.3613651}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://www.researchgate.net/profile/Huimin-Lu-3/publication/396839561_Dynamic_Gaits_Locomotion_for_Quadrupedal_Robots_With_Gait_Phase_Decomposition/links/68fdcce402d6215259bee27b/Dynamic-Gaits-Locomotion-for-Quadrupedal-Robots-With-Gait-Phase-Decomposition.pdf" class="pub-link">[PDF]</a>
+   </div>
+   
+  *IEEE Transactions on Industrial Electronics (**T-IE**)*
+  
+  Daoxun Zhang, **<u>Xieyuanli Chen</u>**, Lin Lang, Zhengyu Zhong, Yanjie Chen, Huimin Lu
+  
+- [SeqLGPR: A Sequential Subsurface Feature-based Framework for Vehicle Place Recognition](https://ieeexplore.ieee.org/abstract/document/11214703) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{11126435,
+    author={Zhang, Pengyu and Zhi, Shuaifeng and Chen, Xieyuanli and Bi, Beizhen and Xu, Zhuo and Chen, Yuwei and Shen, Liang and Jin, Tian and Huang, Xiaotao},
+    journal={IEEE Transactions on Radar Systems}, 
+    title={SeqLGPR: A Sequential Subsurface Feature-Based Framework for Vehicle Place Recognition}, 
+    year={2025},
+    volume={3},
+    number={},
+    pages={1159-1169},
+    keywords={Location awareness;Feature extraction;Meteorology;Sensors;Correlation;Costs;Robustness;Pipelines;Accuracy;Trajectory;Localizing ground-penetrating radar (GPR);multiweather localization;sequence matching},
+    doi={10.1109/TRS.2025.3599141}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/abstract/document/11214703" class="pub-link">[PDF]</a>
+   </div>
+   
+  *IEEE Transactions on Industrial Electronics (**T-IE**)*
+  
+  Pengyu Zhang, Shuaifeng Zhi, **<u>Xieyuanli Chen</u>**, Beizhen Bi, Zhuo Xu, Yuwei Chen, Liang Shen, Tian Jin, Xiaotao Huang
+  
+ - [A glance over the past decade: road scene parsing towards safe and comfortable autonomous driving](https://link.springer.com/article/10.1007/s43684-025-00096-y) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code@article{fan2025glance,
+      title={A glance over the past decade: road scene parsing towards safe and comfortable autonomous driving},
+      author={Fan, Rui and Li, Jiahang and Li, Jiaqi and Wang, Jiale and Long, Ziwei and Jia, Ning and Liu, Yanan and Wang, Wenshuo and Bocus, Mohammud J and Vityazev, Sergey and others},
+      journal={Autonomous Intelligent Systems},
+      volume={5},
+      number={1},
+      pages={1--15},
+      year={2025},
+      publisher={Springer}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://link.springer.com/article/10.1007/s43684-025-00096-y" class="pub-link">[PDF]</a>
+   </div>
+   
+   *Autonomous Intelligent Systems*
+  
+   Rui Fan, Jiahang Li, Jiaqi Li, Jiale Wang, Ziwei Long, Ning Jia, Yanan Liu, Wenshuo Wang, Mohammud J Bocus, Sergey Vityazev, **<u>Xieyuanli Chen</u>**, Junhao Xiao, Stepan Andreev, Huimin Lu, Alexander Dvorkovich
+   
+ - [Selective Point Sampling for LiDAR-Inertial Odometry](https://ieeexplore.ieee.org/abstract/document/11206445) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{11206445,
+    author={Liu, Changxiang and Yu, Hongshan and Chen, Xieyuanli and Lu, Huimin and Wang, Jingchuan and Huang, Yi and Civera, Javier},
+    journal={IEEE Robotics and Automation Letters}, 
+    title={Selective Point Sampling for LiDAR-Inertial Odometry}, 
+    year={2025},
+    volume={10},
+    number={12},
+    pages={12875-12882},
+    keywords={Laser radar;Accuracy;Noise measurement;State estimation;Pipelines;Estimation;Odometry;Kalman filters;Current measurement;Technological innovation;Autonomous driving;simultaneous localization and mapping;odometry;state estimation},
+    doi={10.1109/LRA.2025.3623043}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/abstract/document/11206445" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Changxiang Liu, Hongshan Yu, **<u>Xieyuanli Chen</u>**, Huimin Lu, Jingchuan Wang, Yi Huang, Javier Civera
+   
  - [RID-Net: A Hybrid MLP-Transformer network for Robust Point Cloud Registration](https://ieeexplore.ieee.org/document/10910198) 
    <div class="pub-links">
    <details class="bibtex-details">
