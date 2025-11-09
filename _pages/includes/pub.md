@@ -79,30 +79,30 @@
   
   Lun Luo, Si-Yuan Cao, Xiaorui Li, Jintao Xu, Rui Ai, Zhu Yu, **<u>Xieyuanli Chen</u>**
 
- - [Stable grasp generation enabled by part segmentation for real-world robotic applications](https://www.sciencedirect.com/science/article/abs/pii/S0736584525002248)
-  <div class="pub-links">
-  <details class="bibtex-details">
-    <summary class="bibtex-button">[BibTeX]</summary>
-    <div class="bibtex-block">
-      <pre><code>@article{GUO2026103170,
-  title = {Stable grasp generation enabled by part segmentation for real-world robotic applications},
-  journal = {Robotics and Computer-Integrated Manufacturing},
-  volume = {98},
-  pages = {103170},
-  year = {2026},
-  issn = {0736-5845},
-  doi = {https://doi.org/10.1016/j.rcim.2025.103170},
-  url = {https://www.sciencedirect.com/science/article/pii/S0736584525002248},
-  author = {Zirui Guo and Xieyuanli Chen and Junkai Ren and Zhiqiang Zheng and Huimin Lu and Ruibin Guo}
-  }</code></pre>
-  </div>
-  </details>
-  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0736584525002248" class="pub-link">[PDF]</a>
-  </div>
-  
-  *Robotics and Computer-Integrated Manufacturing*
-  
-  Zirui Guo, **<u>Xieyuanli Chen</u>**, Junkai Ren, Zhiqiang Zheng, Huimin Lu, Ruibin Guo
+   - [Stable grasp generation enabled by part segmentation for real-world robotic applications](https://www.sciencedirect.com/science/article/abs/pii/S0736584525002248)
+    <div class="pub-links">
+    <details class="bibtex-details">
+      <summary class="bibtex-button">[BibTeX]</summary>
+      <div class="bibtex-block">
+        <pre><code>@article{GUO2026103170,
+    title = {Stable grasp generation enabled by part segmentation for real-world robotic applications},
+    journal = {Robotics and Computer-Integrated Manufacturing},
+    volume = {98},
+    pages = {103170},
+    year = {2026},
+    issn = {0736-5845},
+    doi = {https://doi.org/10.1016/j.rcim.2025.103170},
+    url = {https://www.sciencedirect.com/science/article/pii/S0736584525002248},
+    author = {Zirui Guo and Xieyuanli Chen and Junkai Ren and Zhiqiang Zheng and Huimin Lu and Ruibin Guo}
+    }</code></pre>
+    </div>
+    </details>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0736584525002248" class="pub-link">[PDF]</a>
+    </div>
+    
+    *Robotics and Computer-Integrated Manufacturing*
+    
+    Zirui Guo, **<u>Xieyuanli Chen</u>**, Junkai Ren, Zhiqiang Zheng, Huimin Lu, Ruibin Guo
   
  - [SegNet4D: Efficient Instance-Aware 4D Semantic Segmentation for LiDAR Point Cloud](https://ieeexplore.ieee.org/abstract/document/10993479/) 
    <div class="pub-links">
