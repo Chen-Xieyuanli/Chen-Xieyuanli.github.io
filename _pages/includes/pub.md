@@ -79,7 +79,7 @@
   
   Lun Luo, Si-Yuan Cao, Xiaorui Li, Jintao Xu, Rui Ai, Zhu Yu, **<u>Xieyuanli Chen</u>**
 
-   - [Stable grasp generation enabled by part segmentation for real-world robotic applications](https://www.sciencedirect.com/science/article/abs/pii/S0736584525002248)
+- [Stable grasp generation enabled by part segmentation for real-world robotic applications](https://www.sciencedirect.com/science/article/abs/pii/S0736584525002248)
     <div class="pub-links">
     <details class="bibtex-details">
       <summary class="bibtex-button">[BibTeX]</summary>
@@ -286,6 +286,46 @@
   *IEEE Transactions on Industrial Electronics (**T-IE**)*
   
   Pengyu Zhang, Shuaifeng Zhi, **<u>Xieyuanli Chen</u>**, Beizhen Bi, Zhuo Xu, Yuwei Chen, Liang Shen, Tian Jin, Xiaotao Huang
+
+- [A Cable-driven Amphibious Hip Powered Exoskeleton for Human Lower Limb Augment](https://www.techrxiv.org/doi/full/10.36227/techrxiv.175382749.94442406) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{chen2025cable,
+      title={A Cable-driven Amphibious Hip Powered Exoskeleton for Human Lower Limb Augment},
+      author={Chen, Longwen and Chen, Xieyuanli and Xu, Junpeng and Cui, Fangge and Gui, Ke and Cheng, Chuang and Lu, Huimin},
+      journal={Authorea Preprints},
+      publisher={Authorea}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.175382749.94442406" class="pub-link">[PDF]</a>
+   </div>
+   
+  *IEEE/ASME Transactions on Mechatronics (**T-Mech**)*
+  
+  Longwen Chen, **<u>Xieyuanli Chen</u>**, Junpeng Xu, Fangge Cui, Ke Gui, Chuang Cheng, Huimin Lu
+
+- [Hip Trajectory Prediction for an Amphibious Hip Power-Assisting Exoskeleton Utilizing a Physics-Informed Neural Network](https://d197for5662m48.cloudfront.net/documents/publicationstatus/270022/preprint_pdf/5ccd92b0707430e604826a0bb2463c1f.pdf) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{chen2025hip,
+      title={Hip Trajectory Prediction for an Amphibious Hip Power-Assisting Exoskeleton Utilizing a Physics-Informed Neural Network},
+      author={Chen, Longwen and Chen, Xieyuanli and Xu, Junpeng and Cui, Fangge and Cheng, Chuang and Lu, Huimin},
+      journal={Authorea Preprints},
+      publisher={Authorea}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://d197for5662m48.cloudfront.net/documents/publicationstatus/270022/preprint_pdf/5ccd92b0707430e604826a0bb2463c1f.pdf" class="pub-link">[PDF]</a>
+   </div>
+   
+  *IEEE Transactions on Industrial Electronics (**T-IE**)*
+  
+  Longwen Chen, **<u>Xieyuanli Chen</u>**, Junpeng Xu, Fangge Cui, Chuang Cheng, Huimin Lu
   
  - [A glance over the past decade: road scene parsing towards safe and comfortable autonomous driving](https://link.springer.com/article/10.1007/s43684-025-00096-y) 
    <div class="pub-links">
