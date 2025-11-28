@@ -286,46 +286,6 @@
   *IEEE Transactions on Industrial Electronics (**T-IE**)*
   
   Pengyu Zhang, Shuaifeng Zhi, **<u>Xieyuanli Chen</u>**, Beizhen Bi, Zhuo Xu, Yuwei Chen, Liang Shen, Tian Jin, Xiaotao Huang
-
-- [A Cable-driven Amphibious Hip Powered Exoskeleton for Human Lower Limb Augment](https://www.techrxiv.org/doi/full/10.36227/techrxiv.175382749.94442406) 
-   <div class="pub-links">
-   <details class="bibtex-details">
-     <summary class="bibtex-button">[BibTeX]</summary>
-     <div class="bibtex-block">
-       <pre><code>@article{chen2025cable,
-      title={A Cable-driven Amphibious Hip Powered Exoskeleton for Human Lower Limb Augment},
-      author={Chen, Longwen and Chen, Xieyuanli and Xu, Junpeng and Cui, Fangge and Gui, Ke and Cheng, Chuang and Lu, Huimin},
-      journal={Authorea Preprints},
-      publisher={Authorea}
-    }</code></pre>
-   </div>
-   </details>
-   <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.175382749.94442406" class="pub-link">[PDF]</a>
-   </div>
-   
-  *IEEE/ASME Transactions on Mechatronics (**T-Mech**)*
-  
-  Longwen Chen, **<u>Xieyuanli Chen</u>**, Junpeng Xu, Fangge Cui, Ke Gui, Chuang Cheng, Huimin Lu
-
-- [Hip Trajectory Prediction for an Amphibious Hip Power-Assisting Exoskeleton Utilizing a Physics-Informed Neural Network](https://d197for5662m48.cloudfront.net/documents/publicationstatus/270022/preprint_pdf/5ccd92b0707430e604826a0bb2463c1f.pdf) 
-   <div class="pub-links">
-   <details class="bibtex-details">
-     <summary class="bibtex-button">[BibTeX]</summary>
-     <div class="bibtex-block">
-       <pre><code>@article{chen2025hip,
-      title={Hip Trajectory Prediction for an Amphibious Hip Power-Assisting Exoskeleton Utilizing a Physics-Informed Neural Network},
-      author={Chen, Longwen and Chen, Xieyuanli and Xu, Junpeng and Cui, Fangge and Cheng, Chuang and Lu, Huimin},
-      journal={Authorea Preprints},
-      publisher={Authorea}
-    }</code></pre>
-   </div>
-   </details>
-   <a href="https://d197for5662m48.cloudfront.net/documents/publicationstatus/270022/preprint_pdf/5ccd92b0707430e604826a0bb2463c1f.pdf" class="pub-link">[PDF]</a>
-   </div>
-   
-  *IEEE Transactions on Industrial Electronics (**T-IE**)*
-  
-  Longwen Chen, **<u>Xieyuanli Chen</u>**, Junpeng Xu, Fangge Cui, Chuang Cheng, Huimin Lu
   
  - [A glance over the past decade: road scene parsing towards safe and comfortable autonomous driving](https://link.springer.com/article/10.1007/s43684-025-00096-y) 
    <div class="pub-links">
@@ -643,7 +603,7 @@
        <pre><code>@inproceedings{luan2025rlcnet,
      title={RLCNet: A Novel Deep Feature-Matching-Based Method for Online Target-Free Radar-LiDAR Calibration},
      author={Luan, Kai and Shi, Chenghao and Chen, Xieyuanli and Fan, Rui and Zheng, Zhiqiang and Lu, Huimin},
-     booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)},
+     booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
      pages={3146--3152},
      year={2025},
      organization={IEEE}
@@ -668,7 +628,7 @@
        <pre><code>@inproceedings{jiao2025inscmpr,
       title={InsCMPR: Efficient Cross-Modal Place Recognition via Instance-Aware Hybrid Mamba-Transformer},
       author={Jiao, Shuaifeng and Su, Zhuoqun and Luo, Lun and Yu, Hongshan and Zhou, Zongtan and Lu, Huimin and Chen, Xieyuanli},
-      booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)},
+      booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
       pages={2212--2218},
       year={2025},
       organization={IEEE}
@@ -1362,7 +1322,7 @@
        <pre><code>@inproceedings{shen2024tscm,
       title={TSCM: A teacher-student model for vision place recognition using cross-metric knowledge distillation},
       author={Shen, Yehui and Liu, Mingmin and Lu, Huimin and Chen, Xieyuanli},
-      booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)},
+      booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
       pages={1789--1795},
       year={2024},
       organization={IEEE}
@@ -1387,7 +1347,7 @@
        <pre><code>@inproceedings{dong2024superfusion,
       title={Superfusion: Multilevel lidar-camera fusion for long-range hd map generation},
       author={Dong, Hao and Gu, Weihao and Zhang, Xianjing and Xu, Jintao and Ai, Rui and Lu, Huimin and Kannala, Juho and Chen, Xieyuanli},
-      booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)},
+      booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
       pages={9056--9062},
       year={2024},
       organization={IEEE}
@@ -1413,7 +1373,7 @@
        <pre><code>@inproceedings{luan2024diffusion,
       title={Diffusion-based point cloud super-resolution for mmwave radar data},
       author={Luan, Kai and Shi, Chenghao and Wang, Neng and Cheng, Yuwei and Lu, Huimin and Chen, Xieyuanli},
-      booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)},
+      booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
       pages={11171--11177},
       year={2024},
       organization={IEEE}
@@ -1433,7 +1393,7 @@
        <pre><code>@inproceedings{wang2024voom,
       title={Voom: Robust visual object odometry and mapping using hierarchical landmarks},
       author={Wang, Yutong and Jiang, Chaoyang and Chen, Xieyuanli},
-      booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)},
+      booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
       pages={10298--10304},
       year={2024},
       organization={IEEE}
@@ -1458,7 +1418,7 @@
        <pre><code>@inproceedings{xie2024modalink,
       title={ModaLink: Unifying modalities for efficient image-to-PointCloud place recognition},
       author={Xie, Weidong and Luo, Lun and Ye, Nanfei and Ren, Yi and Du, Shaoyi and Wang, Minhang and Xu, Jintao and Ai, Rui and Gu, Weihao and Chen, Xieyuanli},
-      booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+      booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
       pages={3326--3333},
       year={2024},
       organization={IEEE}
@@ -1483,7 +1443,7 @@
        <pre><code>@inproceedings{tan2024td,
       title={Td-nerf: Novel truncated depth prior for joint camera pose and neural radiance field optimization},
       author={Tan, Zhen and Zhou, Zongtan and Ge, Yangbing and Wang, Zi and Chen, Xieyuanli and Hu, Dewen},
-      booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+      booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
       pages={372--379},
       year={2024},
       organization={IEEE}
@@ -1508,7 +1468,7 @@
        <pre><code>@inproceedings{xu2024explicit,
       title={Explicit interaction for fusion-based place recognition},
       author={Xu, Jingyi and Ma, Junyi and Wu, Qi and Zhou, Zijie and Wang, Yue and Chen, Xieyuanli and Yu, Wenxian and Pei, Ling},
-      booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+      booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
       pages={3318--3325},
       year={2024},
       organization={IEEE}
@@ -1986,7 +1946,7 @@
        <pre><code>@inproceedings{liu2023hybrid,
       title={Hybrid map-based path planning for robot navigation in unstructured environments},
       author={Liu, Jiayang and Chen, Xieyuanli and Xiao, Junhao and Lin, Sichao and Zheng, Zhiqiang and Lu, Huimin},
-      booktitle={2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+      booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
       pages={2216--2223},
       year={2023},
       organization={IEEE}
@@ -2011,7 +1971,7 @@
        <pre><code>@inproceedings{deng2023elc,
       title={Elc-ois: Ellipsoidal clustering for open-world instance segmentation on lidar data},
       author={Deng, Wenbang and Huang, Kaihong and Yu, Qinghua and Lu, Huimin and Zheng, Zhiqiang and Chen, Xieyuanli},
-      booktitle={2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+      booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
       pages={7606--7613},
       year={2023},
       organization={IEEE}
@@ -2036,7 +1996,7 @@
        <pre><code>@inproceedings{wang2023insmos,
       title={Insmos: Instance-aware moving object segmentation in lidar data},
       author={Wang, Neng and Shi, Chenghao and Guo, Ruibin and Lu, Huimin and Zheng, Zhiqiang and Chen, Xieyuanli},
-      booktitle={2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+      booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
       pages={7598--7605},
       year={2023},
       organization={IEEE}
@@ -2061,7 +2021,7 @@
        <pre><code>@inproceedings{jin2023neu,
       title={Neu-nbv: Next best view planning using uncertainty estimation in image-based neural rendering},
       author={Jin, Liren and Chen, Xieyuanli and R{\"u}ckin, Julius and Popovi{\'c}, Marija},
-      booktitle={2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+      booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
       pages={11305--11312},
       year={2023},
       organization={IEEE}
@@ -2086,7 +2046,7 @@
        <pre><code>@inproceedings{yuan2023kernel,
       title={Kernel-Based Attention Network for Point Cloud Compression},
       author={Yuan, Yang and Chen, Xieyuanli and Shi, Chenghao and Lv, Yunxiao and Lu, Huimin and Xiao, Junhao},
-      booktitle={2023 IEEE International Conference on Robotics and Biomimetics (ROBIO)},
+      booktitle={IEEE International Conference on Robotics and Biomimetics (ROBIO)},
       pages={1--7},
       year={2023},
       organization={IEEE}
@@ -2395,7 +2355,7 @@
        <pre><code>@inproceedings{sun2022ick,
       title={Ick-track: A category-level 6-dof pose tracker using inter-frame consistent keypoints for aerial manipulation},
       author={Sun, Jingtao and Wang, Yaonan and Feng, Mingtao and Wang, Danwei and Zhao, Jiawen and Stachniss, Cyrill and Chen, Xieyuanli},
-      booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+      booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
       pages={1556--1563},
       year={2022},
       organization={IEEE}
@@ -2420,7 +2380,7 @@
        <pre><code>@inproceedings{sun2022efficient,
       title={Efficient spatial-temporal information fusion for lidar-based 3d moving object segmentation},
       author={Sun, Jiadai and Dai, Yuchao and Zhang, Xianjing and Xu, Jintao and Ai, Rui and Gu, Weihao and Chen, Xieyuanli},
-      booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+      booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
       pages={11456--11463},
       year={2022},
       organization={IEEE}
@@ -2597,7 +2557,7 @@
        <pre><code>@inproceedings{chen2021range,
       title={Range image-based LiDAR localization for autonomous vehicles},
       author={Chen, Xieyuanli and Vizzo, Ignacio and L{\"a}be, Thomas and Behley, Jens and Stachniss, Cyrill},
-      booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+      booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
       pages={5802--5808},
       year={2021},
       organization={IEEE}
@@ -2622,7 +2582,7 @@
        <pre><code>@inproceedings{vizzo2021poisson,
       title={Poisson surface reconstruction for LiDAR odometry and mapping},
       author={Vizzo, Ignacio and Chen, Xieyuanli and Chebrolu, Nived and Behley, Jens and Stachniss, Cyrill},
-      booktitle={2021 IEEE international conference on robotics and automation (ICRA)},
+      booktitle={IEEE international conference on robotics and automation (ICRA)},
       pages={5624--5630},
       year={2021},
       organization={IEEE}
@@ -2647,7 +2607,7 @@
        <pre><code>@inproceedings{reinke2021simple,
       title={Simple but effective redundant odometry for autonomous vehicles},
       author={Reinke, Andrzej and Chen, Xieyuanli and Stachniss, Cyrill},
-      booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+      booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
       pages={9631--9637},
       year={2021},
       organization={IEEE}
@@ -2672,7 +2632,7 @@
        <pre><code>@inproceedings{zhou2021efficient,
       title={Efficient localisation using images and OpenStreetMaps},
       author={Zhou, Mengjie and Chen, Xieyuanli and Samano, Noe and Stachniss, Cyrill and Calway, Andrew},
-      booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+      booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
       pages={5507--5513},
       year={2021},
       organization={IEEE}
@@ -2769,7 +2729,7 @@
        <pre><code>@inproceedings{chen2020learning,
       title={Learning an overlap-based observation model for 3D LiDAR localization},
       author={Chen, Xieyuanli and L{\"a}be, Thomas and Nardi, Lorenzo and Behley, Jens and Stachniss, Cyrill},
-      booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+      booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
       pages={4602--4608},
       year={2020},
       organization={IEEE}
@@ -2818,7 +2778,7 @@
        <pre><code>@inproceedings{chen2019suma++,
       title={Suma++: Efficient lidar-based semantic slam},
       author={Chen, Xieyuanli and Milioto, Andres and Palazzolo, Emanuele and Giguere, Philippe and Behley, Jens and Stachniss, Cyrill},
-      booktitle={2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+      booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
       pages={4530--4537},
       year={2019},
       organization={IEEE}
