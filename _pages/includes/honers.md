@@ -3,6 +3,10 @@
 
 # 🎖 Honors and Awards
 - <p style="margin: 0; line-height: 1.2;">
+  2025<strong> Differential Robotics Pioneers </strong> <br>
+  <span style="font-size: 90%;">Differential Robotics</span>
+  </p>
+- <p style="margin: 0; line-height: 1.2;">
   2025<strong> Outstanding Associate Editor </strong> <br>
   <span style="font-size: 90%;">RA-L, IEEE Robotics and Automation Society</span>
   </p>
