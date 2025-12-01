@@ -3,7 +3,7 @@
 
 # 🎖 Honors and Awards
 - <p style="margin: 0; line-height: 1.2;">
-  2025<strong> Differential Robotics Pioneers [微分智飞领航学者](http://www.differentialrobotics.com/) </strong> <br>
+  2025<strong> Differential Robotics Pioneers 微分智飞领航学者[website](http://www.differentialrobotics.com/) </strong> <br>
   <span style="font-size: 90%;">Differential Robotics</span>
   </p>
 - <p style="margin: 0; line-height: 1.2;">
