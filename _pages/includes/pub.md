@@ -2,6 +2,32 @@
 
 # 📝 Publications
 ##  2025
+- [MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos](https://irmvlab.github.io/madiff.github.io/) 
+  <div class="pub-links">
+  <details class="bibtex-details">
+    <summary class="bibtex-button">[BibTeX]</summary>
+    <div class="bibtex-block">
+      <pre><code>@misc{ma2024madiff,
+      title={MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos}, 
+      author={Junyi Ma and Xieyuanli Chen and Wentao Bao and Jingyi Xu and Hesheng Wang},
+      year={2024},
+      eprint={2409.02638},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2409.02638}, 
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://arxiv.org/pdf/2409.02638" class="pub-link">[PDF]</a>
+  <a href="https://github.com/IRMVLab/MADiff">
+    <img src="https://img.shields.io/github/stars/IRMVLab/MADiff?style=social&label=Code+Stars" alt="GitHub stars">
+  </a>
+  </div>
+  
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**)*
+   
+   Junyi Ma, **<u>Xieyuanli Chen</u>**, Wentao Bao, Jingyi Xu, Hesheng Wang
+  
 - [Grasp Like Humans: Learning Generalizable Multi-Fingered Grasping from Human Proprioceptive Sensorimotor Integration](https://ieeexplore.ieee.org/document/11176430)
   <div class="pub-links">
   <details class="bibtex-details">
