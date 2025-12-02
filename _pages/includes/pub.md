@@ -288,7 +288,7 @@
   
   Daoxun Zhang, **<u>Xieyuanli Chen</u>**, Lin Lang, Zhengyu Zhong, Yanjie Chen, Huimin Lu
   
-- [SeqLGPR: A Sequential Subsurface Feature-based Framework for Vehicle Place Recognition](https://ieeexplore.ieee.org/abstract/document/11214703) 
+- [SeqLGPR: A Sequential Subsurface Feature-based Framework for Vehicle Place Recognition](https://ieeexplore.ieee.org/document/11126435) 
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -306,7 +306,7 @@
    }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/abstract/document/11214703" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/document/11126435" class="pub-link">[PDF]</a>
    </div>
    
   *IEEE Transactions on Industrial Electronics (**T-IE**)*
