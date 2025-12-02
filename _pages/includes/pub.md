@@ -312,30 +312,6 @@
   *IEEE Transactions on Industrial Electronics (**T-IE**)*
   
   Pengyu Zhang, Shuaifeng Zhi, **<u>Xieyuanli Chen</u>**, Beizhen Bi, Zhuo Xu, Yuwei Chen, Liang Shen, Tian Jin, Xiaotao Huang
-  
- - [A glance over the past decade: road scene parsing towards safe and comfortable autonomous driving](https://link.springer.com/article/10.1007/s43684-025-00096-y) 
-   <div class="pub-links">
-   <details class="bibtex-details">
-     <summary class="bibtex-button">[BibTeX]</summary>
-     <div class="bibtex-block">
-       <pre><code@article{fan2025glance,
-      title={A glance over the past decade: road scene parsing towards safe and comfortable autonomous driving},
-      author={Fan, Rui and Li, Jiahang and Li, Jiaqi and Wang, Jiale and Long, Ziwei and Jia, Ning and Liu, Yanan and Wang, Wenshuo and Bocus, Mohammud J and Vityazev, Sergey and others},
-      journal={Autonomous Intelligent Systems},
-      volume={5},
-      number={1},
-      pages={1--15},
-      year={2025},
-      publisher={Springer}
-    }</code></pre>
-   </div>
-   </details>
-   <a href="https://link.springer.com/article/10.1007/s43684-025-00096-y" class="pub-link">[PDF]</a>
-   </div>
-   
-   *Autonomous Intelligent Systems*
-  
-   Rui Fan, Jiahang Li, Jiaqi Li, Jiale Wang, Ziwei Long, Ning Jia, Yanan Liu, Wenshuo Wang, Mohammud J Bocus, Sergey Vityazev, **<u>Xieyuanli Chen</u>**, Junhao Xiao, Stepan Andreev, Huimin Lu, Alexander Dvorkovich
    
  - [Selective Point Sampling for LiDAR-Inertial Odometry](https://ieeexplore.ieee.org/abstract/document/11206445) 
    <div class="pub-links">
@@ -551,7 +527,7 @@
   
    Rui Fan, Jiahang Li, Jiaqi Li, Jiale Wang, Ziwei Long, Ning Jia, Yanan Liu, Wenshuo Wang, Mohammud J Bocus, Sergey Vityazev, <br />**<u>Xieyuanli Chen</u>**, Junhao Xiao, Stepan Andreev, Huimin Lu, Alexander Dvorkovich
 
-- [Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Spatiotemporal_Decoupling_for_Efficient_Vision-Based_Occupancy_Forecasting_CVPR_2025_paper.html) 
+- [Spatio temporal Decoupling for Efficient Vision-Based Occupancy Forecasting](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Spatiotemporal_Decoupling_for_Efficient_Vision-Based_Occupancy_Forecasting_CVPR_2025_paper.html) 
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
