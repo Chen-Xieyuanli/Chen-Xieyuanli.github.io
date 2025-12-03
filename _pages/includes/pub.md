@@ -765,7 +765,7 @@
    </details>
    <a href="https://arxiv.org/pdf/2503.11372" class="pub-link">[PDF]</a>
    <a href="https://github.com/nubot-nudt/BEVDiffLoc">
-     <img src="https://img.shields.io/github/stars/nubot-nudt/BEVDiffLocR?style=social&label=Code+Stars" alt="GitHub stars">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/BEVDiffLoc?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div>
    
