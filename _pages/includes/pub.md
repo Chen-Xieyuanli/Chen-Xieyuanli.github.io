@@ -2,19 +2,16 @@
 
 # 📝 Publications
 ##  2025
-- [MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos](https://irmvlab.github.io/madiff.github.io/) 
+- [MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos](https://www.computer.org/csdl/journal/tp/5555/01/11250770/2bIOy8s3mXS) 
   <div class="pub-links">
   <details class="bibtex-details">
     <summary class="bibtex-button">[BibTeX]</summary>
     <div class="bibtex-block">
-      <pre><code>@misc{ma2024madiff,
+      <pre><code>@article{ma2024tpami,
       title={MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos}, 
       author={Junyi Ma and Xieyuanli Chen and Wentao Bao and Jingyi Xu and Hesheng Wang},
-      year={2024},
-      eprint={2409.02638},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2409.02638}, 
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)},
+      year={2025}
   }</code></pre>
   </div>
   </details>
@@ -24,7 +21,7 @@
   </a>
   </div>
   
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**)*
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence **(T-PAMI)***
    
    Junyi Ma, **<u>Xieyuanli Chen</u>**, Wentao Bao, Jingyi Xu, Hesheng Wang
   
@@ -33,12 +30,11 @@
   <details class="bibtex-details">
     <summary class="bibtex-button">[BibTeX]</summary>
     <div class="bibtex-block">
-      <pre><code>@article{guo2025grasp,
+      <pre><code>@article{guo2025tro,
    title={Grasp like humans: Learning generalizable multi-fingered grasping from human proprioceptive sensorimotor integration},
    author={Guo, Ce and Chen, Xieyuanli and Zeng, Zhiwen and Guo, Zirui and Li, Yihong and Xiao, Haoran and Hu, Dewen and Lu, Huimin},
-   journal={IEEE Transactions on Robotics},
+   journal={IEEE Transactions on Robotics (T-RO)},
    year={2025},
-   publisher={IEEE}
    }</code></pre>
   </div>
   </details>
@@ -47,7 +43,7 @@
   </a>
   </div>
   
-  *IEEE Transactions on Robotics (**T-RO**)*
+  *IEEE Transactions on Robotics **(T-RO)***
   
   Ce Guo, **<u>Xieyuanli Chen</u>**, Zhiwen Zeng, Zirui Guo, Yihong Li, Haoran Xiao, Dewen Hu, Huimin Lu
   
@@ -56,14 +52,11 @@
   <details class="bibtex-details">
     <summary class="bibtex-button">[BibTeX]</summary>
     <div class="bibtex-block">
-      <pre><code>@ARTICLE{10891747,
-   author={Lu, Sha and Xu, Xuecheng and Zhang, Dongkun and Wu, Yuxuan and Lu, Haojian and Chen, Xieyuanli and Xiong, Rong and Wang, Yue},
-   journal={IEEE Transactions on Robotics}, 
+      <pre><code>@ARTICLE{lu2025tro,
    title={RING#: PR-By-PE Global Localization With Roto-Translation Equivariant Gram Learning},
-   year={2025},
-   volume={41},
-   pages={1861-1881},
-   doi={10.1109/TRO.2025.3543267}
+   author={Lu, Sha and Xu, Xuecheng and Zhang, Dongkun and Wu, Yuxuan and Lu, Haojian and Chen, Xieyuanli and Xiong, Rong and Wang, Yue},
+   journal={IEEE Transactions on Robotics (T-RO)}, 
+   year={2025}
    }</code></pre>
   </div>
   </details>
@@ -73,7 +66,7 @@
   </a>
   </div>
   
-  *IEEE Transactions on Robotics (**T-RO**)*
+  *IEEE Transactions on Robotics **(T-RO)***
    
    Sha Lu, Xuecheng Xu, Yuxuan Wu, Haojian Lu, **<u>Xieyuanli Chen</u>**, Rong Xiong, Yue Wang
 
@@ -82,16 +75,11 @@
   <details class="bibtex-details">
     <summary class="bibtex-button">[BibTeX]</summary>
     <div class="bibtex-block">
-      <pre><code>@ARTICLE{11063461,
+      <pre><code>@ARTICLE{luo2025tro,
+  title={BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Autonomous Ground Vehicles},
   author={Luo, Lun and Cao, Si-Yuan and Li, Xiaorui and Xu, Jintao and Ai, Rui and Yu, Zhu and Chen, Xieyuanli},
-  journal={IEEE Transactions on Robotics}, 
-  title={BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Autonomous Ground Vehicles}, 
-  year={2025},
-  volume={41},
-  number={},
-  pages={4479-4498},
-  keywords={Location awareness;Laser radar;Feature extraction;Point cloud compression;Pose estimation;Accuracy;Image recognition;Three-dimensional displays;Simultaneous localization and mapping;Training;3-      degrees of freedom (DoF) pose estimation;global localization;light detection and ranging (LiDAR);loop closing;place recognition},
-  doi={10.1109/TRO.2025.3585385}
+  journal={IEEE Transactions on Robotics (T-RO)},  
+  year={2025}
   }</code></pre>
   </div>
   </details>
@@ -101,7 +89,7 @@
   </a>
   </div>
   
-  *IEEE Transactions on Robotics (**T-RO**)*
+  *IEEE Transactions on Robotics **(T-RO)***
   
   Lun Luo, Si-Yuan Cao, Xiaorui Li, Jintao Xu, Rui Ai, Zhu Yu, **<u>Xieyuanli Chen</u>**
 
@@ -110,16 +98,11 @@
     <details class="bibtex-details">
       <summary class="bibtex-button">[BibTeX]</summary>
       <div class="bibtex-block">
-        <pre><code>@article{GUO2026103170,
+        <pre><code>@article{guo2025rcim,
     title = {Stable grasp generation enabled by part segmentation for real-world robotic applications},
-    journal = {Robotics and Computer-Integrated Manufacturing},
-    volume = {98},
-    pages = {103170},
-    year = {2026},
-    issn = {0736-5845},
-    doi = {https://doi.org/10.1016/j.rcim.2025.103170},
-    url = {https://www.sciencedirect.com/science/article/pii/S0736584525002248},
     author = {Zirui Guo and Xieyuanli Chen and Junkai Ren and Zhiqiang Zheng and Huimin Lu and Ruibin Guo}
+    journal = {Robotics and Computer-Integrated Manufacturing},
+    year = {2026}
     }</code></pre>
     </div>
     </details>
@@ -135,10 +118,10 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{wang2024segnet4d,
+       <pre><code>@article{wang2024tase,
     title={SegNet4D: Efficient Instance-Aware 4D Semantic Segmentation for LiDAR Point Cloud},
     author={Wang, Neng and Guo, Ruibin and Shi, Chenghao and Wang, Ziyue and Zhang, Hui and Lu, Huimin and Zheng, Zhiqiang and Chen, Xieyuanli},
-    journal={arXiv preprint arXiv:2406.16279},
+    journal={IEEE Transactions on Automation Science and Engineering (T-ASE)},
     year={2024}
    }</code></pre>
    </div>
@@ -149,7 +132,7 @@
    </a>
    </div>
    
-   *IEEE Transactions on Automation Science and Engineering (**T-ASE**)*
+   *IEEE Transactions on Automation Science and Engineering **(T-ASE)***
 
    Neng Wang, Ruibin Guo, Chenghao Shi, Ziyue Wang, Hui Zhang, Huimin Lu, Zhiqiang Zheng, **<u>Xieyuanli Chen</u>**
 
@@ -158,19 +141,18 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{tang2025ticoss,
+       <pre><code>@article{tang2025tase,
     title={TiCoSS: Tightening the coupling between semantic segmentation and stereo matching within a joint learning framework},
     author={Tang, Guanfeng and Wu, Zhiyuan and Li, Jiahang and Zhong, Ping and Ye, Wei and Chen, Xieyuanli and Lu, Huimin and Fan, Rui},
-    journal={IEEE Transactions on Automation Science and Engineering},
-    year={2025},
-    publisher={IEEE}
+    journal={IEEE Transactions on Automation Science and Engineering (T-ASE)},
+    year={2025}
    }</code></pre>
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2407.18038" class="pub-link">[PDF]</a>
    </div>
    
-   *IEEE Transactions on Automation Science and Engineering (**T-ASE**)*
+   *IEEE Transactions on Automation Science and Engineering **(T-ASE)***
 
    Guanfeng Tang, Zhiyuan Wu, Jiahang Li, Ping Zhong, Wei Ye, **<u>Xieyuanli Chen</u>**, Huimin Lu, Rui Fan
    
@@ -179,12 +161,11 @@
   <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{huang2025robust,
+       <pre><code>@article{huang2025tii,
     title={Robust Visual Place Recognition Under Variational Views},
     author={Huang, Junlang and Lin, Defu and Du, Jie and Jiang, Xinyu and Chen, Chuangquan and Chen, Xieyuanli and Zhou, Yimin and Vong, Chi-Man},
-    journal={IEEE Transactions on Industrial Informatics},
-    year={2025},
-    publisher={IEEE}
+    journal={IEEE Transactions on Industrial Informatics (T-II)},
+    year={2025}
   }</code></pre>
   </div>
   </details>
@@ -200,12 +181,11 @@
   <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{pang2025dsbev,
+       <pre><code>@article{pang2025tii,
     title={DSBEV: Docking Space Segmentation for Autonomous Surface Vehicle in Bird's Eye View},
     author={Pang, Changsong and Zhang, Xiaomin and Chen, Xieyuanli and Xu, Hu and Yu, Yang and Cheng, Yuwei},
-    journal={IEEE Transactions on Industrial Informatics},
-    year={2025},
-    publisher={IEEE}
+    journal={IEEE Transactions on Industrial Informatics (T-II)},
+    year={2025}
   }</code></pre>
   </div>
   </details>
@@ -221,21 +201,18 @@
   <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{wu2025ua,
+       <pre><code>@article{wu2025tim,
     title={UA-LIO: An Uncertainty-Aware LiDAR-Inertial Odometry for Autonomous Driving in Urban Environments},
     author={Wu, Qi and Chen, Xieyuanli and Xu, Xiangyu and Zhong, Xinliang and Qu, Xingwei and Xia, Songpengcheng and Liu, Guoqing and Liu, Liu and Yu, Wenxian and Pei, Ling},
-    journal={IEEE Transactions on Instrumentation and Measurement},
-    volume={74},
-    pages={1--12},
-    year={2025},
-    publisher={IEEE}
+    journal={IEEE Transactions on Instrumentation and Measurement (T-IM)},
+    year={2025}
   }</code></pre>
   </div>
   </details>
   <a href="https://ieeexplore.ieee.org/abstract/document/10898027" class="pub-link">[PDF]</a>
   </div>
   
-  *IEEE Transactions on Instrumentation and Measurement (**T-IM**)*
+  *IEEE Transactions on Instrumentation and Measurement **(T-IM)***
   
   Qi Wu, **<u>Xieyuanli Chen</u>**, Xiangyu Xu, Xinliang Zhong, Xingwei Qu, Songpengcheng Xia, Guoqing Liu, Liu Liu, Wenxian Yu, Ling Pei
   
@@ -244,12 +221,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{jia2025trlo,
+       <pre><code>@article{jia2025tim,
     title={TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal},
     author={Jia, Yanpeng and Wang, Ting and Cao, Fengkui and Chen, Xieyuanli and Shao, Shiliang and Liu, Lianqing},
-    journal={IEEE Transactions on Instrumentation and Measurement},
-    year={2025},
-    publisher={IEEE}
+    journal={IEEE Transactions on Instrumentation and Measurement (T-IM)},
+    year={2025}
    }</code></pre>
    </div>
    </details>
@@ -259,7 +235,7 @@
    </a>
    </div>
    
-  *IEEE Transactions on Instrumentation and Measurement (**T-IM**)*
+  *IEEE Transactions on Instrumentation and Measurement **(T-IM)***
   
   Yanpeng Jia, Ting Wang, **<u>Xieyuanli Chen</u>**, Shiliang Shao
   
@@ -268,23 +244,18 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@ARTICLE{11214703,
-      author={Zhang, Daoxun and Chen, Xieyuanli and Lang, Lin and Zhong, Zhengyu and Chen, Yanjie and Lu, Huimin},
-      journal={IEEE Transactions on Industrial Electronics}, 
+       <pre><code>@ARTICLE{zhang2025tie,
       title={Dynamic Gaits Locomotion for Quadrupedal Robots With Gait Phase Decomposition}, 
-      year={2025},
-      volume={},
-      number={},
-      pages={1-12},
-      keywords={Robots;Quadrupedal robots;Dynamics;Legged locomotion;Oscillators;Adaptation models;Robot kinematics;Reinforcement learning;Optimal control;Schedules;Force control;legged locomotion;model predictive control;optimization and optimal control},
-      doi={10.1109/TIE.2025.3613651}
+      author={Zhang, Daoxun and Chen, Xieyuanli and Lang, Lin and Zhong, Zhengyu and Chen, Yanjie and Lu, Huimin},
+      journal={IEEE Transactions on Industrial Electronics (T-IE)}, 
+      year={2025}
    }</code></pre>
    </div>
    </details>
    <a href="https://www.researchgate.net/profile/Huimin-Lu-3/publication/396839561_Dynamic_Gaits_Locomotion_for_Quadrupedal_Robots_With_Gait_Phase_Decomposition/links/68fdcce402d6215259bee27b/Dynamic-Gaits-Locomotion-for-Quadrupedal-Robots-With-Gait-Phase-Decomposition.pdf" class="pub-link">[PDF]</a>
    </div>
    
-  *IEEE Transactions on Industrial Electronics (**T-IE**)*
+  *IEEE Transactions on Industrial Electronics **(T-IE)***
   
   Daoxun Zhang, **<u>Xieyuanli Chen</u>**, Lin Lang, Zhengyu Zhong, Yanjie Chen, Huimin Lu
   
@@ -293,23 +264,18 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@ARTICLE{11126435,
-    author={Zhang, Pengyu and Zhi, Shuaifeng and Chen, Xieyuanli and Bi, Beizhen and Xu, Zhuo and Chen, Yuwei and Shen, Liang and Jin, Tian and Huang, Xiaotao},
-    journal={IEEE Transactions on Radar Systems}, 
+       <pre><code>@ARTICLE{zhang2025trs,
     title={SeqLGPR: A Sequential Subsurface Feature-Based Framework for Vehicle Place Recognition}, 
-    year={2025},
-    volume={3},
-    number={},
-    pages={1159-1169},
-    keywords={Location awareness;Feature extraction;Meteorology;Sensors;Correlation;Costs;Robustness;Pipelines;Accuracy;Trajectory;Localizing ground-penetrating radar (GPR);multiweather localization;sequence matching},
-    doi={10.1109/TRS.2025.3599141}
+    author={Zhang, Pengyu and Zhi, Shuaifeng and Chen, Xieyuanli and Bi, Beizhen and Xu, Zhuo and Chen, Yuwei and Shen, Liang and Jin, Tian and Huang, Xiaotao},
+    journal={IEEE Transactions on Radar Systems (T-RS)},    
+    year={2025}
    }</code></pre>
    </div>
    </details>
    <a href="https://ieeexplore.ieee.org/document/11126435" class="pub-link">[PDF]</a>
    </div>
    
-  *IEEE Transactions on Industrial Electronics (**T-IE**)*
+  *IEEE Transactions on Radar Systems **(T-RS)***
   
   Pengyu Zhang, Shuaifeng Zhi, **<u>Xieyuanli Chen</u>**, Beizhen Bi, Zhuo Xu, Yuwei Chen, Liang Shen, Tian Jin, Xiaotao Huang
    
@@ -318,16 +284,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@ARTICLE{11206445,
-    author={Liu, Changxiang and Yu, Hongshan and Chen, Xieyuanli and Lu, Huimin and Wang, Jingchuan and Huang, Yi and Civera, Javier},
-    journal={IEEE Robotics and Automation Letters}, 
+       <pre><code>@ARTICLE{liu2025ral,
     title={Selective Point Sampling for LiDAR-Inertial Odometry}, 
-    year={2025},
-    volume={10},
-    number={12},
-    pages={12875-12882},
-    keywords={Laser radar;Accuracy;Noise measurement;State estimation;Pipelines;Estimation;Odometry;Kalman filters;Current measurement;Technological innovation;Autonomous driving;simultaneous localization and mapping;odometry;state estimation},
-    doi={10.1109/LRA.2025.3623043}
+    author={Liu, Changxiang and Yu, Hongshan and Chen, Xieyuanli and Lu, Huimin and Wang, Jingchuan and Huang, Yi and Civera, Javier},
+    journal={IEEE Robotics and Automation Letters (RA-L)}, 
+    year={2025}
    }</code></pre>
    </div>
    </details>
@@ -343,12 +304,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{cheng2025rid,
+       <pre><code>@article{cheng2025ral,
     title={RID-Net: A Hybrid MLP-Transformer Network for Robust Point Cloud Registration},
     author={Cheng, Panfei and Yu, Hongshan and Liu, Changxiang and Luo, Kan and Akhtar, Naveed and Chen, Xieyuanli},
-    journal={IEEE Robotics and Automation Letters},
-    year={2025},
-    publisher={IEEE}
+    journal={IEEE Robotics and Automation Letters (RA-L)},
+    year={2025}
    }</code></pre>
    </div>
    </details>
@@ -367,12 +327,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{wang2025sgt,
+       <pre><code>@article{wang2025ral,
     title={SGT-LLC: LiDAR Loop Closing Based on Semantic Graph with Triangular Spatial Topology},
     author={Wang, Shaocong and Cao, Fengkui and Wang, Ting and Chen, Xieyuanli and Shao, Shiliang},
-    journal={IEEE Robotics and Automation Letters},
-    year={2025},
-    publisher={IEEE}
+    journal={IEEE Robotics and Automation Letters (RA-L)},
+    year={2025}
    }</code></pre>
    </div>
    </details>
@@ -391,12 +350,11 @@
   <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{li2025neurove,
+       <pre><code>@article{li2025ral,
    title={Neurove: Brain-inspired linear-angular velocity estimation with spiking neural networks},
    author={Li, Xiao and Chen, Xieyuanli and Guo, Ruibin and Wu, Yujie and Zhou, Zongtan and Yu, Fangwen and Lu, Huimin},
-   journal={IEEE Robotics and Automation Letters},
-   year={2025},
-   publisher={IEEE}
+   journal={IEEE Robotics and Automation Letters (RA-L)},
+   year={2025}
   }</code></pre>
   </div>
   </details>
@@ -412,12 +370,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@@article{shen2025ugna,
+       <pre><code>@@article{shen2025ral,
      title={UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation},
      author={Shen, Yehui and Zhang, Lei and Li, Qingqiu and Zhao, Xiongwei and Wang, Yue and Lu, Huimin and Chen, Xieyuanli},
-     journal={IEEE Robotics and Automation Letters},
-     year={2025},
-     publisher={IEEE}
+     journal={IEEE Robotics and Automation Letters (RA-L)},
+     year={2025}
    }</code></pre>
    </div>
    </details>
@@ -436,12 +393,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{cao2025bev,
+       <pre><code>@article{cao2025ral,
      title={Bev-lslam: A novel and compact bev lidar slam for outdoor environment},
      author={Cao, Fengkui and Wang, Shaocong and Chen, Xieyuanli and Wang, Ting and Liu, Lianqing},
-     journal={IEEE Robotics and Automation Letters},
-     year={2025},
-     publisher={IEEE}
+     journal={IEEE Robotics and Automation Letters (RA-L)},
+     year={2025}
    }</code></pre>
    </div>
    </details>
@@ -460,12 +416,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{liu2025self,
+       <pre><code>@article{liu2025ral,
      title={Self-Supervised Diffusion-Based Scene Flow Estimation and Motion Segmentation with 4D Radar},
      author={Liu, Yufei and Chen, Xieyuanli and Wang, Neng and Andreev, Stepan and Dvorkovich, Alexander and Fan, Rui and Lu, Huimin},
-     journal={IEEE Robotics and Automation Letters},
-     year={2025},
-     publisher={IEEE}
+     journal={IEEE Robotics and Automation Letters (RA-L)},
+     year={2025}
    }</code></pre>
    </div>
    </details>
@@ -484,12 +439,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{luo2025overlapmamba,
+       <pre><code>@article{luo2025ral,
      title={Overlapmamba: A shift state space model for lidar-based place recognition},
      author={Luo, Jiehao and Cheng, Jintao and Xiang, Qiuchi and Wu, Jin and Fan, Rui and Chen, Xieyuanli and Tang, Xiaoyu},
-     journal={IEEE Robotics and Automation Letters},
-     year={2025},
-     publisher={IEEE}
+     journal={IEEE Robotics and Automation Letters (RA-L)},
+     year={2025}
    }</code></pre>
    </div>
    </details>
@@ -508,15 +462,11 @@
   <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{fan2025glance,
+       <pre><code>@article{fan2025ais,
     title={A glance over the past decade: road scene parsing towards safe and comfortable autonomous driving},
     author={Fan, Rui and Li, Jiahang and Li, Jiaqi and Wang, Jiale and Long, Ziwei and Jia, Ning and Liu, Yanan and Wang, Wenshuo and Bocus, Mohammud J and Vityazev, Sergey and others},
     journal={Autonomous Intelligent Systems},
-    volume={5},
-    number={1},
-    pages={1--15},
-    year={2025},
-    publisher={Springer}
+    year={2025}
   }</code></pre>
   </div>
   </details>
@@ -532,11 +482,10 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{xu2025spatiotemporal,
+       <pre><code>@inproceedings{xu2025scvpr,
      title={Spatiotemporal decoupling for efficient vision-based occupancy forecasting},
      author={Xu, Jingyi and Chen, Xieyuanli and Ma, Junyi and Huang, Jiawei and Xu, Jintao and Wang, Yue and Pei, Ling},
-     booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
-     pages={22338--22347},
+     booktitle={In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR)},
      year={2025}
    }</code></pre>
    </div>
@@ -556,13 +505,10 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{zhang2025edenet,
+       <pre><code>@inproceedings{zhang2025aaai,
      title={EDENet: Echo Direction Encoding Network for Place Recognition Based on Ground Penetrating Radar},
      author={Zhang, Pengyu and Chen, Xieyuanli and Chen, Yuwei and Bi, Beizhen and Xu, Zhuo and Jin, Tian and Huang, Xiaotao and Shen, Liang},
-     booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-     volume={39},
-     number={10},
-     pages={10067--10075},
+     booktitle={In Proc. of the Conference on Advancements of Artificial Intelligence (AAAI)},
      year={2025}
    }</code></pre>
    </div>
@@ -579,10 +525,10 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{deng2025novel,
+       <pre><code>@inproceedings{deng2025icra,
      title={A Novel Decomposed Feature-Oriented Framework for Open-Set Semantic Segmentation on LiDAR Data},
      author={Deng, Wenbang and Chen, Xieyuanli and Yu, Qinghua and He, Yunze and Xiao, Junhao and Lu, Huimin},
-     journal={arXiv preprint arXiv:2503.11097},
+     journal={In Proc. of the IEEE Intl. Conf. on Robotics & Automation (ICRA)},
      year={2025}
    }</code></pre>
    </div>
@@ -593,7 +539,7 @@
    </a>
    </div>
    
-  *In Proc. of the Conference on Advancements of Artificial Intelligence **(ICRA 2025)***
+  *In Proc. of the IEEE Intl. Conf. on Robotics & Automation **(ICRA 2025)***
 
   Wenbang Deng, **<u>Xieyuanli Chen</u>**, Qinghua Yu, Yunze He, Junhao Xiao, Huimin Lu
   
@@ -602,13 +548,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{luan2025rlcnet,
+       <pre><code>@inproceedings{luan2025icra,
      title={RLCNet: A Novel Deep Feature-Matching-Based Method for Online Target-Free Radar-LiDAR Calibration},
      author={Luan, Kai and Shi, Chenghao and Chen, Xieyuanli and Fan, Rui and Zheng, Zhiqiang and Lu, Huimin},
-     booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
-     pages={3146--3152},
-     year={2025},
-     organization={IEEE}
+     booktitle={In Proc. of the IEEE Intl. Conf. on Robotics & Automation (ICRA)},
+     year={2025
    }</code></pre>
    </div>
    </details>
@@ -627,13 +571,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{jiao2025inscmpr,
+       <pre><code>@inproceedings{jiao2025icra,
       title={InsCMPR: Efficient Cross-Modal Place Recognition via Instance-Aware Hybrid Mamba-Transformer},
       author={Jiao, Shuaifeng and Su, Zhuoqun and Luo, Lun and Yu, Hongshan and Zhou, Zongtan and Lu, Huimin and Chen, Xieyuanli},
-      booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
-      pages={2212--2218},
-      year={2025},
-      organization={IEEE}
+      booktitle={In Proc. of the IEEE Intl. Conf. on Robotics & Automation (ICRA)},
+      year={2025}
    }</code></pre>
    </div>
    </details>
@@ -652,10 +594,10 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{jiao2025luseg,
+       <pre><code>@inproceedings{jiao2025iros,
       title={LuSeg: Efficient Negative and Positive Obstacles Segmentation via Contrast-Driven Multi-Modal Feature Fusion on the Lunar},
       author={Jiao, Shuaifeng and Zeng, Zhiwen and Su, Zhuoqun and Chen, Xieyuanli and Zhou, Zongtan and Lu, Huimin},
-      journal={arXiv preprint arXiv:2503.11409},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS),
       year={2025}
     }</code></pre>
    </div>
@@ -675,10 +617,10 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{wang2025leveraging,
+       <pre><code>@inproceedings{wang2025iros,
       title={Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM},
       author={Wang, Neng and Lu, Huimin and Zheng, Zhiqiang and Wang, Hesheng and Liu, Yun-Hui and Chen, Xieyuanli},
-      journal={arXiv preprint arXiv:2503.11145},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS),
       year={2025}
     }</code></pre>
    </div>
@@ -698,10 +640,10 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{feng2025image,
+       <pre><code>@inproceedings{feng2025iros,
       title={Image-Goal Navigation Using Refined Feature Guidance and Scene Graph Enhancement},
       author={Feng, Zhicheng and Chen, Xieyuanli and Shi, Chenghao and Luo, Lun and Chen, Zhichao and Liu, Yun-Hui and Lu, Huimin},
-      journal={arXiv preprint arXiv:2503.10986},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS),
       year={2025}
     }</code></pre>
    </div>
@@ -716,7 +658,24 @@
 
    Zhicheng Feng, **<u>Xieyuanli Chen</u>**, Chenghao Shi, Lun Luo, Zhichao Chen, Yun-Hui Liu, Huimin Lu
 
- - Improved 2D Hand Trajectory Prediction with Multi-View Consistency[![](https://img.shields.io/github/stars/IRMVLab/EER-HTP?style=social&label=Code+Stars)](https://github.com/IRMVLab/EER-HTP)
+ - [Improved 2D Hand Trajectory Prediction with Multi-View Consistency](https://ieeexplore.ieee.org/document/11246827)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{ma2025iros,
+     title={Improved 2D Hand Trajectory Prediction with Multi-View Consistency}, 
+     author={Ma, Junyi and Zhang, Erhang and Xu, Jingyi and Chen, Xieyuanli and Wang, Hesheng},
+     booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+     year={2025},
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/document/11246827" class="pub-link">[PDF]</a>
+   <a href="https://github.com/IRMVLab/EER-HTP">
+     <img src="https://img.shields.io/github/stars/IRMVLab/EER-HTP?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
    
    *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
   
@@ -727,10 +686,10 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{ma2025novel,
+       <pre><code>@inproceedings{ma2025iros,
       title={Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction},
       author={Ma, Junyi and Bao, Wentao and Xu, Jingyi and Sun, Guanzhong and Chen, Xieyuanli and Wang, Hesheng},
-      journal={arXiv preprint arXiv:2504.07375},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
       year={2025}
     }</code></pre>
    </div>
@@ -750,11 +709,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{ma2024diff,
+       <pre><code>@inproceedings{ma2024iros,
       title={Diff-IP2D: Diffusion-based hand-object interaction prediction on egocentric videos},
       author={Ma, Junyi and Xu, Jingyi and Chen, Xieyuanli and Wang, Hesheng},
-      journal={arXiv preprint arXiv:2405.04370},
-      year={2024}
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS),
+      year={2025}
     }</code></pre>
    </div>
    </details>
@@ -768,15 +727,15 @@
   
    Junyi Ma, Jingyi Xu, **<u>Xieyuanli Chen</u>**, Hesheng Wang
 
- - [ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions](https://arxiv.org/abs/2503.12350)  [[PDF]](https://arxiv.org/pdf/2503.12350) [![](https://img.shields.io/github/stars/nubot-nudt/ResLPR?style=social&label=Code+Stars)](https://github.com/nubot-nudt/ResLPR)
+ - [ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions](https://arxiv.org/abs/2503.12350) 
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{kuang2025reslpr,
+       <pre><code>@inproceedings{kuang2025iros,
       title={Reslpr: A lidar data restoration network and benchmark for robust place recognition against weather corruptions},
       author={Kuang, Wenqing and Zhao, Xiongwei and Shen, Yehui and Wen, Congcong and Lu, Huimin and Zhou, Zongtan and Chen, Xieyuanli},
-      journal={arXiv preprint arXiv:2503.12350},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS),
       year={2025}
     }</code></pre>
    </div>
@@ -791,15 +750,15 @@
   
    Wenqing Kuang, Xiongwei Zhao, Yehui Shen, Congcong Wen, Huimin Lu, Zongtan Zhou, **<u>Xieyuanli Chen</u>**
   
- - [BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model](https://arxiv.org/abs/2503.11372)  [[PDF]](https://arxiv.org/pdf/2503.11372) [![](https://img.shields.io/github/stars/nubot-nudt/BEVDiffLoc?style=social&label=Code+Stars)](https://github.com/nubot-nudt/BEVDiffLoc)
+ - [BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model](https://arxiv.org/abs/2503.11372)  
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{wang2025bevdiffloc,
+       <pre><code>@inproceedings{wang2025iros,
       title={BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model},
       author={Wang, Ziyue and Shi, Chenghao and Wang, Neng and Yu, Qinghua and Chen, Xieyuanli and Lu, Huimin},
-      journal={arXiv preprint arXiv:2503.11372},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS),
       year={2025}
     }</code></pre>
    </div>
@@ -814,15 +773,15 @@
   
    Ziyue Wang, Chenghao Shi, Neng Wang, Qinghua Yu, **<u>Xieyuanli Chen</u>**, Huimin Lu
 
- - [Efficient Multi-Modal 3D Object Detector via Instance Level Contrastive Distillation](https://arxiv.org/abs/2503.12914)  [[PDF]](https://arxiv.org/pdf/2503.12914) [![](https://img.shields.io/github/stars/nubot-nudt/ICD-Fusion?style=social&label=Code+Stars)](https://github.com/nubot-nudt/ICD-Fusion)
+ - [Efficient Multi-Modal 3D Object Detector via Instance Level Contrastive Distillation](https://arxiv.org/abs/2503.12914)  
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{su2025efficient,
+       <pre><code>@inproceedings{su2025iros,
       title={Efficient Multimodal 3D Object Detector via Instance-Level Contrastive Distillation},
       author={Su, Zhuoqun and Lu, Huimin and Jiao, Shuaifeng and Xiao, Junhao and Wang, Yaonan and Chen, Xieyuanli},
-      journal={arXiv preprint arXiv:2503.12914},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS),
       year={2025}
     }</code></pre>
    </div>
@@ -837,26 +796,85 @@
   
    Zhuoqun Su, Huimin Lu, Shuaifeng Jiao, Junhao Xiao, Yaonan Wang, **<u>Xieyuanli Chen</u>**
 
- - MRMT-PR: A Multi-Scale Reverse-View Mamba-Transformer for LiDAR Place Recognition
-
+ - [MRMT-PR: A Multi-Scale Reverse-View Mamba-Transformer for LiDAR Place Recognition](https://ieeexplore.ieee.org/document/11247758)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{su2025iros,
+      title={Efficient Multimodal 3D Object Detector via Instance-Level Contrastive Distillation},
+      author={Su, Zhuoqun and Lu, Huimin and Jiao, Shuaifeng and Xiao, Junhao and Wang, Yaonan and Chen, Xieyuanli},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS),
+      year={2025}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/document/11247758" class="pub-link">[PDF]</a>
+   </div>
+   
    *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
   
    Kan Luo, Jingwen Wang, Hongshan Yu*, Yaonan Wang, Javier Civera, **<u>Xieyuanli Chen</u>**
 
- - C-TRAC: Terrain-Adaptive Control for Articulated Tracked Robots via Contact-Aware Reinforcement Learning
+ - [C-TRAC: Terrain-Adaptive Control for Articulated Tracked Robots via Contact-Aware Reinforcement Learning](https://ieeexplore.ieee.org/document/11247117)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{pan2025iros,
+      title={C-TRAC: Terrain-Adaptive Control for Articulated Tracked Robots via Contact-Aware Reinforcement Learning}, 
+      author={Pan, Hainan and Huang, Kaihong and Chen, Xieyuanli and Zhang, Hongchuan and Shi, Junfeng and Cheng, Chuang and Chen, Bailiang and Lu, Huimin},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS),
+      year={2025},
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/document/11247117" class="pub-link">[PDF]</a>
+   </div>
 
    *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
   
    Hainan Pan, Kaihong Huang, **<u>Xieyuanli Chen</u>**, Hongchuan Zhang, Junfeng shi, Chuang Cheng, Bailiang Chen, Huimin Lu
   
- - Efficient Instance Motion-Aware Point Cloud Scene Prediction[![](https://img.shields.io/github/stars/nubot-nudt/IMPNet?style=social&label=Code+Stars)](https://github.com/nubot-nudt/IMPNet)
+ - [Efficient Instance Motion-Aware Point Cloud Scene Prediction](https://ieeexplore.ieee.org/document/11245889)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{fang2025iros,
+      title={Efficient Instance Motion-Aware Point Cloud Scene Prediction}, 
+      author={Fang, Yiming and Chen, Xieyuanli and Wang, Neng and Huang, Kaihong and Lu, Huimin},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS),
+      year={2025}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/document/11245889" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/IMPNet">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/IMPNet?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
 
    *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
   
    Yiming Fang, **<u>Xieyuanli Chen</u>**, Neng Wang, Kaihong Huang, Huimin Lu
   
--  Fusion Scene Context: Robust and Efficient LiDAR Place Recognition in Changing Environments
-
+-  [Fusion Scene Context: Robust and Efficient LiDAR Place Recognition Across Season](https://ieeexplore.ieee.org/document/11246014)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{cao2025iros,
+      title={Fusion Scene Context: Robust and Efficient LiDAR Place Recognition Across Season}, 
+      author={Cao, Fengkui and Jia, Yanpeng and Wang, Ting and Wang, Hesheng and Chen, Xieyuanli},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)}, 
+      year={2025},
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/document/11246014" class="pub-link">[PDF]</a>
+   </div>
+   
    *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
   
    Fengkui Cao, Yanpeng Jia, Ting Wang, Hesheng Wang, **<u>Xieyuanli Chen</u>**
@@ -866,15 +884,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{tian2025fast,
+       <pre><code>@article{tian2025rs,
       title={Fast Intrinsic--Extrinsic Calibration for Pose-Only Structure-from-Motion},
       author={Tian, Xiaoyang and Ge, Yangbing and Tan, Zhen and Chen, Xieyuanli and Li, Ming and Hu, Dewen},
       journal={Remote Sensing},
-      volume={17},
-      number={13},
-      pages={2247},
-      year={2025},
-      publisher={MDPI}
+      year={2025}
     }</code></pre>
    </div>
    </details>
@@ -890,15 +904,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{guo2025bio,
+       <pre><code>@article{guo2025biomimetics,
       title={Bio-Inspired 3D Affordance Understanding from Single Image with Neural Radiance Field for Enhanced Embodied Intelligence},
       author={Guo, Zirui and Chen, Xieyuanli and Zheng, Zhiqiang and Lu, Huimin and Guo, Ruibin},
       journal={Biomimetics},
-      volume={10},
-      number={6},
-      pages={410},
-      year={2025},
-      publisher={MDPI}
+      year={2025}
     }</code></pre>
    </div>
    </details>
@@ -915,14 +925,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{shi2024fast,
+       <pre><code>@article{shi2024tro,
       title={Fast and accurate deep loop closing and relocalization for reliable lidar slam},
       author={Shi, Chenghao and Chen, Xieyuanli and Xiao, Junhao and Dai, Bin and Lu, Huimin},
-      journal={IEEE Transactions on Robotics},
-      volume={40},
-      pages={2620--2640},
-      year={2024},
-      publisher={IEEE}
+      journal={IEEE Transactions on Robotics (T-RO)},
+      year={2024}
     }</code></pre>
    </div>
    </details>
@@ -932,7 +939,7 @@
    </a>
    </div>
    
-  *IEEE Transactions on Robotics (**T-RO**)*
+  *IEEE Transactions on Robotics **(T-RO)***
   
   Chenghao Shi, **<u>Xieyuanli Chen</u>**, Junhao Xiao, Bin Dai, Huimin Lu
 
@@ -941,12 +948,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{sun2024category,
+       <pre><code>@article{sun202tmm,
       title={Category-Level Multi-Object 9D State Tracking Using Object-Centric Multi-Scale Transformer in Point Cloud Stream},
       author={Sun, Jingtao and Wang, Yaonan and Feng, Mingtao and Guo, Xiaofeng and Lu, Huimin and Chen, Xieyuanli},
-      journal={IEEE Transactions on Multimedia},
-      year={2024},
-      publisher={IEEE}
+      journal={IEEE Transactions on Multimedia (T-MM)},
+      year={2024}
     }</code></pre>
    </div>
    </details>
@@ -962,12 +968,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{cheng2024efficient,
+       <pre><code>@article{cheng2024tmech,
       title={Efficient and precise homo-hetero teleoperation based on an optimized upper limb exoskeleton},
       author={Cheng, Chuang and Dai, Wei and Wu, Tuochang and Chen, Xieyuanli and Wu, Meiping and Yu, Junzhi and Jiang, Jie and Lu, Huimin},
-      journal={IEEE/ASME Transactions on Mechatronics},
-      year={2024},
-      publisher={IEEE}
+      journal={IEEE/ASME Transactions on Mechatronics (T-MECH)},
+      year={2024}
     }</code></pre>
    </div>
    </details>
@@ -983,12 +988,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{tang2024cv,
+       <pre><code>@article{tang2024tim,
       title={Cv-mos: A cross-view model for motion segmentation},
       author={Tang, Xiaoyu and Chen, Zeyu and Cheng, Jintao and Chen, Xieyuanli and Wu, Jin and Xue, Bohuan},
-      journal={IEEE Transactions on Instrumentation and Measurement},
-      year={2024},
-      publisher={IEEE}
+      journal={IEEE Transactions on Instrumentation and Measurement (T-IM)},
+      year={2024}
     }</code></pre>
    </div>
    </details>
@@ -1007,12 +1011,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{chen2024joint,
+       <pre><code>@article{chen2024tits,
       title={Joint scene flow estimation and moving object segmentation on rotational LiDAR data},
       author={Chen, Xieyuanli and Cui, Jiafeng and Liu, Yufei and Zhang, Xianjing and Sun, Jiadai and Ai, Rui and Gu, Weihao and Xu, Jintao and Lu, Huimin},
-      journal={IEEE Transactions on Intelligent Transportation Systems},
-      year={2024},
-      publisher={IEEE}
+      journal={IEEE Transactions on Intelligent Transportation Systems (T-ITS)},
+      year={2024}
     }</code></pre>
    </div>
    </details>
@@ -1026,17 +1029,16 @@
   
   **<u>Xieyuanli Chen</u>**, Jiafeng Cui, Yufei Liu, Xianjing Zhang, Jiadai Sun, Rui Ai, Weihao Gu, Jintao Xu, Huimin Lu
 
-- [IMPS: Informative Map Point Selection for Visual-Inertial SLAM](https://ieeexplore.ieee.org/abstract/document/10400950/)  [[PDF]](https://ieeexplore.ieee.org/abstract/document/10400950/)
+- [IMPS: Informative Map Point Selection for Visual-Inertial SLAM](https://ieeexplore.ieee.org/abstract/document/10400950/)  
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{liu2024imps,
+       <pre><code>@article{liu2024tiv,
       title={IMPS: Informative map point selection for visual-inertial SLAM},
       author={Liu, Changxiang and Yu, Hongshan and Fu, Qiang and Chen, Xieyuanli and Akhtar, Naveed and Mao, Zhi-Hong},
-      journal={IEEE Transactions on Intelligent Vehicles},
-      year={2024},
-      publisher={IEEE}
+      journal={IEEE Transactions on Intelligent Vehicles (T-IV)},
+      year={2024}
     }</code></pre>
    </div>
    </details>
@@ -1052,12 +1054,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{liu2024pe,
+       <pre><code>@article{liu2024tiv,
       title={Pe-vins: Accurate monocular visual-inertial slam with point-edge features},
       author={Liu, Changxiang and Yu, Hongshan and Cheng, Panfei and Sun, Wei and Civera, Javier and Chen, Xieyuanli},
-      journal={IEEE Transactions on Intelligent Vehicles},
-      year={2024},
-      publisher={IEEE}
+      journal={IEEE Transactions on Intelligent Vehicles (T-IV)},
+      year={2024}
     }</code></pre>
    </div>
    </details>
@@ -1076,15 +1077,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{yin2024survey,
+       <pre><code>@article{yin2024ijcv,
       title={A survey on global lidar localization: Challenges, advances and open problems},
       author={Yin, Huan and Xu, Xuecheng and Lu, Sha and Chen, Xieyuanli and Xiong, Rong and Shen, Shaojie and Stachniss, Cyrill and Wang, Yue},
-      journal={International Journal of Computer Vision},
-      volume={132},
-      number={8},
-      pages={3139--3171},
+      journal={International Journal of Computer Vision (IJCV)},
       year={2024},
-      publisher={Springer}
     }</code></pre>
    </div>
    </details>
@@ -1100,12 +1097,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{wang2024goreloc,
+       <pre><code>@article{wang2024ral,
       title={GOReloc: Graph-based object-level relocalization for visual SLAM},
       author={Wang, Yutong and Jiang, Chaoyang and Chen, Xieyuanli},
-      journal={IEEE Robotics and Automation Letters},
-      year={2024},
-      publisher={IEEE}
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2024}
     }</code></pre>
    </div>
    </details>
@@ -1124,12 +1120,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{kang2024cofii2p,
+       <pre><code>@article{kang2024ral,
       title={CoFiI2P: Coarse-to-fine correspondences-based image to point cloud registration},
       author={Kang, Shuhao and Liao, Youqi and Li, Jianping and Liang, Fuxun and Li, Yuhao and Zou, Xianghong and Li, Fangning and Chen, Xieyuanli and Dong, Zhen and Yang, Bisheng},
-      journal={IEEE Robotics and Automation Letters},
-      year={2024},
-      publisher={IEEE}
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2024}
     }</code></pre>
    </div>
    </details>
@@ -1148,12 +1143,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{wang2024sglc,
+       <pre><code>@article{wang2024ral,
       title={SGLC: Semantic graph-guided coarse-fine-refine full loop closing for LiDAR SLAM},
       author={Wang, Neng and Chen, Xieyuanli and Shi, Chenghao and Zheng, Zhiqiang and Yu, Hongshan and Lu, Huimin},
-      journal={IEEE Robotics and Automation Letters},
-      year={2024},
-      publisher={IEEE}
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2024}
     }</code></pre>
    </div>
    </details>
@@ -1172,15 +1166,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{liao2024mobile,
+       <pre><code>@article{liao2024ral,
       title={Mobile-seed: Joint semantic segmentation and boundary detection for mobile robots},
       author={Liao, Youqi and Kang, Shuhao and Li, Jianping and Liu, Yang and Liu, Yun and Dong, Zhen and Yang, Bisheng and Chen, Xieyuanli},
-      journal={IEEE Robotics and Automation Letters},
-      volume={9},
-      number={4},
-      pages={3902--3909},
-      year={2024},
-      publisher={IEEE}
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2024}
     }</code></pre>
    </div>
    </details>
@@ -1199,15 +1189,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{cui2024link3d,
+       <pre><code>@article{cui2024ral,
       title={Link3d: Linear keypoints representation for 3d lidar point cloud},
       author={Cui, Yunge and Zhang, Yinlong and Dong, Jiahua and Sun, Haibo and Chen, Xieyuanli and Zhu, Feng},
-      journal={IEEE Robotics and Automation Letters},
-      volume={9},
-      number={3},
-      pages={2128--2135},
+      journal={IEEE Robotics and Automation Letters (RA-L)},
       year={2024},
-      publisher={IEEE}
     }</code></pre>
    </div>
    </details>
@@ -1226,15 +1212,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{luo20243d,
+       <pre><code>@article{luo2024air,
       title={3D point cloud-based place recognition: a survey},
       author={Luo, Kan and Yu, Hongshan and Chen, Xieyuanli and Yang, Zhengeng and Wang, Jingwen and Cheng, Panfei and Mian, Ajmal},
       journal={Artificial Intelligence Review},
-      volume={57},
-      number={4},
-      pages={83},
-      year={2024},
-      publisher={Springer}
+      year={2024}
     }</code></pre>
    </div>
    </details>
@@ -1250,11 +1232,10 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{ma2024cam4docc,
+       <pre><code>@inproceedings{ma2024cvpr,
       title={Cam4docc: Benchmark for camera-only 4d occupancy forecasting in autonomous driving applications},
       author={Ma, Junyi and Chen, Xieyuanli and Huang, Jiawei and Xu, Jingyi and Luo, Zhen and Xu, Jintao and Gu, Weihao and Ai, Rui and Wang, Hesheng},
-      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-      pages={21486--21495},
+      booktitle={In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR)},
       year={2024}
     }</code></pre>
    </div>
@@ -1274,11 +1255,10 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{li2024tfnet,
+       <pre><code>@inproceedings{li2024cvpr,
       title={Tfnet: Exploiting temporal cues for fast and accurate lidar semantic segmentation},
       author={Li, Rong and Li, Shijie and Chen, Xieyuanli and Ma, Teli and Gall, Juergen and Liang, Junwei},
-      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-      pages={4547--4556},
+      booktitle={In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR)},
       year={2024}
     }</code></pre>
    </div>
@@ -1295,13 +1275,10 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{pang2024radarmoseve,
+       <pre><code>@inproceedings{pang2024aaai,
       title={Radarmoseve: A spatial-temporal transformer network for radar-only moving object segmentation and ego-velocity estimation},
       author={Pang, Changsong and Chen, Xieyuanli and Liu, Yimin and Lu, Huimin and Cheng, Yuwei},
-      booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-      volume={38},
-      number={5},
-      pages={4424--4432},
+      booktitle={In Proc. of the Conference on Advancements of Artificial Intelligence (AAAI)},
       year={2024}
      }</code></pre>
    </div>
@@ -1312,7 +1289,7 @@
    </a>
    </div>
    
-  *In Proc. of the Conference on Advancements of Artificial Intelligence **(AAAI, 2024)***
+  *In Proc. of the Conference on Advancements of Artificial Intelligence **(AAAI 2024)***
 
   Changsong Pang, **<u>Xieyuanli Chen</u>**, Yimin Liu, Huimin Lu, Yuwei Cheng
   
@@ -1321,13 +1298,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{shen2024tscm,
+       <pre><code>@inproceedings{shen2024icra,
       title={TSCM: A teacher-student model for vision place recognition using cross-metric knowledge distillation},
       author={Shen, Yehui and Liu, Mingmin and Lu, Huimin and Chen, Xieyuanli},
-      booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
-      pages={1789--1795},
-      year={2024},
-      organization={IEEE}
+      booktitle={In Proc. of the IEEE Intl. Conf. on Robotics & Automation (ICRA)},
+      year={2024}
     }</code></pre>
    </div>
    </details>
@@ -1346,13 +1321,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{dong2024superfusion,
+       <pre><code>@inproceedings{dong2024icra,
       title={Superfusion: Multilevel lidar-camera fusion for long-range hd map generation},
       author={Dong, Hao and Gu, Weihao and Zhang, Xianjing and Xu, Jintao and Ai, Rui and Lu, Huimin and Kannala, Juho and Chen, Xieyuanli},
-      booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
-      pages={9056--9062},
-      year={2024},
-      organization={IEEE}
+      booktitle={In Proc. of the IEEE Intl. Conf. on Robotics & Automation (ICRA)},
+      year={2024}
     }</code></pre>
    </div>
    </details>
@@ -1367,24 +1340,24 @@
   Hao Dong, Weihao Gu, Xianjing Zhang, Jintao Xu, Rui Ai, Huimin Lu, Juho Kannala, **<u>Xieyuanli Chen</u>**
   
 - [Diffusion-Based Point Cloud Super-Resolution for mmWave Radar Data](https://ieeexplore.ieee.org/document/10611026)  
-  *In Proc. of the IEEE Intl. Conf. on Robotics & Automation **(ICRA 2024)***
+  
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{luan2024diffusion,
+       <pre><code>@inproceedings{luan2024icra,
       title={Diffusion-based point cloud super-resolution for mmwave radar data},
       author={Luan, Kai and Shi, Chenghao and Wang, Neng and Cheng, Yuwei and Lu, Huimin and Chen, Xieyuanli},
-      booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
-      pages={11171--11177},
-      year={2024},
-      organization={IEEE}
+      booktitle={In Proc. of the IEEE Intl. Conf. on Robotics & Automation (ICRA)},
+      year={2024}
     }</code></pre>
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2404.06012" class="pub-link">[PDF]</a>
    </div> 
    
+  *In Proc. of the IEEE Intl. Conf. on Robotics & Automation **(ICRA 2024)***
+  
   Kai Luan, Chenghao Shi, Neng Wang, Yuwei Cheng, Huimin Lu, **<u>Xieyuanli Chen</u>**
 
 - [VOOM: Robust Visual Object Odometry and Mapping using Hierarchical Landmarks](https://ieeexplore.ieee.org/document/10611684) 
@@ -1392,13 +1365,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{wang2024voom,
+       <pre><code>@inproceedings{wang2024icra,
       title={Voom: Robust visual object odometry and mapping using hierarchical landmarks},
       author={Wang, Yutong and Jiang, Chaoyang and Chen, Xieyuanli},
-      booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
-      pages={10298--10304},
-      year={2024},
-      organization={IEEE}
+      booktitle={In Proc. of the IEEE Intl. Conf. on Robotics & Automation (ICRA)},
+      year={2024}
     }</code></pre>
    </div>
    </details>
@@ -1417,13 +1388,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{xie2024modalink,
+       <pre><code>@inproceedings{xie2024iros,
       title={ModaLink: Unifying modalities for efficient image-to-PointCloud place recognition},
       author={Xie, Weidong and Luo, Lun and Ye, Nanfei and Ren, Yi and Du, Shaoyi and Wang, Minhang and Xu, Jintao and Ai, Rui and Gu, Weihao and Chen, Xieyuanli},
-      booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-      pages={3326--3333},
-      year={2024},
-      organization={IEEE}
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+      year={2024}
     }</code></pre>
    </div>
    </details>
@@ -1442,13 +1411,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{tan2024td,
+       <pre><code>@inproceedings{tan2024iros,
       title={Td-nerf: Novel truncated depth prior for joint camera pose and neural radiance field optimization},
       author={Tan, Zhen and Zhou, Zongtan and Ge, Yangbing and Wang, Zi and Chen, Xieyuanli and Hu, Dewen},
-      booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-      pages={372--379},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
       year={2024},
-      organization={IEEE}
     }</code></pre>
    </div>
    </details>
@@ -1467,13 +1434,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{xu2024explicit,
+       <pre><code>@inproceedings{xu2024iros,
       title={Explicit interaction for fusion-based place recognition},
       author={Xu, Jingyi and Ma, Junyi and Wu, Qi and Zhou, Zijie and Wang, Yue and Chen, Xieyuanli and Yu, Wenxian and Pei, Ling},
-      booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-      pages={3318--3325},
-      year={2024},
-      organization={IEEE}
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+      year={2024}
     }</code></pre>
    </div>
    </details>
@@ -1493,15 +1458,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{ma2023cvtnet,
+       <pre><code>@article{ma2023tii,
       title={CVTNet: A cross-view transformer network for LiDAR-based place recognition in autonomous driving environments},
       author={Ma, Junyi and Xiong, Guangming and Xu, Jingyi and Chen, Xieyuanli},
-      journal={IEEE Transactions on Industrial Informatics},
-      volume={20},
-      number={3},
-      pages={4039--4048},
-      year={2023},
-      publisher={IEEE}
+      journal={IEEE Transactions on Industrial Informatics (T-II)},
+      year={2023}
     }</code></pre>
    </div>
    </details>
@@ -1520,19 +1481,15 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{wu2023360,
+       <pre><code>@article{wu2023tie,
       title={360-vio: A robust visual--inertial odometry using a 360 camera},
       author={Wu, Qi and Xu, Xiangyu and Chen, Xieyuanli and Pei, Ling and Long, Chao and Deng, Junyuan and Liu, Guoqing and Yang, Sheng and Wen, Shilei and Yu, Wenxian},
-      journal={IEEE Transactions on Industrial Electronics},
-      volume={71},
-      number={9},
-      pages={11136--11145},
-      year={2023},
-      publisher={IEEE}
+      journal={IEEE Transactions on Industrial Electronics (T-IE)},
+      year={2023}
     }</code></pre>
    </div>
    </details>
-   <a href="https://www.researchgate.net/profile/Qi-Wu-42/publication/376825456_360-VIO_A_Robust_Visual-Inertial_Odometry_Using_a_360_Camera/links/6594b0b56f6e450f19c49549/360-VIO-A-Robust-Visual-Inertial-        Odometry-Using-a-360-Camera.pdf" class="pub-link">[PDF]</a>
+   <a href="https://www.researchgate.net/profile/Qi-Wu-42/publication/376825456_360-VIO_A_Robust_Visual-Inertial_Odometry_Using_a_360_Camera/links/6594b0b56f6e450f19c49549/360-VIO-A-Robust-Visual-Inertial-Odometry-Using-a-360-Camera.pdf" class="pub-link">[PDF]</a>
    <a href="https://github.com/Gatsby23/360-VIO">
      <img src="https://img.shields.io/github/stars/Gatsby23/360-VIO?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -1547,15 +1504,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{shi2023rdmnet,
+       <pre><code>@article{shi2023tits,
       title={RDMNet: Reliable dense matching based point cloud registration for autonomous driving},
       author={Shi, Chenghao and Chen, Xieyuanli and Lu, Huimin and Deng, Wenbang and Xiao, Junhao and Dai, Bin},
-      journal={IEEE Transactions on intelligent transportation systems},
-      volume={24},
-      number={10},
-      pages={11372--11383},
-      year={2023},
-      publisher={IEEE}
+      journal={IEEE Transactions on intelligent transportation systems (T-ITS)},
+      year={2023}
     }</code></pre>
    </div>
    </details>
@@ -1571,15 +1524,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{chen2023geometry,
+       <pre><code>@article{chen2023jfr,
       title={Geometry-based flipper motion planning for articulated tracked robots traversing rough terrain in real-time},
       author={Chen, Bailiang and Huang, Kaihong and Pan, Hainan and Ren, Haoran and Chen, Xieyuanli and Xiao, Junhao and Wu, Wenqi and Lu, Huimin},
-      journal={Journal of Field Robotics},
-      volume={40},
-      number={8},
-      pages={2010--2029},
-      year={2023},
-      publisher={Wiley Online Library}
+      journal={Journal of Field Robotics (JFR)},
+      year={2023}
     }</code></pre>
    </div>
    </details>
@@ -1595,15 +1544,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{bai2023extreme,
+       <pre><code>@article{bai2023ijcv,
       title={Extreme low-resolution action recognition with confident spatial-temporal attention transfer},
       author={Bai, Yucai and Zou, Qin and Chen, Xieyuanli and Li, Lingxi and Ding, Zhengming and Chen, Long},
-      journal={International Journal of Computer Vision},
-      volume={131},
-      number={6},
-      pages={1550--1565},
-      year={2023},
-      publisher={Springer}
+      journal={International Journal of Computer Vision (IJCV)},
+      year={2023}
     }</code></pre>
    </div>
    </details>
@@ -1619,15 +1564,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{cui2023ccl,
+       <pre><code>@article{cui2023ral,
       title={CCL: Continual contrastive learning for LiDAR place recognition},
       author={Cui, Jiafeng and Chen, Xieyuanli},
-      journal={IEEE Robotics and Automation Letters},
-      volume={8},
-      number={8},
-      pages={4433--4440},
-      year={2023},
-      publisher={IEEE}
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2023}
     }</code></pre>
    </div>
    </details>
@@ -1646,15 +1587,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{kuang2023ir,
+       <pre><code>@article{kuang2023ral,
       title={Ir-mcl: Implicit representation-based online global localization},
       author={Kuang, Haofei and Chen, Xieyuanli and Guadagnino, Tiziano and Zimmerman, Nicky and Behley, Jens and Stachniss, Cyrill},
-      journal={IEEE Robotics and Automation Letters},
-      volume={8},
-      number={3},
-      pages={1627--1634},
-      year={2023},
-      publisher={IEEE}
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2023}
     }</code></pre>
    </div>
    </details>
@@ -1673,15 +1610,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{mersch2023building,
+       <pre><code>@article{mersch2023ral,
       title={Building volumetric beliefs for dynamic environments exploiting map-based moving object segmentation},
       author={Mersch, Benedikt and Guadagnino, Tiziano and Chen, Xieyuanli and Vizzo, Ignacio and Behley, Jens and Stachniss, Cyrill},
-      journal={IEEE Robotics and Automation Letters},
-      volume={8},
-      number={8},
-      pages={5180--5187},
-      year={2023},
-      publisher={IEEE}
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2023}
     }</code></pre>
    </div>
    </details>
@@ -1701,14 +1634,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{arora2023static,
+       <pre><code>@article{arora2023ras,
       title={Static map generation from 3D LiDAR point clouds exploiting ground segmentation},
       author={Arora, Mehul and Wiesmann, Louis and Chen, Xieyuanli and Stachniss, Cyrill},
       journal={Robotics and Autonomous Systems},
-      volume={159},
-      pages={104287},
-      year={2023},
-      publisher={Elsevier}
+      year={2023}
     }</code></pre>
    </div>
    </details>
@@ -1727,14 +1657,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{dong2023online,
+       <pre><code>@article{dong2023ras,
       title={Online pole segmentation on range images for long-term LiDAR localization in urban environments},
       author={Dong, Hao and Chen, Xieyuanli and S{\"a}rkk{\"a}, Simo and Stachniss, Cyrill},
       journal={Robotics and Autonomous Systems},
-      volume={159},
-      pages={104283},
-      year={2023},
-      publisher={Elsevier}
+      year={2023}
     }</code></pre>
    </div>
    </details>
@@ -1753,15 +1680,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{pan2023deep,
+       <pre><code>@article{pan2023rs,
       title={Deep reinforcement learning for flipper control of tracked robots in urban rescuing environments},
       author={Pan, Hainan and Chen, Xieyuanli and Ren, Junkai and Chen, Bailiang and Huang, Kaihong and Zhang, Hui and Lu, Huimin},
       journal={Remote Sensing},
-      volume={15},
-      number={18},
-      pages={4616},
-      year={2023},
-      publisher={MDPI}
+      year={2023}
     }</code></pre>
    </div>
    </details>
@@ -1777,15 +1700,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{xiao2023deep,
+       <pre><code>@article{xiao2023rs,
       title={Deep LiDAR-radar-visual fusion for object detection in urban environments},
       author={Xiao, Yuhan and Liu, Yufei and Luan, Kai and Cheng, Yuwei and Chen, Xieyuanli and Lu, Huimin},
       journal={Remote Sensing},
-      volume={15},
-      number={18},
-      pages={4433},
-      year={2023},
-      publisher={MDPI}
+      year={2023}
     }</code></pre>
    </div>
    </details>
@@ -1801,15 +1720,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{gong2023rss,
+       <pre><code>@article{gong2023rs,
       title={RSS-LIWOM: Rotating solid-state LiDAR for robust LiDAR-Inertial-Wheel odometry and mapping},
       author={Gong, Shunjie and Shi, Chenghao and Zhang, Hui and Lu, Huimin and Zeng, Zhiwen and Chen, Xieyuanli},
       journal={Remote Sensing},
-      volume={15},
-      number={16},
-      pages={4040},
-      year={2023},
-      publisher={MDPI}
+      year={2023}
     }</code></pre>
    </div>
    </details>
@@ -1828,11 +1743,10 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{nunes2023temporal,
+       <pre><code>@inproceedings{nunes2023cvpr,
       title={Temporal consistent 3d lidar representation learning for semantic perception in autonomous driving},
       author={Nunes, Lucas and Wiesmann, Louis and Marcuzzi, Rodrigo and Chen, Xieyuanli and Behley, Jens and Stachniss, Cyrill},
-      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-      pages={5217--5228},
+      booktitle={In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR)},
       year={2023}
     }</code></pre>
    </div>
@@ -1852,11 +1766,10 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{deng2023nerf,
+       <pre><code>@inproceedings{deng2023iccv,
       title={Nerf-loam: Neural implicit representation for large-scale incremental lidar odometry and mapping},
       author={Deng, Junyuan and Wu, Qi and Chen, Xieyuanli and Xia, Songpengcheng and Sun, Zhen and Liu, Guoqing and Yu, Wenxian and Pei, Ling},
-      booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-      pages={8218--8227},
+      booktitle={In Proc. of the IEEE/CVF Intl. Conf. on Computer Vision (ICCV)},
       year={2023}
     }</code></pre>
    </div>
@@ -1876,10 +1789,10 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{lim2023erasor2,
+       <pre><code>@inproceedings{lim2023rss,
       title={ERASOR2: Instance-Aware Robust 3D Mapping of the Static World in Dynamic Scenes.},
       author={Lim, Hyungtae and Nunes, Lucas and Mersch, Benedikt and Chen, Xieyuanli and Behley, Jens and Myung, Hyun and Stachniss, Cyrill},
-      booktitle={Robotics: Science and Systems},
+      booktitle={Robotics: Science and Systems (RSS)},
       year={2023}
     }</code></pre>
    </div>
@@ -1899,10 +1812,10 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{li2023powerbev,
+       <pre><code>@inproceedings{li2023ijcai,
       title={Powerbev: A powerful yet lightweight framework for instance prediction in bird's-eye view},
       author={Li, Peizheng and Ding, Shuxiao and Chen, Xieyuanli and Hanselmann, Niklas and Cordts, Marius and Gall, Juergen},
-      journal={arXiv preprint arXiv:2306.10761},
+      booktitle={In Proc. of the Intl. Conf. on Artificial Intelligence (IJCAI)},
       year={2023}
     }</code></pre>
    </div>
@@ -1922,10 +1835,10 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{dong2022learning,
+       <pre><code>@article{dong2022icra,
       title={Learning-based dimensionality reduction for computing compact and effective local feature descriptors},
       author={Dong, Hao and Chen, Xieyuanli and Dusmanu, Mihai and Larsson, Viktor and Pollefeys, Marc and Stachniss, Cyrill},
-      journal={arXiv preprint arXiv:2209.13586},
+      journal={In Proc. of the IEEE Intl. Conf. on Robotics & Automation (ICRA)},
       year={2022}
     }</code></pre>
    </div>
@@ -1945,13 +1858,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{liu2023hybrid,
+       <pre><code>@inproceedings{liu2023iros,
       title={Hybrid map-based path planning for robot navigation in unstructured environments},
       author={Liu, Jiayang and Chen, Xieyuanli and Xiao, Junhao and Lin, Sichao and Zheng, Zhiqiang and Lu, Huimin},
-      booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-      pages={2216--2223},
-      year={2023},
-      organization={IEEE}
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+      year={2023}
     }</code></pre>
    </div>
    </details>
@@ -1970,13 +1881,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{deng2023elc,
+       <pre><code>@inproceedings{deng2023iros,
       title={Elc-ois: Ellipsoidal clustering for open-world instance segmentation on lidar data},
       author={Deng, Wenbang and Huang, Kaihong and Yu, Qinghua and Lu, Huimin and Zheng, Zhiqiang and Chen, Xieyuanli},
-      booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-      pages={7606--7613},
-      year={2023},
-      organization={IEEE}
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+      year={2023}
     }</code></pre>
    </div>
    </details>
@@ -1995,13 +1904,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{wang2023insmos,
+       <pre><code>@inproceedings{wang2023iros,
       title={Insmos: Instance-aware moving object segmentation in lidar data},
       author={Wang, Neng and Shi, Chenghao and Guo, Ruibin and Lu, Huimin and Zheng, Zhiqiang and Chen, Xieyuanli},
-      booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-      pages={7598--7605},
-      year={2023},
-      organization={IEEE}
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+      year={2023}
     }</code></pre>
    </div>
    </details>
@@ -2020,13 +1927,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{jin2023neu,
+       <pre><code>@inproceedings{jin2023niros,
       title={Neu-nbv: Next best view planning using uncertainty estimation in image-based neural rendering},
       author={Jin, Liren and Chen, Xieyuanli and R{\"u}ckin, Julius and Popovi{\'c}, Marija},
-      booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-      pages={11305--11312},
-      year={2023},
-      organization={IEEE}
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+      year={2023}
     }</code></pre>
    </div>
    </details>
@@ -2045,13 +1950,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{yuan2023kernel,
+       <pre><code>@inproceedings{yuan2023robio,
       title={Kernel-Based Attention Network for Point Cloud Compression},
       author={Yuan, Yang and Chen, Xieyuanli and Shi, Chenghao and Lv, Yunxiao and Lu, Huimin and Xiao, Junhao},
       booktitle={IEEE International Conference on Robotics and Biomimetics (ROBIO)},
-      pages={1--7},
-      year={2023},
-      organization={IEEE}
+      year={2023}
     }</code></pre>
    </div>
    </details>
@@ -2068,15 +1971,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{ma2022seqot,
+       <pre><code>@article{ma2022tie,
       title={SeqOT: A spatial--temporal transformer network for place recognition using sequential LiDAR data},
       author={Ma, Junyi and Chen, Xieyuanli and Xu, Jingyi and Xiong, Guangming},
-      journal={IEEE Transactions on Industrial Electronics},
-      volume={70},
-      number={8},
-      pages={8225--8234},
-      year={2022},
-      publisher={IEEE}
+      journal={IEEE Transactions on Industrial Electronics (T-IE)},
+      year={2022}
     }</code></pre>
    </div>
    </details>
@@ -2095,15 +1994,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{chen2022overlapnet,
+       <pre><code>@article{chen2022ar,
       title={OverlapNet: A siamese network for computing LiDAR scan similarity with applications to loop closing and localization},
       author={Chen, Xieyuanli and L{\"a}be, Thomas and Milioto, Andres and R{\"o}hling, Timo and Behley, Jens and Stachniss, Cyrill},
       journal={Autonomous Robots},
-      volume={46},
-      number={1},
-      pages={61--81},
-      year={2022},
-      publisher={Springer}
+      year={2022}
     }</code></pre>
    </div>
    </details>
@@ -2122,15 +2017,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{ma2022overlaptransformer,
+       <pre><code>@article{ma202ral,
       title={OverlapTransformer: An efficient and yaw-angle-invariant transformer network for LiDAR-based place recognition},
       author={Ma, Junyi and Zhang, Jun and Xu, Jintao and Ai, Rui and Gu, Weihao and Chen, Xieyuanli},
-      journal={IEEE Robotics and Automation Letters},
-      volume={7},
-      number={3},
-      pages={6958--6965},
-      year={2022},
-      publisher={IEEE}
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2022}
     }</code></pre>
    </div>
    </details>
@@ -2149,15 +2040,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{zimmerman2022long,
+       <pre><code>@article{zimmerman2022ral,
       title={Long-term localization using semantic cues in floor plan maps},
       author={Zimmerman, Nicky and Guadagnino, Tiziano and Chen, Xieyuanli and Behley, Jens and Stachniss, Cyrill},
-      journal={IEEE Robotics and Automation Letters},
-      volume={8},
-      number={1},
-      pages={176--183},
-      year={2022},
-      publisher={IEEE}
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2022}
     }</code></pre>
    </div>
    </details>
@@ -2176,15 +2063,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{nunes2022unsupervised,
+       <pre><code>@article{nunes2022ral,
       title={Unsupervised class-agnostic instance segmentation of 3d lidar data for autonomous vehicles},
       author={Nunes, Lucas and Chen, Xieyuanli and Marcuzzi, Rodrigo and Osep, Aljosa and Leal-Taix{\'e}, Laura and Stachniss, Cyrill and Behley, Jens},
-      journal={IEEE Robotics and Automation Letters},
-      volume={7},
-      number={4},
-      pages={8713--8720},
-      year={2022},
-      publisher={IEEE}
+      journal={IEEE Robotics and Automation Letters(RA-L)},
+      year={2022}
     }</code></pre>
    </div>
    </details>
@@ -2204,15 +2087,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{guadagnino2022fast,
+       <pre><code>@article{guadagnino2022ral,
       title={Fast sparse LiDAR odometry using self-supervised feature selection on intensity images},
       author={Guadagnino, Tiziano and Chen, Xieyuanli and Sodano, Matteo and Behley, Jens and Grisetti, Giorgio and Stachniss, Cyrill},
-      journal={IEEE Robotics and Automation Letters},
-      volume={7},
-      number={3},
-      pages={7597--7604},
-      year={2022},
-      publisher={IEEE}
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2022}
     }</code></pre>
    </div>
    </details>
@@ -2228,15 +2107,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{mersch2022receding,
+       <pre><code>@article{mersch2022ral,
       title={Receding moving object segmentation in 3d lidar data using sparse 4d convolutions},
       author={Mersch, Benedikt and Chen, Xieyuanli and Vizzo, Ignacio and Nunes, Lucas and Behley, Jens and Stachniss, Cyrill},
-      journal={IEEE Robotics and Automation Letters},
-      volume={7},
-      number={3},
-      pages={7503--7510},
-      year={2022},
-      publisher={IEEE}
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2022}
     }</code></pre>
    </div>
    </details>
@@ -2255,15 +2130,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{cui2022bow3d,
+       <pre><code>@article{cui2022ral,
       title={Bow3d: Bag of words for real-time loop closing in 3d lidar slam},
       author={Cui, Yunge and Chen, Xieyuanli and Zhang, Yinlong and Dong, Jiahua and Wu, Qingxiao and Zhu, Feng},
-      journal={IEEE Robotics and Automation Letters},
-      volume={8},
-      number={5},
-      pages={2828--2835},
-      year={2022},
-      publisher={IEEE}
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2022}
     }</code></pre>
    </div>
    </details>
@@ -2282,15 +2153,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code@article{chen2022automatic,
+       <pre><code>@article{chen2022ral,
       title={Automatic labeling to generate training data for online LiDAR-based moving object segmentation},
       author={Chen, Xieyuanli and Mersch, Benedikt and Nunes, Lucas and Marcuzzi, Rodrigo and Vizzo, Ignacio and Behley, Jens and Stachniss, Cyrill},
-      journal={IEEE Robotics and Automation Letters},
-      volume={7},
-      number={3},
-      pages={6107--6114},
-      year={2022},
-      publisher={IEEE}
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2022}
     }</code></pre>
    </div>
    </details>
@@ -2306,15 +2173,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{nunes2022segcontrast,
+       <pre><code>@article{nunes2022ral,
       title={Segcontrast: 3d point cloud feature representation learning through self-supervised segment discrimination},
       author={Nunes, Lucas and Marcuzzi, Rodrigo and Chen, Xieyuanli and Behley, Jens and Stachniss, Cyrill},
-      journal={IEEE Robotics and Automation Letters},
-      volume={7},
-      number={2},
-      pages={2116--2123},
-      year={2022},
-      publisher={IEEE}
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2022}
     }</code></pre>
    </div>
    </details>
@@ -2333,11 +2196,10 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{yang2022transfer,
+       <pre><code>@inproceedings{yang2022cvpr,
       title={Transfer learning from synthetic in-vitro soybean pods dataset for in-situ segmentation of on-branch soybean pods},
       author={Yang, Si and Zheng, Lihua and Chen, Xieyuanli and Zabawa, Laura and Zhang, Man and Wang, Minjuan},
-      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-      pages={1666--1675},
+      booktitle={In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR)},
       year={2022}
     }</code></pre>
    </div>
@@ -2354,13 +2216,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{sun2022ick,
+       <pre><code>@inproceedings{sun2022iros,
       title={Ick-track: A category-level 6-dof pose tracker using inter-frame consistent keypoints for aerial manipulation},
       author={Sun, Jingtao and Wang, Yaonan and Feng, Mingtao and Wang, Danwei and Zhao, Jiawen and Stachniss, Cyrill and Chen, Xieyuanli},
-      booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-      pages={1556--1563},
-      year={2022},
-      organization={IEEE}
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+      year={2022}
     }</code></pre>
    </div>
    </details>
@@ -2379,13 +2239,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{sun2022efficient,
+       <pre><code>@inproceedings{sun2022iros,
       title={Efficient spatial-temporal information fusion for lidar-based 3d moving object segmentation},
       author={Sun, Jiadai and Dai, Yuchao and Zhang, Xianjing and Xu, Jintao and Ai, Rui and Gu, Weihao and Chen, Xieyuanli},
-      booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-      pages={11456--11463},
-      year={2022},
-      organization={IEEE}
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+      year={2022}
     }</code></pre>
    </div>
    </details>
@@ -2405,15 +2263,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{li2021multi,
+       <pre><code>@article{li2021ral,
       title={Multi-scale interaction for real-time lidar data segmentation on an embedded platform},
       author={Li, Shijie and Chen, Xieyuanli and Liu, Yun and Dai, Dengxin and Stachniss, Cyrill and Gall, Juergen},
-      journal={IEEE Robotics and Automation Letters},
-      volume={7},
-      number={2},
-      pages={738--745},
-      year={2021},
-      publisher={IEEE}
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2021}
     }</code></pre>
    </div>
    </details>
@@ -2432,15 +2286,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{chen2021moving,
+       <pre><code>@article{chen2021ral,
       title={Moving object segmentation in 3D LiDAR data: A learning-based approach exploiting sequential data},
       author={Chen, Xieyuanli and Li, Shijie and Mersch, Benedikt and Wiesmann, Louis and Gall, J{\"u}rgen and Behley, Jens and Stachniss, Cyrill},
-      journal={IEEE Robotics and Automation Letters},
-      volume={6},
-      number={4},
-      pages={6529--6536},
-      year={2021},
-      publisher={IEEE}
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2021}
     }</code></pre>
    </div>
    </details>
@@ -2459,15 +2309,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{shi2021keypoint,
+       <pre><code>@article{shi2021ral,
       title={Keypoint matching for point cloud registration using multiplex dynamic graph attention networks},
       author={Shi, Chenghao and Chen, Xieyuanli and Huang, Kaihong and Xiao, Junhao and Lu, Huimin and Stachniss, Cyrill},
-      journal={IEEE Robotics and Automation Letters},
-      volume={6},
-      number={4},
-      pages={8221--8228},
-      year={2021},
-      publisher={IEEE}
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2021}
     }</code></pre>
    </div>
    </details>
@@ -2486,15 +2332,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{wiesmann2021deep,
+       <pre><code>@article{wiesmann2021ral,
       title={Deep compression for dense point cloud maps},
       author={Wiesmann, Louis and Milioto, Andres and Chen, Xieyuanli and Stachniss, Cyrill and Behley, Jens},
-      journal={IEEE Robotics and Automation Letters},
-      volume={6},
-      number={2},
-      pages={2060--2067},
-      year={2021},
-      publisher={IEEE}
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2021}
     }</code></pre>
    </div>
    </details>
@@ -2513,13 +2355,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{mersch2022self,
+       <pre><code>@inproceedings{mersch2022corl,
       title={Self-supervised point cloud prediction using 3d spatio-temporal convolutional networks},
       author={Mersch, Benedikt and Chen, Xieyuanli and Behley, Jens and Stachniss, Cyrill},
-      booktitle={Conference on Robot Learning},
-      pages={1444--1454},
-      year={2022},
-      organization={PMLR}
+      booktitle={In Proc. of the Conf. on Robot Learning (CoRL)},
+      year={2022}
     }</code></pre>
    </div>
    </details>
@@ -2556,13 +2396,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{chen2021range,
+       <pre><code>@inproceedings{chen2021icra,
       title={Range image-based LiDAR localization for autonomous vehicles},
       author={Chen, Xieyuanli and Vizzo, Ignacio and L{\"a}be, Thomas and Behley, Jens and Stachniss, Cyrill},
-      booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
-      pages={5802--5808},
-      year={2021},
-      organization={IEEE}
+      booktitle={In Proc. of the IEEE Intl. Conf. on Robotics & Automation (ICRA)},
+      year={2021}
     }</code></pre>
    </div>
    </details>
@@ -2581,13 +2419,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{vizzo2021poisson,
+       <pre><code>@inproceedings{vizzo2021icra,
       title={Poisson surface reconstruction for LiDAR odometry and mapping},
       author={Vizzo, Ignacio and Chen, Xieyuanli and Chebrolu, Nived and Behley, Jens and Stachniss, Cyrill},
-      booktitle={IEEE international conference on robotics and automation (ICRA)},
-      pages={5624--5630},
-      year={2021},
-      organization={IEEE}
+      booktitle={In Proc. of the IEEE Intl. Conf. on Robotics & Automation (ICRA)},
+      year={2021}
     }</code></pre>
    </div>
    </details>
@@ -2606,13 +2442,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{reinke2021simple,
+       <pre><code>@inproceedings{reinke2021icra,
       title={Simple but effective redundant odometry for autonomous vehicles},
       author={Reinke, Andrzej and Chen, Xieyuanli and Stachniss, Cyrill},
-      booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
-      pages={9631--9637},
-      year={2021},
-      organization={IEEE}
+      booktitle={In Proc. of the IEEE Intl. Conf. on Robotics & Automation (ICRA)},
+      year={2021}
     }</code></pre>
    </div>
    </details>
@@ -2631,13 +2465,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{zhou2021efficient,
+       <pre><code>@inproceedings{zhou2021iros,
       title={Efficient localisation using images and OpenStreetMaps},
       author={Zhou, Mengjie and Chen, Xieyuanli and Samano, Noe and Stachniss, Cyrill and Calway, Andrew},
-      booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-      pages={5507--5513},
-      year={2021},
-      organization={IEEE}
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+      year={2021}
     }</code></pre>
    </div>
    </details>
@@ -2656,13 +2488,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{arora2021mapping,
+       <pre><code>@inproceedings{arora2021ecmr,
       title={Mapping the static parts of dynamic scenes from 3D LiDAR point clouds exploiting ground segmentation},
       author={Arora, Mehul and Wiesmann, Louis and Chen, Xieyuanli and Stachniss, Cyrill},
-      booktitle={2021 European Conference on Mobile Robots (ECMR)},
-      pages={1--6},
-      year={2021},
-      organization={IEEE}
+      booktitle={In Proc. of the Europ. Conf. on Mobile Robotics (ECMR)},
+      year={2021}
     }</code></pre>
    </div>
    </details>
@@ -2678,13 +2508,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{dong2021online,
+       <pre><code>@inproceedings{dong2021ecmr,
       title={Online range image-based pole extractor for long-term lidar localization in urban environments},
       author={Dong, Hao and Chen, Xieyuanli and Stachniss, Cyrill},
-      booktitle={2021 European conference on mobile robots (ECMR)},
-      pages={1--6},
-      year={2021},
-      organization={IEEE}
+      booktitle={In Proc. of the Europ. Conf. on Mobile Robotics (ECMR)},
+      year={2021}
     }</code></pre>
    </div>
    </details>
@@ -2705,10 +2533,10 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{chen2021overlapnet,
+       <pre><code>@inproceedings{chen2021rss,
       title={OverlapNet: Loop closing for LiDAR-based SLAM},
       author={Chen, Xieyuanli and L{\"a}be, Thomas and Milioto, Andres and R{\"o}hling, Timo and Vysotska, Olga and Haag, Alexandre and Behley, Jens and Stachniss, Cyrill},
-      journal={arXiv preprint arXiv:2105.11344},
+      booktitle={In Proc. of Robotics: Science and Systems (RSS)},
       year={2021}
     }</code></pre>
    </div>
@@ -2728,13 +2556,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{chen2020learning,
+       <pre><code>@inproceedings{chen2020iros,
       title={Learning an overlap-based observation model for 3D LiDAR localization},
       author={Chen, Xieyuanli and L{\"a}be, Thomas and Nardi, Lorenzo and Behley, Jens and Stachniss, Cyrill},
-      booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-      pages={4602--4608},
-      year={2020},
-      organization={IEEE}
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+      year={2020}
     }</code></pre>
    </div>
    </details>
@@ -2753,14 +2579,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@article{deng2020semantic,
+       <pre><code>@article{deng2020access,
       title={Semantic RGB-D SLAM for rescue robot navigation},
       author={Deng, Wenbang and Huang, Kaihong and Chen, Xieyuanli and Zhou, Zhiqian and Shi, Chenghao and Guo, Ruibin and Zhang, Hui},
       journal={IEEE Access},
-      volume={8},
-      pages={221320--221329},
-      year={2020},
-      publisher={IEEE}
+      year={2020}
     }</code></pre>
    </div>
    </details>
@@ -2777,13 +2600,11 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{chen2019suma++,
+       <pre><code>@inproceedings{chen2019iros,
       title={Suma++: Efficient lidar-based semantic slam},
       author={Chen, Xieyuanli and Milioto, Andres and Palazzolo, Emanuele and Giguere, Philippe and Behley, Jens and Stachniss, Cyrill},
-      booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-      pages={4530--4537},
-      year={2019},
-      organization={IEEE}
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+      year={2019}
     }</code></pre>
    </div>
    </details>
