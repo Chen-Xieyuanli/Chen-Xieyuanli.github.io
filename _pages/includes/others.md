@@ -10,7 +10,7 @@
   THESIS: Binary Visual Feature‑based Monocular SLAM
 
 - **2011.09 - 2015.07**, B.S. in Electrical Engineering and Automation, Hunan University<br>
-  _Hunan, China, SUPERVISOR: Prof. Dr. Jianhao Tan_<br>
+  _Hunan, China, SUPERVISOR: Prof. Dr. Yaonan Wang_<br>
   THESIS: Control for a Quadrotor UVA
 
 <span id="experience"></span>
