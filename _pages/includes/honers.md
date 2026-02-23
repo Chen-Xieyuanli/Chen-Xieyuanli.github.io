@@ -3,6 +3,10 @@
 
 # 🎖 Honors and Awards
 - <p style="margin: 0; line-height: 1.2;">
+  2026 <strong>Hong Kong Scholars </strong><br>
+  <span style="font-size: 90%;">The Society of Hong Kong Scholars</span>
+  </p>
+- <p style="margin: 0; line-height: 1.2;">
   2025 <strong>Differential Robotics Pioneers </strong><br>
   <span style="font-size: 90%;">Differential Robotics</span>
   </p>
