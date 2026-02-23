@@ -17,6 +17,10 @@
 # 👨‍🔧 Working Experience
 ## ACADEMIC WORKING EXPERIENCE
 - <p style="margin: 0; line-height: 1.2;">
+  <strong>2026.01 ‑ Present</strong> Visiting Scholar<br>
+  <span style="font-size: 90%;">The Chinese University of Hong Kong </span>
+  </p>
+- <p style="margin: 0; line-height: 1.2;">
   <strong>2022.12 ‑ Present</strong> Associate Professor<br>
   <span style="font-size: 90%;">National University of Defense Technology </span>
   </p>
@@ -26,6 +30,10 @@
   </p>
   
 ## RESEARCH COMMITTEE MEMBERSHIP
+- <p style="margin: 0; line-height: 1.2;">
+  <strong>2026.01 ‑ Present</strong> Associate Editor <br>
+  <span style="font-size: 90%;">IEEE Transactions on Robotics (T‑RO) </span>
+  </p>
 - <p style="margin: 0; line-height: 1.2;">
   <strong>2022.09 ‑ Present</strong> Associate Editor <br>
   <span style="font-size: 90%;">IEEE Robotics and Automation Letters (RA‑L) </span>
