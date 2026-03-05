@@ -147,7 +147,7 @@
    <a href="https://www.sciencedirect.com/science/article/pii/S0167865526000413" class="pub-link">[PDF]</a>
    </div>
    
-   *Pattern Recognition Letters***
+   *Pattern Recognition Letters*
   
    Zhijian He, Weibin Li, Jintao Cheng, Yipu Zhang, Chi-Man Vong, Jin Wu, **<u>Xieyuanli Chen</u>**
    
