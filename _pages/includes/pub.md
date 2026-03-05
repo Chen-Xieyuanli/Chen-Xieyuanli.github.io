@@ -71,10 +71,10 @@
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
        <pre><code>@ARTICLE{li2026ral,
-  title={LiDAR-VGGT: Cross-Modal Coarse-to-Fine Fusion for Globally Consistent and Metric-Scale Dense Mapping}, 
-  author={Wang, Lijie and Guo, Lianjie and Xu, Ziyi and Wang, Qianhao and Gao, Fei and Chen, Xieyuanli},
-  journal={IEEE Robotics and Automation Letters},  
-  year={2026}
+     title={LiDAR-VGGT: Cross-Modal Coarse-to-Fine Fusion for Globally Consistent and Metric-Scale Dense Mapping}, 
+     author={Wang, Lijie and Guo, Lianjie and Xu, Ziyi and Wang, Qianhao and Gao, Fei and Chen, Xieyuanli},
+     journal={IEEE Robotics and Automation Letters},  
+     year={2026}
     }</code></pre>
    </div>
    </details>
