@@ -122,6 +122,9 @@
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2506.23207" class="pub-link">[PDF]</a>
+   <a href="https://github.com/MagicTZ/TVG-SLAM">
+    <img src="https://img.shields.io/github/stars/MagicTZ/TVG-SLAM?style=social&label=Code+Stars" alt="GitHub stars">
+    </a>
    </div>
    
    *IEEE Robotics and Automation Letters **(RA-L)***
