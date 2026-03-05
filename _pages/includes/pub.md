@@ -1,13 +1,160 @@
 .<span id="publications"></span>
 
 # 📝 Publications
+##  2026
+- [Efficient Point Cloud Processing with High-Dimensional Positional Encoding and Non-Local MLPs](https://ieeexplore.ieee.org/abstract/document/11397841) 
+  <div class="pub-links">
+  <details class="bibtex-details">
+    <summary class="bibtex-button">[BibTeX]</summary>
+    <div class="bibtex-block">
+      <pre><code>@ARTICLE{zou2026tpami,
+  title={Efficient Point Cloud Processing with High-Dimensional Positional Encoding and Non-Local MLPs}, 
+  author={Zou, Yanmei and Yu, Hongshan and Wang, Yaonan and Yang, Zhengeng and Chen, Xieyuanli and Yang, Kailun and Akhtar, Naveed},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},   
+  year={2026}
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://www.researchgate.net/publication/400891845_Efficient_Point_Cloud_Processing_with_High-Dimensional_Positional_Encoding_and_Non-Local_MLPs" class="pub-link">[PDF]</a>
+  <a href="https://github.com/zouyanmei/HPENet_v2">
+    <img src="https://img.shields.io/github/stars/zouyanmei/HPENet_v2?style=social&label=Code+Stars" alt="GitHub stars">
+  </a>
+  </div>
+  
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence **(T-PAMI)***
+   
+   Yanmei Zou, Hongshan Yu, Yaonan Wang, Zhengeng Yang, **<u>Xieyuanli Chen</u>**, Kailun Yang, Naveed Akhtar
+  
+- [AmphiHip Exo: A Cable-Driven Amphibious Hip Exoskeleton With Physics-Informed Intention Perception for Lower Limb Augmentation](https://ieeexplore.ieee.org/abstract/document/11414442/) 
+  <div class="pub-links">
+  <details class="bibtex-details">
+    <summary class="bibtex-button">[BibTeX]</summary>
+    <div class="bibtex-block">
+      <pre><code>@ARTICLE{chen2026,
+  title={AmphiHip Exo: A Cable-Driven Amphibious Hip Exoskeleton With Physics-Informed Intention Perception for Lower Limb Augmentation}, 
+  author={Chen, Longwen and Chen, Xieyuanli and Xu, Junpeng and Cui, Fangge and Gui, Ke and Cheng, Chuang and Lu, Huimin},
+  journal={IEEE/ASME Transactions on Mechatronics}, 
+  year={2026}
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://ieeexplore.ieee.org/abstract/document/11414442/" class="pub-link">[PDF]</a>
+  </div>
+  
+  *IEEE/ASME Transactions on Mechatronics **(T-Mech)***
+
+   Longwen Chen, **<u>Xieyuanli Chen</u>**, Junpeng Xu, Fangge Cui, Ke Gui, Chuang Cheng, Huimin Lu
+  
+- [Velocity Space Representation Learning for GPR Keypoint Detection and Matching](https://ieeexplore.ieee.org/abstract/document/11346028) 
+  <div class="pub-links">
+  <details class="bibtex-details">
+    <summary class="bibtex-button">[BibTeX]</summary>
+    <div class="bibtex-block">
+      <pre><code>@ARTICLE{zhang2026tii,
+  journal={IEEE Transactions on Industrial Informatics}, 
+  author={Zhang, Pengyu and Chen, Xieyuanli and Shen, Liang and Yang, Xulei and Veeravalli, Bharadwaj and Li, Shijie and Jin, Tian and Huang, Xiaotao},
+  title={Velocity Space Representation Learning for GPR Keypoint Detection and Matching}, 
+  year={2026}
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://ieeexplore.ieee.org/abstract/document/11346028" class="pub-link">[PDF]</a>
+  </div>
+  
+  *IEEE Transactions on Industrial Informatics **(T-II)***
+   
+   Pengyu Zhang,  **<u>Xieyuanli Chen</u>** , Liang Shen, Xulei Yang, Bharadwaj Veeravalli, Shijie Li, Tian Jin, Xiaotao Huang
+  
+ - [LiDAR-VGGT: Cross-Modal Coarse-to-Fine Fusion for Globally Consistent and Metric-Scale Dense Mapping](https://ieeexplore.ieee.org/abstract/document/11399876) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{li2026ral,
+  title={LiDAR-VGGT: Cross-Modal Coarse-to-Fine Fusion for Globally Consistent and Metric-Scale Dense Mapping}, 
+  author={Wang, Lijie and Guo, Lianjie and Xu, Ziyi and Wang, Qianhao and Gao, Fei and Chen, Xieyuanli},
+  journal={IEEE Robotics and Automation Letters},  
+  year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2511.01186" class="pub-link">[PDF]</a>
+   <a href="https://github.com/NorwegianSmokedSalmon/Color-Map-Evaluation">
+     <img src="https://img.shields.io/github/stars/NorwegianSmokedSalmon/Color-Map-Evaluation?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+   *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Lijie Wang, Lianjie Guo, Ziyi Xu, Qianhao Wang, Fei Gao, **<u>Xieyuanli Chen</u>**
+
+ - [LiteFT-PR: Lightweight and Fault-Tolerant LiDAR-Camera Fusion Network for Robust Place Recognition via Model Distillation](https://ieeexplore.ieee.org/abstract/document/11373724) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{wang2026ral,
+  title={LiteFT-PR: Lightweight and Fault-Tolerant LiDAR-Camera Fusion Network for Robust Place Recognition via Model Distillation}, 
+  author={Wang, Zihang and Li, Xu and Zong, Guanyu and Chen, Xieyuanli and Kong, Dong and Peng, Yiming and Zhu, Wenkai and Wang, Kaiyi},
+  journal={IEEE Robotics and Automation Letters}, 
+  year={2026}
+  }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/abstract/document/11373724" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Zihang Wang, Xu Li, Guanyu Zong, **<u>Xieyuanli Chen</u>**, Dong Kong, Yiming Peng, Wenkai Zhu, Kaiyi Wang
+
+ - [TVG-SLAM: Robust Gaussian Splatting SLAM With Tri-View Geometric Constraints](https://ieeexplore.ieee.org/abstract/document/11278701) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{tan2026ral,
+  title={TVG-SLAM: Robust Gaussian Splatting SLAM With Tri-View Geometric Constraints}, 
+  author={Tan, Zhen and Chen, Xieyuanli and Feng, Lei and Ge, Yangbing and Zhi, Shuaifeng and Liu, Jiaxiong and Hu, Dewen},
+  journal={IEEE Robotics and Automation Letters}, 
+  year={2026}
+  }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2506.23207" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Zhen Tan, **<u>Xieyuanli Chen</u>**, Lei Feng, Yangbing Ge, Shuaifeng Zhi, Jiaxiong Liu, Dewen Hu
+   
+ - [Guiding Multimodal LLMs for Efficient Visual Place Recognition](https://www.sciencedirect.com/science/article/pii/S0167865526000413) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{he2026prl,
+  title={Guiding Multimodal LLMs for Efficient Visual Place Recognition}, 
+  author={Zhijian He, Weibin Li, Jintao Cheng, Yipu Zhang, Chi-Man Vong, Jin Wu, Xieyuanli Chen},
+  journal={Pattern Recognition Letters}, 
+  year={2026}
+  }</code></pre>
+   </div>
+   </details>
+   <a href="https://www.sciencedirect.com/science/article/pii/S0167865526000413" class="pub-link">[PDF]</a>
+   </div>
+   
+   *Pattern Recognition Letters***
+  
+   Zhijian He, Weibin Li, Jintao Cheng, Yipu Zhang, Chi-Man Vong, Jin Wu, **<u>Xieyuanli Chen</u>**
+   
 ##  2025
 - [MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos](https://www.computer.org/csdl/journal/tp/5555/01/11250770/2bIOy8s3mXS) 
   <div class="pub-links">
   <details class="bibtex-details">
     <summary class="bibtex-button">[BibTeX]</summary>
     <div class="bibtex-block">
-      <pre><code>@article{ma2024tpami,
+      <pre><code>@article{ma2025tpami,
       title={MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos}, 
       author={Junyi Ma and Xieyuanli Chen and Wentao Bao and Jingyi Xu and Hesheng Wang},
       journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)},
