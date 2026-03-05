@@ -94,11 +94,11 @@
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
        <pre><code>@ARTICLE{wang2026ral,
-  title={LiteFT-PR: Lightweight and Fault-Tolerant LiDAR-Camera Fusion Network for Robust Place Recognition via Model Distillation}, 
-  author={Wang, Zihang and Li, Xu and Zong, Guanyu and Chen, Xieyuanli and Kong, Dong and Peng, Yiming and Zhu, Wenkai and Wang, Kaiyi},
-  journal={IEEE Robotics and Automation Letters}, 
-  year={2026}
-  }</code></pre>
+      title={LiteFT-PR: Lightweight and Fault-Tolerant LiDAR-Camera Fusion Network for Robust Place Recognition via Model Distillation}, 
+      author={Wang, Zihang and Li, Xu and Zong, Guanyu and Chen, Xieyuanli and Kong, Dong and Peng, Yiming and Zhu, Wenkai and Wang, Kaiyi},
+      journal={IEEE Robotics and Automation Letters}, 
+      year={2026}
+    }</code></pre>
    </div>
    </details>
    <a href="https://ieeexplore.ieee.org/abstract/document/11373724" class="pub-link">[PDF]</a>
@@ -114,11 +114,11 @@
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
        <pre><code>@ARTICLE{tan2026ral,
-  title={TVG-SLAM: Robust Gaussian Splatting SLAM With Tri-View Geometric Constraints}, 
-  author={Tan, Zhen and Chen, Xieyuanli and Feng, Lei and Ge, Yangbing and Zhi, Shuaifeng and Liu, Jiaxiong and Hu, Dewen},
-  journal={IEEE Robotics and Automation Letters}, 
-  year={2026}
-  }</code></pre>
+      title={TVG-SLAM: Robust Gaussian Splatting SLAM With Tri-View Geometric Constraints}, 
+      author={Tan, Zhen and Chen, Xieyuanli and Feng, Lei and Ge, Yangbing and Zhi, Shuaifeng and Liu, Jiaxiong and Hu, Dewen},
+      journal={IEEE Robotics and Automation Letters}, 
+      year={2026}
+    }</code></pre>
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2506.23207" class="pub-link">[PDF]</a>
@@ -134,11 +134,11 @@
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
        <pre><code>@ARTICLE{he2026prl,
-  title={Guiding Multimodal LLMs for Efficient Visual Place Recognition}, 
-  author={Zhijian He, Weibin Li, Jintao Cheng, Yipu Zhang, Chi-Man Vong, Jin Wu, Xieyuanli Chen},
-  journal={Pattern Recognition Letters}, 
-  year={2026}
-  }</code></pre>
+      title={Guiding Multimodal LLMs for Efficient Visual Place Recognition}, 
+      author={Zhijian He, Weibin Li, Jintao Cheng, Yipu Zhang, Chi-Man Vong, Jin Wu, Xieyuanli Chen},
+      journal={Pattern Recognition Letters}, 
+      year={2026}
+    }</code></pre>
    </div>
    </details>
    <a href="https://www.sciencedirect.com/science/article/pii/S0167865526000413" class="pub-link">[PDF]</a>
