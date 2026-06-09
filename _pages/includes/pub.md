@@ -24,6 +24,29 @@
   *IEEE Transactions on Pattern Analysis and Machine Intelligence **(T-PAMI)***
    
    Yanmei Zou, Hongshan Yu, Yaonan Wang, Zhengeng Yang, **<u>Xieyuanli Chen</u>**, Kailun Yang, Naveed Akhtar
+   
+- [Efficient Point Cloud Processing with High-Dimensional Positional Encoding and Non-Local MLPs](https://ieeexplore.ieee.org/abstract/document/11397841) 
+  <div class="pub-links">
+  <details class="bibtex-details">
+    <summary class="bibtex-button">[BibTeX]</summary>
+    <div class="bibtex-block">
+      <pre><code>@ARTICLE{zou2026tpami,
+  title={Efficient Point Cloud Processing with High-Dimensional Positional Encoding and Non-Local MLPs}, 
+  author={Zou, Yanmei and Yu, Hongshan and Wang, Yaonan and Yang, Zhengeng and Chen, Xieyuanli and Yang, Kailun and Akhtar, Naveed},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},   
+  year={2026}
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://www.researchgate.net/publication/400891845_Efficient_Point_Cloud_Processing_with_High-Dimensional_Positional_Encoding_and_Non-Local_MLPs" class="pub-link">[PDF]</a>
+  <a href="https://github.com/zouyanmei/HPENet_v2">
+    <img src="https://img.shields.io/github/stars/zouyanmei/HPENet_v2?style=social&label=Code+Stars" alt="GitHub stars">
+  </a>
+  </div>
+  
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence **(T-PAMI)***
+   
+   Yanmei Zou, Hongshan Yu, Yaonan Wang, Zhengeng Yang, **<u>Xieyuanli Chen</u>**, Kailun Yang, Naveed Akhtar
   
 - [AmphiHip Exo: A Cable-Driven Amphibious Hip Exoskeleton With Physics-Informed Intention Perception for Lower Limb Augmentation](https://ieeexplore.ieee.org/abstract/document/11414442/) 
   <div class="pub-links">
