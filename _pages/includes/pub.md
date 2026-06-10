@@ -201,24 +201,23 @@
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@ARTICLE{bibtex_key,
-      title={论文标题}, 
-      author={作者1 and 作者2 and Chen, Xieyuanli and 作者N},
-      journal={期刊名称}, 
-      year={年份}
+       <pre><code>@InProceedings{kang2026cvpr,
+      title={VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models}, 
+      author={Kang, Shuhao and Liao, Youqi and Wang, Peijie and Liao, Wenlong and Zhang, Qilin and Busam, Benjamin and Chen, Xieyuanli and Liu, Yun},
+      booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, 
+      year={2026}
     }</code></pre>
    </div>
    </details>
-   <a href="PDF链接" class="pub-link">[PDF]</a>
-   <a href="项目主页链接" class="pub-link">[Web]</a>
-   <a href="代码仓库链接">
-    <img src="https://img.shields.io/github/stars/用户名/仓库名?style=social&label=Code+Stars" alt="GitHub stars">
+   <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Kang_VLM-Loc_Localization_in_Point_Cloud_Maps_via_Vision-Language_Models_CVPR_2026_paper.pdf" class="pub-link">[PDF]</a>
+   <a href="https://github.com/MCG-NKU/nku-3d-vision">
+    <img src="https://img.shields.io/github/stars/MCG-NKU/nku-3d-vision?style=social&label=Code+Stars" alt="GitHub stars">
     </a>
    </div>
    
-   *期刊或会议全称 **(缩写)***
+   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)***
   
-   作者, **<u>Xieyuanli Chen</u>**, 作者, 作者, 作者
+   Shuhao Kang, Youqi Liao, Peijie Wang, Wenlong Liao, Qilin Zhang, Benjamin Busam, **<u>Xieyuanli Chen</u>**, Yun Liu
 
    
 ##  2025
