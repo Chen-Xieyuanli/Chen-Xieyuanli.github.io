@@ -2,28 +2,6 @@
 
 # 📝 Publications
 ##  2026
-- [Efficient Point Cloud Processing with High-Dimensional Positional Encoding and Non-Local MLPs](https://ieeexplore.ieee.org/abstract/document/11397841) 
-  <div class="pub-links">
-  <details class="bibtex-details">
-    <summary class="bibtex-button">[BibTeX]</summary>
-    <div class="bibtex-block">
-      <pre><code>@ARTICLE{zou2026tpami,
-  title={Efficient Point Cloud Processing with High-Dimensional Positional Encoding and Non-Local MLPs}, 
-  author={Zou, Yanmei and Yu, Hongshan and Wang, Yaonan and Yang, Zhengeng and Chen, Xieyuanli and Yang, Kailun and Akhtar, Naveed},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},   
-  year={2026}
-  }</code></pre>
-  </div>
-  </details>
-  <a href="https://www.researchgate.net/publication/400891845_Efficient_Point_Cloud_Processing_with_High-Dimensional_Positional_Encoding_and_Non-Local_MLPs" class="pub-link">[PDF]</a>
-  <a href="https://github.com/zouyanmei/HPENet_v2">
-    <img src="https://img.shields.io/github/stars/zouyanmei/HPENet_v2?style=social&label=Code+Stars" alt="GitHub stars">
-  </a>
-  </div>
-  
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence **(T-PAMI)***
-   
-   Yanmei Zou, Hongshan Yu, Yaonan Wang, Zhengeng Yang, **<u>Xieyuanli Chen</u>**, Kailun Yang, Naveed Akhtar
    
 - [Efficient Point Cloud Processing with High-Dimensional Positional Encoding and Non-Local MLPs](https://ieeexplore.ieee.org/abstract/document/11397841) 
   <div class="pub-links">
@@ -173,6 +151,29 @@
    *Pattern Recognition Letters*
   
    Zhijian He, Weibin Li, Jintao Cheng, Yipu Zhang, Chi-Man Vong, Jin Wu, **<u>Xieyuanli Chen</u>**
+
+- [TTAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Spatiotemporal_Decoupling_for_Efficient_Vision-Based_Occupancy_Forecasting_CVPR_2025_paper.html) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{xu2025scvpr,
+     title={Spatiotemporal decoupling for efficient vision-based occupancy forecasting},
+     author={Xu, Jingyi and Chen, Xieyuanli and Ma, Junyi and Huang, Jiawei and Xu, Jintao and Wang, Yue and Pei, Ling},
+     booktitle={In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR)},
+     year={2025}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Spatiotemporal_Decoupling_for_Efficient_Vision-Based_Occupancy_Forecasting_CVPR_2025_paper.pdf" class="pub-link">[PDF]</a>
+   <a href="https://github.com/BIT-XJY/EfficientOCF">
+     <img src="https://img.shields.io/github/stars/BIT-XJY/EfficientOCF?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+  *In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition **(CVPR 2025)***
+
+  Jingyi Xu, **<u>Xieyuanli Chen</u>**, Junyi Ma, Jiawei Huang, Jintao Xu, Yue Wang, Ling Pei
    
 ##  2025
 - [MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos](https://www.computer.org/csdl/journal/tp/5555/01/11250770/2bIOy8s3mXS) 
