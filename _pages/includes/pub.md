@@ -25,7 +25,51 @@
   *IEEE Transactions on Pattern Analysis and Machine Intelligence **(T-PAMI)***
    
    Yanmei Zou, Hongshan Yu, Yaonan Wang, Zhengeng Yang, **<u>Xieyuanli Chen</u>**, Kailun Yang, Naveed Akhtar
+
+ - [Uni-Hand: Universal Hand Motion Forecasting in Egocentric Views](https://ieeexplore.ieee.org/abstract/document/11517265) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{ma2026tpami,
+      title={Uni-Hand: Universal Hand Motion Forecasting in Egocentric Views}, 
+      author={Ma, Junyi and Bao, Wentao and Xu, Jingyi and Sun, Guanzhong and Zheng, Yu and Zhang, Erhang and Chen, Xieyuanli and Wang, Hesheng},
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11517265" class="pub-link">[PDF]</a>
+   <a href="https://irmvlab.github.io/unihand.github.io/" class="pub-link">[Web]</a>
+   </div>
+   
+   *IEEE Transactions on Pattern Analysis and Machine Intelligence **(T-PAMI)***
   
+   Junyi Ma, Wentao Bao, Jingyi Xu, Guanzhong Sun, Yu Zheng, Erhang Zhang, **<u>Xieyuanli Chen</u>**, Hesheng Wang
+
+ - [Coupling Structural Descriptors With a Novel Semantic Graph Matching Approach for LiDAR Loop Detection](https://ieeexplore.ieee.org/abstract/document/11454605) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{tang2026tase,
+      title={Coupling Structural Descriptors With a Novel Semantic Graph Matching Approach for LiDAR Loop Detection}, 
+      author={Tang, Yujie and Wang, Meiling and Zuo, Sibo and Yang, Chengxi and Jiang, Jinhao and Chen, Xieyuanli and Yue, Yufeng},
+      journal={IEEE Transactions on Automation Science and Engineering}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11454605" class="pub-link">[PDF]</a>
+   <a href="https://github.com/ANCHOR9178/SAGE">
+    <img src="https://img.shields.io/github/stars/ANCHOR9178/SAGE?style=social&label=Code+Stars" alt="GitHub stars">
+    </a>
+   </div>
+   
+   *IEEE Transactions on Automation Science and Engineering **(T-ASE)***
+  
+   Yujie Tang, Meiling Wang, Sibo Zuo, Chengxi Yang, Jinhao Jiang, **<u>Xieyuanli Chen</u>**, Yufeng Yue
+
 - [AmphiHip Exo: A Cable-Driven Amphibious Hip Exoskeleton With Physics-Informed Intention Perception for Lower Limb Augmentation](https://ieeexplore.ieee.org/abstract/document/11414442/) 
   <div class="pub-links">
   <details class="bibtex-details">
@@ -45,7 +89,27 @@
   *IEEE/ASME Transactions on Mechatronics **(T-Mech)***
 
    Longwen Chen, **<u>Xieyuanli Chen</u>**, Junpeng Xu, Fangge Cui, Ke Gui, Chuang Cheng, Huimin Lu
+
+ - [An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather](https://ieeexplore.ieee.org/abstract/document/11458670) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{zhao2026tvt,
+      title={An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather}, 
+      author={Zhao, Xiongwei and Chen, Xieyuanli and Zhu, Xu and Xie, Xingxiang and Bai, Haojie and Wen, Congcong and Zhou, Rundong and Sun, Qihao},
+      journal={IEEE Transactions on Vehicular Technology}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11458670" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Transactions on Vehicular Technology **(T-VT)***
   
+   Xiongwei Zhao, **<u>Xieyuanli Chen</u>**,  Xu Zhu, Xingxiang Xie, Haojie Bai, Congcong Wen, Rundong Zhou and Qihao Sun
+
 - [Velocity Space Representation Learning for GPR Keypoint Detection and Matching](https://ieeexplore.ieee.org/abstract/document/11346028) 
   <div class="pub-links">
   <details class="bibtex-details">
@@ -65,7 +129,28 @@
   *IEEE Transactions on Industrial Informatics **(T-II)***
    
    Pengyu Zhang,  **<u>Xieyuanli Chen</u>** , Liang Shen, Xulei Yang, Bharadwaj Veeravalli, Shijie Li, Tian Jin, Xiaotao Huang
+
+ - [STEP-Mover: Stratified and Tiered Multi-scale Descriptor for Efficient Static Pointcloud Environment Measurement](https://ieeexplore.ieee.org/abstract/document/11431192) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{jia2026tim,
+      title={STEP-Mover: Stratified and Tiered Multiscale Descriptor for Efficient Static Point Cloud Environment Measurement}, 
+      author={Jia, Yanpeng and Wang, Ting and Shao, Shiliang and Chen, Xieyuanli and Liu, Hao},
+      journal={IEEE Transactions on Instrumentation and Measurement}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11431192" class="pub-link">[PDF]</a>
+   <a href="https://yaepiii.github.io/STEP-Mover/" class="pub-link">[Web]</a>
+   </div>
+   
+   *IEEE Transactions on Instrumentation and Measurement **(T-IM)***
   
+   Yanpeng Jia, Ting Wang, Shiliang Shao, **<u>Xieyuanli Chen</u>**, Hao Liu
+
  - [LiDAR-VGGT: Cross-Modal Coarse-to-Fine Fusion for Globally Consistent and Metric-Scale Dense Mapping](https://ieeexplore.ieee.org/abstract/document/11399876) 
    <div class="pub-links">
    <details class="bibtex-details">
@@ -131,7 +216,47 @@
    *IEEE Robotics and Automation Letters **(RA-L)***
   
    Zhen Tan, **<u>Xieyuanli Chen</u>**, Lei Feng, Yangbing Ge, Shuaifeng Zhi, Jiaxiong Liu, Dewen Hu
+
+ - [PHMRNet: Persistent Homology Based Mamba–RWKV Network for LiDAR Place Recognition](https://ieeexplore.ieee.org/abstract/document/11480752) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{zhou2026ral,
+      title={PHMRNet: Persistent Homology Based Mamba–RWKV Network for LiDAR Place Recognition}, 
+      author={Zhou, Dejing and Jiang, Xinyu and Chen, Sitao and Cai, Zhonghao and Wu, Jin and Chen, Xieyuanli and Yang, Jufeng and Vong, Chi-Man},
+      journal={IEEE Robotics and Automation Letters}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11480752" class="pub-link">[PDF]</a>
+   </div>
    
+   *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Dejing Zhou, Xinyu Jiang, Sitao Chen, Zhonghao Cai, Jin Wu, **<u>Xieyuanli Chen</u>**, Jufeng Yang, Chi-Man Vong
+
+ - [Diffusion-Based Restoration for Multi-Modal 3D Object Detection in Adverse Weather](https://ieeexplore.ieee.org/abstract/document/11513993) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{he2026ral,
+      title={Diffusion-Based Restoration for Multi-Modal 3D Object Detection in Adverse Weather}, 
+      author={He, Zhijian and Liu, Feifei and Li, Yuwei and Luo, Zhanpeng and Cheng, Jintao and Chen, Xieyuanli and Tang, Xiaoyu},
+      journal={IEEE Robotics and Automation Letters}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11513993" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Zhijian He, Feifei Liu, Yuwei Li, Zhonghao Cai, Zhanpeng Luo, Jintao Cheng, **<u>Xieyuanli Chen</u>**, XiaoyuTang
+
  - [Guiding Multimodal LLMs for Efficient Visual Place Recognition](https://www.sciencedirect.com/science/article/pii/S0167865526000413) 
    <div class="pub-links">
    <details class="bibtex-details">
