@@ -152,28 +152,74 @@
   
    Zhijian He, Weibin Li, Jintao Cheng, Yipu Zhang, Chi-Man Vong, Jin Wu, **<u>Xieyuanli Chen</u>**
 
-- [TTAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Spatiotemporal_Decoupling_for_Efficient_Vision-Based_Occupancy_Forecasting_CVPR_2025_paper.html) 
+ - [TTAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_TTAPFormer_Robust_Arbitrary_Point_Tracking_via_Transient_Asynchronous_Fusion_of_CVPR_2026_paper.html) 
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
      <div class="bibtex-block">
-       <pre><code>@inproceedings{xu2025scvpr,
-     title={Spatiotemporal decoupling for efficient vision-based occupancy forecasting},
-     author={Xu, Jingyi and Chen, Xieyuanli and Ma, Junyi and Huang, Jiawei and Xu, Jintao and Wang, Yue and Pei, Ling},
-     booktitle={In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR)},
-     year={2025}
-   }</code></pre>
+       <pre><code>@InProceedings{liu2026cvpr,
+      title={TTAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events}, 
+      author={Liu, Jiaxiong and Tan, Zhen and Zhang, Jinpu and Zhou, Yi and Shen, Hui and Chen, Xieyuanli and Hu, Dewen},
+      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, 
+      year={2026}
+    }</code></pre>
    </div>
    </details>
-   <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Spatiotemporal_Decoupling_for_Efficient_Vision-Based_Occupancy_Forecasting_CVPR_2025_paper.pdf" class="pub-link">[PDF]</a>
-   <a href="https://github.com/BIT-XJY/EfficientOCF">
-     <img src="https://img.shields.io/github/stars/BIT-XJY/EfficientOCF?style=social&label=Code+Stars" alt="GitHub stars">
-   </a>
+   <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_TTAPFormer_Robust_Arbitrary_Point_Tracking_via_Transient_Asynchronous_Fusion_of_CVPR_2026_paper.pdf" class="pub-link">[PDF]</a>
+   <a href="https://tapformer.github.io/" class="pub-link">[Web]</a>
    </div>
    
-  *In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition **(CVPR 2025)***
+   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)***
+  
+   Jiaxiong Liu, Zhen Tan, Jinpu Zhang, Yi Zhou, Hui Shen, **<u>Xieyuanli Chen</u>**, Dewen Hu
 
-  Jingyi Xu, **<u>Xieyuanli Chen</u>**, Junyi Ma, Jiawei Huang, Jintao Xu, Yue Wang, Ling Pei
+ - [SinGeo: Unlock Single Model's Potential for Robust Cross-View Geo-Localization](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_SinGeo_Unlock_Single_Models_Potential_for_Robust_Cross-View_Geo-Localization_CVPR_2026_paper.html) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@InProceedings{chen2026cvpr,
+      title={SinGeo: Unlock Single Model's Potential for Robust Cross-View Geo-Localization}, 
+      author={Chen, Yang and Chen, Xieyuanli and Li, Junxiang and Tang, Jie and Wu, Tao},
+      booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_SinGeo_Unlock_Single_Models_Potential_for_Robust_Cross-View_Geo-Localization_CVPR_2026_paper.pdf" class="pub-link">[PDF]</a>
+   <a href="https://github.com/Yangchen-nudt/SinGeo">
+    <img src="https://img.shields.io/github/stars/Yangchen-nudt/SinGeo?style=social&label=Code+Stars" alt="GitHub stars">
+    </a>
+   </div>
+   
+   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)***
+  
+   Yang Chen, **<u>Xieyuanli Chen</u>**, Junxiang Li, Jie Tang, Tao Wu
+
+ - [VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2026/html/Kang_VLM-Loc_Localization_in_Point_Cloud_Maps_via_Vision-Language_Models_CVPR_2026_paper.html) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{bibtex_key,
+      title={论文标题}, 
+      author={作者1 and 作者2 and Chen, Xieyuanli and 作者N},
+      journal={期刊名称}, 
+      year={年份}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="PDF链接" class="pub-link">[PDF]</a>
+   <a href="项目主页链接" class="pub-link">[Web]</a>
+   <a href="代码仓库链接">
+    <img src="https://img.shields.io/github/stars/用户名/仓库名?style=social&label=Code+Stars" alt="GitHub stars">
+    </a>
+   </div>
+   
+   *期刊或会议全称 **(缩写)***
+  
+   作者, **<u>Xieyuanli Chen</u>**, 作者, 作者, 作者
+
    
 ##  2025
 - [MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos](https://www.computer.org/csdl/journal/tp/5555/01/11250770/2bIOy8s3mXS) 
@@ -726,7 +772,7 @@
      title={RLCNet: A Novel Deep Feature-Matching-Based Method for Online Target-Free Radar-LiDAR Calibration},
      author={Luan, Kai and Shi, Chenghao and Chen, Xieyuanli and Fan, Rui and Zheng, Zhiqiang and Lu, Huimin},
      booktitle={In Proc. of the IEEE Intl. Conf. on Robotics & Automation (ICRA)},
-     year={2025
+     year={2025}
    }</code></pre>
    </div>
    </details>
