@@ -11,13 +11,12 @@ jobs:
         sudo apt-get install python3-setuptools
     - name: Run
       run: |
-        cd ./github_myprofile_updater
-        python3 update.py
-        git init
+        python3 ./github_myprofile_updater/update.py
         git config --local user.name "${GITHUB_ACTOR}"
         git config --local user.email "chenxieyuanli@hotmail.com"
         export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.MY_PERSONAL_ACCESS_TOKEN }}@github.com/Chen-Xieyuanli/Chen-Xieyuanli.github.io.git"
         git add README.md
         git add images
+        git diff --cached --quiet && echo "No profile updates to commit." && exit 0
         git commit -m "update my description automatically"
-        git push "${remote_repo}" HEAD:main --force
+        git push "${remote_repo}" HEAD:main
