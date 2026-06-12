@@ -27,7 +27,7 @@
   <span style="font-size: 90%;">IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS 2025)</span>
   </p>
 - <p style="margin: 0; line-height: 1.2;">
-  2024<strong> World’s Top 2% Scientists</strong> <br>
+  2024, 2025<strong> World’s Top 2% Scientists</strong> <br>
   <span style="font-size: 90%;">Stanford and Elsevier</span>
   </p>
 - <p style="margin: 0; line-height: 1.2;">
