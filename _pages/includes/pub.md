@@ -2,7 +2,50 @@
 
 # 📝 Publications
 ##  2026
+
+ - [DST-Calib: A Dual-Path, Self-Supervised, Target-Free LiDAR-Camera Extrinsic Calibration Network](https://arxiv.org/abs/2601.01188) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{huang2026tro,
+      title={DST-Calib: A Dual-Path, Self-Supervised, Target-Free LiDAR-Camera Extrinsic Calibration Network}, 
+      author={Zhiwei Huang, Yanwei Fu, Yi Zhou, Xieyuanli Chen, Qijun Chen, Rui Fan},
+      journal={IEEE Transactions on Robotics}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2601.01188" class="pub-link">[PDF]</a>
+   </div>
    
+   *IEEE Transactions on Robotics **(TRO)***
+  
+   Zhiwei Huang, Yanwei Fu, Yi Zhou, **<u>Xieyuanli Chen</u>**, Qijun Chen, Rui Fan
+
+ - [Dcreg: Decoupled characterization for efficient degenerate lidar registration](https://arxiv.org/abs/2509.06285) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{hu2026ijrr,
+      title={Dcreg: Decoupled characterization for efficient degenerate lidar registration}, 
+      author={Xiangcheng Hu, Xieyuanli Chen, Mingkai Jia, Jin Wu, Ping Tan, Steven L. Waslander},
+      journal={International Journal of Robotics Research}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2509.06285" class="pub-link">[PDF]</a>
+   <a href="https://github.com/JokerJohn/DCReg">
+    <img src="https://img.shields.io/github/stars/JokerJohn/DCReg?style=social&label=Code+Stars" alt="GitHub stars">
+    </a>
+   </div>
+   
+   *International Journal of Robotics Research **(IJRR)***
+  
+   Xiangcheng Hu, **<u>Xieyuanli Chen</u>**, Mingkai Jia, Jin Wu, Ping Tan, Steven L. Waslander
+
 - [Efficient Point Cloud Processing with High-Dimensional Positional Encoding and Non-Local MLPs](https://ieeexplore.ieee.org/abstract/document/11397841) 
   <div class="pub-links">
   <details class="bibtex-details">
@@ -346,28 +389,6 @@
 
    
 ##  2025
-- [MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos](https://www.computer.org/csdl/journal/tp/5555/01/11250770/2bIOy8s3mXS) 
-  <div class="pub-links">
-  <details class="bibtex-details">
-    <summary class="bibtex-button">[BibTeX]</summary>
-    <div class="bibtex-block">
-      <pre><code>@article{ma2025tpami,
-      title={MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos}, 
-      author={Junyi Ma and Xieyuanli Chen and Wentao Bao and Jingyi Xu and Hesheng Wang},
-      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)},
-      year={2025}
-  }</code></pre>
-  </div>
-  </details>
-  <a href="https://arxiv.org/pdf/2409.02638" class="pub-link">[PDF]</a>
-  <a href="https://github.com/IRMVLab/MADiff">
-    <img src="https://img.shields.io/github/stars/IRMVLab/MADiff?style=social&label=Code+Stars" alt="GitHub stars">
-  </a>
-  </div>
-  
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence **(T-PAMI)***
-   
-   Junyi Ma, **<u>Xieyuanli Chen</u>**, Wentao Bao, Jingyi Xu, Hesheng Wang
   
 - [Grasp Like Humans: Learning Generalizable Multi-Fingered Grasping from Human Proprioceptive Sensorimotor Integration](https://ieeexplore.ieee.org/document/11176430)
   <div class="pub-links">
@@ -437,6 +458,29 @@
   
   Lun Luo, Si-Yuan Cao, Xiaorui Li, Jintao Xu, Rui Ai, Zhu Yu, **<u>Xieyuanli Chen</u>**
 
+- [MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos](https://www.computer.org/csdl/journal/tp/5555/01/11250770/2bIOy8s3mXS) 
+  <div class="pub-links">
+  <details class="bibtex-details">
+    <summary class="bibtex-button">[BibTeX]</summary>
+    <div class="bibtex-block">
+      <pre><code>@article{ma2025tpami,
+      title={MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos}, 
+      author={Junyi Ma and Xieyuanli Chen and Wentao Bao and Jingyi Xu and Hesheng Wang},
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)},
+      year={2025}
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://arxiv.org/pdf/2409.02638" class="pub-link">[PDF]</a>
+  <a href="https://github.com/IRMVLab/MADiff">
+    <img src="https://img.shields.io/github/stars/IRMVLab/MADiff?style=social&label=Code+Stars" alt="GitHub stars">
+  </a>
+  </div>
+  
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence **(T-PAMI)***
+   
+   Junyi Ma, **<u>Xieyuanli Chen</u>**, Wentao Bao, Jingyi Xu, Hesheng Wang
+   
 - [Stable grasp generation enabled by part segmentation for real-world robotic applications](https://www.sciencedirect.com/science/article/abs/pii/S0736584525002248)
     <div class="pub-links">
     <details class="bibtex-details">
