@@ -3,26 +3,6 @@
 # 📝 Publications
 ##  2026
 
- - [DST-Calib: A Dual-Path, Self-Supervised, Target-Free LiDAR-Camera Extrinsic Calibration Network](https://arxiv.org/abs/2601.01188) 
-   <div class="pub-links">
-   <details class="bibtex-details">
-     <summary class="bibtex-button">[BibTeX]</summary>
-     <div class="bibtex-block">
-       <pre><code>@ARTICLE{huang2026tro,
-      title={DST-Calib: A Dual-Path, Self-Supervised, Target-Free LiDAR-Camera Extrinsic Calibration Network}, 
-      author={Zhiwei Huang, Yanwei Fu, Yi Zhou, Xieyuanli Chen, Qijun Chen, Rui Fan},
-      journal={IEEE Transactions on Robotics}, 
-      year={2026}
-    }</code></pre>
-   </div>
-   </details>
-   <a href="https://arxiv.org/pdf/2601.01188" class="pub-link">[PDF]</a>
-   </div>
-   
-   *IEEE Transactions on Robotics **(TRO)***
-  
-   Zhiwei Huang, Yanwei Fu, Yi Zhou, **<u>Xieyuanli Chen</u>**, Qijun Chen, Rui Fan
-
  - [Dcreg: Decoupled characterization for efficient degenerate lidar registration](https://arxiv.org/abs/2509.06285) 
    <div class="pub-links">
    <details class="bibtex-details">
@@ -45,6 +25,26 @@
    *International Journal of Robotics Research **(IJRR)***
   
    Xiangcheng Hu, **<u>Xieyuanli Chen</u>**, Mingkai Jia, Jin Wu, Ping Tan, Steven L. Waslander
+
+ - [DST-Calib: A Dual-Path, Self-Supervised, Target-Free LiDAR-Camera Extrinsic Calibration Network](https://arxiv.org/abs/2601.01188) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{huang2026tro,
+      title={DST-Calib: A Dual-Path, Self-Supervised, Target-Free LiDAR-Camera Extrinsic Calibration Network}, 
+      author={Zhiwei Huang, Yanwei Fu, Yi Zhou, Xieyuanli Chen, Qijun Chen, Rui Fan},
+      journal={IEEE Transactions on Robotics}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2601.01188" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Transactions on Robotics **(T-RO)***
+  
+   Zhiwei Huang, Yanwei Fu, Yi Zhou, **<u>Xieyuanli Chen</u>**, Qijun Chen, Rui Fan
 
 - [Efficient Point Cloud Processing with High-Dimensional Positional Encoding and Non-Local MLPs](https://ieeexplore.ieee.org/abstract/document/11397841) 
   <div class="pub-links">
