@@ -558,7 +558,7 @@
    }</code></pre>
   </div>
   </details>
-  <a href="https://arxiv.org/pdf/2409.00206" class="pub-link">[PDF]</a>
+  <a href="https://arxiv.org/pdf/2509.08354" class="pub-link">[PDF]</a>
   <a href="https://grasplikehuman.github.io" class="pub-link">[Web]
   </a>
   </div>
@@ -580,7 +580,7 @@
    }</code></pre>
   </div>
   </details>
-  <a href="https://arxiv.org/pdf/2509.08354" class="pub-link">[PDF]</a>
+  <a href="https://arxiv.org/pdf/2409.00206" class="pub-link">[PDF]</a>
   <a href="https://github.com/lus6-Jenny/RINGSharp">
     <img src="https://img.shields.io/github/stars/lus6-Jenny/RINGSharp?style=social&label=Code+Stars" alt="GitHub stars">
   </a>
