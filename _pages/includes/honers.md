@@ -3,6 +3,10 @@
 
 # 🎖 Honors and Awards
 - <p style="margin: 0; line-height: 1.2;">
+  2026, 2025, 2024<strong> World’s Top 2% Scientists</strong> <br>
+  <span style="font-size: 90%;">Stanford and Elsevier</span>
+  </p>
+- <p style="margin: 0; line-height: 1.2;">
   2026 <strong>Hong Kong Scholars </strong><br>
   <span style="font-size: 90%;">The Society of Hong Kong Scholars</span>
   </p>
@@ -25,10 +29,6 @@
 - <p style="margin: 0; line-height: 1.2;">
   2025<strong> EvSLAM Challenge 1st Place </strong> <br>
   <span style="font-size: 90%;">IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS 2025)</span>
-  </p>
-- <p style="margin: 0; line-height: 1.2;">
-  2024, 2025<strong> World’s Top 2% Scientists</strong> <br>
-  <span style="font-size: 90%;">Stanford and Elsevier</span>
   </p>
 - <p style="margin: 0; line-height: 1.2;">
   2024<strong> Finalist of Best Paper in Robot Learning</strong><br>
