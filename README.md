@@ -1,2 +1,3242 @@
-# 🤖 Welcome to my website
-## [https://chen-xieyuanli.github.io/](https://chen-xieyuanli.github.io/)
+## Hi there 👋
+
+# 🤖 About Me
+- I'm an Associate Professor at NUDT in China, and currently visiting CUHK in Hong Kong.
+  
+- I also serve as an Associate Editor for IEEE T-RO, RA-L, ICRA, and IROS.
+
+-  My research focuses on embodied intelligence for autonomous robots to improve perception, reasoning, navigation, and manipulation skills for real-world robotic systems. Building on my work in spatial perception, localization, and long-term autonomy, I investigate how foundation models, such as VLMs, VFMs, VLAs, BFMs, etc., can support generalizable robot learning, multimodal embodied perception, and long-horizon mobile manipulation in complex and dynamic environments.
+I have authored over 100 peer-reviewed papers in leading robotics venues, including IJRR, TRO, TPAMI, RAL, RSS, ICRA, IROS, and CVPR. <a href='https://scholar.google.com/citations?user=DvrngV4AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FChen-Xieyuanli%2Fchen-xieyuanli.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=Google%20Scholar"></a>
+
+- I'm recruiting Ph.D. and master's students interested in embodied intelligence, robot learning, perception, navigation, and manipulation.
+  If you are interested in joining my team, please email me your CV and a brief statement of your research interests at chenxieyuanli(at)hotmail.com.
+
+##<span id="educations"></span>
+
+# 📖 Educations
+- **2018.09 - 2022.08**, Dr.‑Ing., University of Bonn,  ‑ <strong>summa cum laude</strong> (with distinction, best possible grade)<br>
+  _Bonn, Germany, SUPERVISOR: Prof. Dr. Cyrill Stachniss_<br>
+  THESIS: LiDAR‑Based Semantic Perception for Autonomous Vehicles
+
+- **2015.09 - 2017.12**, M.S. in Robotics, National University of Defense Technology<br>
+  _Hunan, China, SUPERVISOR: Prof. Dr. Hui Zhang_<br>
+  THESIS: Binary Visual Feature‑based Monocular SLAM
+
+- **2011.09 - 2015.07**, B.S. in Electrical Engineering and Automation, Hunan University<br>
+  _Hunan, China, SUPERVISOR: Prof. Dr. Yaonan Wang_<br>
+  THESIS: Control for a Quadrotor UVA
+
+<span id="experience"></span>
+# 👨‍🔧 Working Experience
+## ACADEMIC WORKING EXPERIENCE
+- <p style="margin: 0; line-height: 1.2;">
+  <strong>2026.01 ‑ Present</strong> Visiting Scholar<br>
+  <span style="font-size: 90%;">The Chinese University of Hong Kong </span>
+  </p>
+- <p style="margin: 0; line-height: 1.2;">
+  <strong>2022.12 ‑ Present</strong> Associate Professor<br>
+  <span style="font-size: 90%;">National University of Defense Technology </span>
+  </p>
+- <p style="margin: 0; line-height: 1.2;">
+  <strong>2019.09 ‑ 2022.09</strong> Research Assistant<br>
+  <span style="font-size: 90%;">University of Bonn </span>
+  </p>
+  
+## RESEARCH COMMITTEE MEMBERSHIP
+- <p style="margin: 0; line-height: 1.2;">
+  <strong>2026.01 ‑ Present</strong> Associate Editor <br>
+  <span style="font-size: 90%;">IEEE Transactions on Robotics (T‑RO) </span>
+  </p>
+- <p style="margin: 0; line-height: 1.2;">
+  <strong>2022.09 ‑ Present</strong> Associate Editor <br>
+  <span style="font-size: 90%;">IEEE Robotics and Automation Letters (RA‑L) </span>
+  </p>
+- <p style="margin: 0; line-height: 1.2;">
+  <strong>2023, 2024, 2025</strong> Associate Editor <br>
+  <span style="font-size: 90%;">IEEE Intl. Conf. on Robotics & Automation (ICRA) </span>
+  </p>
+- <p style="margin: 0; line-height: 1.2;">
+  <strong>2023, 2024</strong> Associate Editor <br>
+  <span style="font-size: 90%;">IEEE/RSJ Intl. Conf. on Intelligent Robots & Systems (IROS) </span>
+  </p>
+- <p style="margin: 0; line-height: 1.2;">
+  <strong>2019.07 ‑ 2023.07</strong> Technical Committee <br>
+  <span style="font-size: 90%;">RoboCup Rescue Robot League </span>
+  </p>
+
+
+<div style="float: left;">
+  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=400&t=tt&d=Rb-iP8f5--b43X14KVkJwMa0-GzAr8QqOIuZinWaTII&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
+</div>
+
+##<span id="news"></span>
+
+# 🔥 News
+
+- I obtained my Ph.D. degree (summa cum laude) with a thesis entitled “[LiDAR-Based Semantic Perception for Autonomous Vehicles](https://hdl.handle.net/20.500.11811/10228)”,  
+  supervised by [Cyrill Stachniss](https://www.ipb.uni-bonn.de/people/cyrill-stachniss/index.html) at the University of Bonn in 2022.
+
+- I was a member of the Technical Committee of RoboCup Rescue Robot League ([RRL](https://rrl.robocup.org/)) from 2019 to 2023.
+
+##.<span id="publications"></span>
+
+# 📝 Publications
+##  2026
+
+ - [Dcreg: Decoupled characterization for efficient degenerate lidar registration](https://ieeexplore.ieee.org/document/11723264) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{hu2026ijrr,
+      title={Dcreg: Decoupled characterization for efficient degenerate lidar registration}, 
+      author={Xiangcheng Hu, Xieyuanli Chen, Mingkai Jia, Jin Wu, Ping Tan, Steven L. Waslander},
+      journal={International Journal of Robotics Research}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2509.06285" class="pub-link">[PDF]</a>
+   <a href="https://github.com/JokerJohn/DCReg">
+    <img src="https://img.shields.io/github/stars/JokerJohn/DCReg?style=social&label=Code+Stars" alt="GitHub stars">
+    </a>
+   </div>
+   
+   *International Journal of Robotics Research **(IJRR)***
+  
+   Xiangcheng Hu, **<u>Xieyuanli Chen</u>**, Mingkai Jia, Jin Wu, Ping Tan, Steven L. Waslander
+
+ - [DST-Calib: A Dual-Path, Self-Supervised, Target-Free LiDAR-Camera Extrinsic Calibration Network](https://arxiv.org/abs/2601.01188) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{huang2026tro,
+      title={DST-Calib: A Dual-Path, Self-Supervised, Target-Free LiDAR-Camera Extrinsic Calibration Network}, 
+      author={Zhiwei Huang, Yanwei Fu, Yi Zhou, Xieyuanli Chen, Qijun Chen, Rui Fan},
+      journal={IEEE Transactions on Robotics}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2601.01188" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Transactions on Robotics **(T-RO)***
+  
+   Zhiwei Huang, Yanwei Fu, Yi Zhou, **<u>Xieyuanli Chen</u>**, Qijun Chen, Rui Fan
+
+- [Efficient Point Cloud Processing with High-Dimensional Positional Encoding and Non-Local MLPs](https://ieeexplore.ieee.org/abstract/document/11397841) 
+  <div class="pub-links">
+  <details class="bibtex-details">
+    <summary class="bibtex-button">[BibTeX]</summary>
+    <div class="bibtex-block">
+      <pre><code>@ARTICLE{zou2026tpami,
+  title={Efficient Point Cloud Processing with High-Dimensional Positional Encoding and Non-Local MLPs}, 
+  author={Zou, Yanmei and Yu, Hongshan and Wang, Yaonan and Yang, Zhengeng and Chen, Xieyuanli and Yang, Kailun and Akhtar, Naveed},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},   
+  year={2026}
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://www.researchgate.net/publication/400891845_Efficient_Point_Cloud_Processing_with_High-Dimensional_Positional_Encoding_and_Non-Local_MLPs" class="pub-link">[PDF]</a>
+  <a href="https://github.com/zouyanmei/HPENet_v2">
+    <img src="https://img.shields.io/github/stars/zouyanmei/HPENet_v2?style=social&label=Code+Stars" alt="GitHub stars">
+  </a>
+  </div>
+  
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence **(T-PAMI)***
+   
+   Yanmei Zou, Hongshan Yu, Yaonan Wang, Zhengeng Yang, **<u>Xieyuanli Chen</u>**, Kailun Yang, Naveed Akhtar
+
+ - [Uni-Hand: Universal Hand Motion Forecasting in Egocentric Views](https://ieeexplore.ieee.org/abstract/document/11517265) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{ma2026tpami,
+      title={Uni-Hand: Universal Hand Motion Forecasting in Egocentric Views}, 
+      author={Ma, Junyi and Bao, Wentao and Xu, Jingyi and Sun, Guanzhong and Zheng, Yu and Zhang, Erhang and Chen, Xieyuanli and Wang, Hesheng},
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11517265" class="pub-link">[PDF]</a>
+   <a href="https://irmvlab.github.io/unihand.github.io/" class="pub-link">[Web]</a>
+   </div>
+   
+   *IEEE Transactions on Pattern Analysis and Machine Intelligence **(T-PAMI)***
+  
+   Junyi Ma, Wentao Bao, Jingyi Xu, Guanzhong Sun, Yu Zheng, Erhang Zhang, **<u>Xieyuanli Chen</u>**, Hesheng Wang
+
+- [OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Fused Geometric and Semantic Guidance](https://www.sciencedirect.com/science/article/pii/S1566253526004409) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{liao2026if,
+      title={OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Fused Geometric and Semantic Guidance}, 
+      author={Liao, Youqi and Chen, Xieyuanli and Kang, Shuhao and Li, Jianping and Dong, Zhen and Fan, Hongchao and Yang, Bisheng},
+      journal={Information Fusion}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2411.08665" class="pub-link">[PDF]</a>
+   <a href="https://whu-usi3dv.github.io/OSMLoc/" class="pub-link">[Web]</a>
+   <a href="https://github.com/WHU-USI3DV/OSMLoc">
+    <img src="https://img.shields.io/github/stars/WHU-USI3DV/OSMLoc?style=social&label=Code+Stars" alt="GitHub stars">
+    </a>
+   </div>
+   
+   *Information Fusion  **(Inf. Fusion)***
+  
+   Youqi Liao, **<u>Xieyuanli Chen*</u>**, Shuhao Kang, Jianping Li, Zhen Dong, Hongchao Fan, Bisheng Yang
+
+ - [Coupling Structural Descriptors With a Novel Semantic Graph Matching Approach for LiDAR Loop Detection](https://ieeexplore.ieee.org/abstract/document/11454605) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{tang2026tase,
+      title={Coupling Structural Descriptors With a Novel Semantic Graph Matching Approach for LiDAR Loop Detection}, 
+      author={Tang, Yujie and Wang, Meiling and Zuo, Sibo and Yang, Chengxi and Jiang, Jinhao and Chen, Xieyuanli and Yue, Yufeng},
+      journal={IEEE Transactions on Automation Science and Engineering}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11454605" class="pub-link">[PDF]</a>
+   <a href="https://github.com/ANCHOR9178/SAGE">
+    <img src="https://img.shields.io/github/stars/ANCHOR9178/SAGE?style=social&label=Code+Stars" alt="GitHub stars">
+    </a>
+   </div>
+   
+   *IEEE Transactions on Automation Science and Engineering **(T-ASE)***
+  
+   Yujie Tang, Meiling Wang, Sibo Zuo, Chengxi Yang, Jinhao Jiang, **<u>Xieyuanli Chen</u>**, Yufeng Yue
+
+- [AmphiHip Exo: A Cable-Driven Amphibious Hip Exoskeleton With Physics-Informed Intention Perception for Lower Limb Augmentation](https://ieeexplore.ieee.org/abstract/document/11414442/) 
+  <div class="pub-links">
+  <details class="bibtex-details">
+    <summary class="bibtex-button">[BibTeX]</summary>
+    <div class="bibtex-block">
+      <pre><code>@ARTICLE{chen2026,
+  title={AmphiHip Exo: A Cable-Driven Amphibious Hip Exoskeleton With Physics-Informed Intention Perception for Lower Limb Augmentation}, 
+  author={Chen, Longwen and Chen, Xieyuanli and Xu, Junpeng and Cui, Fangge and Gui, Ke and Cheng, Chuang and Lu, Huimin},
+  journal={IEEE/ASME Transactions on Mechatronics}, 
+  year={2026}
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://ieeexplore.ieee.org/abstract/document/11414442/" class="pub-link">[PDF]</a>
+  </div>
+  
+  *IEEE/ASME Transactions on Mechatronics **(T-Mech)***
+
+   Longwen Chen, **<u>Xieyuanli Chen</u>**, Junpeng Xu, Fangge Cui, Ke Gui, Chuang Cheng, Huimin Lu
+
+- [Multimodal Place Recognition With Feed-Forward Gaussian and Mamba-Based Enhancement in Mixed Traffic Environments](https://ieeexplore.ieee.org/document/11563912)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{xu2026tits,
+      title={Multimodal Place Recognition With Feed-Forward Gaussian and Mamba-Based Enhancement in Mixed Traffic Environments},
+      author={Xu, Jingyi and Qi, Zhangshuo and Jiao, Xianyun and Tian, Qijian and Yan, Zhongmiao and Wu, Qi and Chen, Xieyuanli and Pei, Ling},
+      journal={IEEE Transactions on Intelligent Transportation Systems},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11563912" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Transactions on Intelligent Transportation Systems **(T-ITS)***
+  
+   Jingyi Xu, Zhangshuo Qi, Xianyun Jiao, Qijian Tian, Zhongmiao Yan, Qi Wu, **<u>Xieyuanli Chen</u>**, Ling Pei
+
+- [RMT-PR: A Reverse-View Mamba-Transformer With Cross-View Adaptive Feature Fusion for LiDAR Place Recognition](https://ieeexplore.ieee.org/document/11640899)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{luo2026tits,
+      title={RMT-PR: A Reverse-View Mamba-Transformer With Cross-View Adaptive Feature Fusion for LiDAR Place Recognition},
+      author={Luo, Kan and Yu, Hongshan and Yang, Shuang and Wang, Jingwen and Wang, Yaonan and Civera, Javier and Chen, Xieyuanli},
+      journal={IEEE Transactions on Intelligent Transportation Systems},
+      year={2026},
+      doi={10.1109/TITS.2026.3709652}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11640899" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Transactions on Intelligent Transportation Systems **(T-ITS)***
+  
+   Kan Luo, Hongshan Yu, Shuang Yang, Jingwen Wang, Yaonan Wang, Javier Civera, **<u>Xieyuanli Chen</u>**
+   
+ - [An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather](https://ieeexplore.ieee.org/abstract/document/11458670) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{zhao2026tvt,
+      title={An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather}, 
+      author={Zhao, Xiongwei and Chen, Xieyuanli and Zhu, Xu and Xie, Xingxiang and Bai, Haojie and Wen, Congcong and Zhou, Rundong and Sun, Qihao},
+      journal={IEEE Transactions on Vehicular Technology}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11458670" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Transactions on Vehicular Technology **(T-VT)***
+  
+   Xiongwei Zhao, **<u>Xieyuanli Chen</u>**,  Xu Zhu, Xingxiang Xie, Haojie Bai, Congcong Wen, Rundong Zhou and Qihao Sun
+
+- [Velocity Space Representation Learning for GPR Keypoint Detection and Matching](https://ieeexplore.ieee.org/abstract/document/11346028) 
+  <div class="pub-links">
+  <details class="bibtex-details">
+    <summary class="bibtex-button">[BibTeX]</summary>
+    <div class="bibtex-block">
+      <pre><code>@ARTICLE{zhang2026tii,
+  journal={IEEE Transactions on Industrial Informatics}, 
+  author={Zhang, Pengyu and Chen, Xieyuanli and Shen, Liang and Yang, Xulei and Veeravalli, Bharadwaj and Li, Shijie and Jin, Tian and Huang, Xiaotao},
+  title={Velocity Space Representation Learning for GPR Keypoint Detection and Matching}, 
+  year={2026}
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://ieeexplore.ieee.org/abstract/document/11346028" class="pub-link">[PDF]</a>
+  </div>
+  
+  *IEEE Transactions on Industrial Informatics **(T-II)***
+   
+   Pengyu Zhang,  **<u>Xieyuanli Chen</u>** , Liang Shen, Xulei Yang, Bharadwaj Veeravalli, Shijie Li, Tian Jin, Xiaotao Huang
+
+ - [STEP-Mover: Stratified and Tiered Multi-scale Descriptor for Efficient Static Pointcloud Environment Measurement](https://ieeexplore.ieee.org/abstract/document/11431192) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{jia2026tim,
+      title={STEP-Mover: Stratified and Tiered Multiscale Descriptor for Efficient Static Point Cloud Environment Measurement}, 
+      author={Jia, Yanpeng and Wang, Ting and Shao, Shiliang and Chen, Xieyuanli and Liu, Hao},
+      journal={IEEE Transactions on Instrumentation and Measurement}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11431192" class="pub-link">[PDF]</a>
+   <a href="https://yaepiii.github.io/STEP-Mover/" class="pub-link">[Web]</a>
+   </div>
+   
+   *IEEE Transactions on Instrumentation and Measurement **(T-IM)***
+  
+   Yanpeng Jia, Ting Wang, Shiliang Shao, **<u>Xieyuanli Chen</u>**, Hao Liu
+
+ - [LiDAR-VGGT: Cross-Modal Coarse-to-Fine Fusion for Globally Consistent and Metric-Scale Dense Mapping](https://ieeexplore.ieee.org/abstract/document/11399876) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{li2026ral,
+     title={LiDAR-VGGT: Cross-Modal Coarse-to-Fine Fusion for Globally Consistent and Metric-Scale Dense Mapping}, 
+     author={Wang, Lijie and Guo, Lianjie and Xu, Ziyi and Wang, Qianhao and Gao, Fei and Chen, Xieyuanli},
+     journal={IEEE Robotics and Automation Letters},  
+     year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2511.01186" class="pub-link">[PDF]</a>
+   <a href="https://github.com/NorwegianSmokedSalmon/Color-Map-Evaluation">
+     <img src="https://img.shields.io/github/stars/NorwegianSmokedSalmon/Color-Map-Evaluation?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+   *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Lijie Wang, Lianjie Guo, Ziyi Xu, Qianhao Wang, Fei Gao, **<u>Xieyuanli Chen</u>**
+
+ - [LiteFT-PR: Lightweight and Fault-Tolerant LiDAR-Camera Fusion Network for Robust Place Recognition via Model Distillation](https://ieeexplore.ieee.org/abstract/document/11373724) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{wang2026ral,
+      title={LiteFT-PR: Lightweight and Fault-Tolerant LiDAR-Camera Fusion Network for Robust Place Recognition via Model Distillation}, 
+      author={Wang, Zihang and Li, Xu and Zong, Guanyu and Chen, Xieyuanli and Kong, Dong and Peng, Yiming and Zhu, Wenkai and Wang, Kaiyi},
+      journal={IEEE Robotics and Automation Letters}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/abstract/document/11373724" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Zihang Wang, Xu Li, Guanyu Zong, **<u>Xieyuanli Chen</u>**, Dong Kong, Yiming Peng, Wenkai Zhu, Kaiyi Wang
+
+ - [TVG-SLAM: Robust Gaussian Splatting SLAM With Tri-View Geometric Constraints](https://ieeexplore.ieee.org/abstract/document/11278701) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{tan2026ral,
+      title={TVG-SLAM: Robust Gaussian Splatting SLAM With Tri-View Geometric Constraints}, 
+      author={Tan, Zhen and Chen, Xieyuanli and Feng, Lei and Ge, Yangbing and Zhi, Shuaifeng and Liu, Jiaxiong and Hu, Dewen},
+      journal={IEEE Robotics and Automation Letters}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2506.23207" class="pub-link">[PDF]</a>
+   <a href="https://github.com/MagicTZ/TVG-SLAM">
+    <img src="https://img.shields.io/github/stars/MagicTZ/TVG-SLAM?style=social&label=Code+Stars" alt="GitHub stars">
+    </a>
+   </div>
+   
+   *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Zhen Tan, **<u>Xieyuanli Chen</u>**, Lei Feng, Yangbing Ge, Shuaifeng Zhi, Jiaxiong Liu, Dewen Hu
+
+ - [PHMRNet: Persistent Homology Based Mamba–RWKV Network for LiDAR Place Recognition](https://ieeexplore.ieee.org/abstract/document/11480752) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{zhou2026ral,
+      title={PHMRNet: Persistent Homology Based Mamba–RWKV Network for LiDAR Place Recognition}, 
+      author={Zhou, Dejing and Jiang, Xinyu and Chen, Sitao and Cai, Zhonghao and Wu, Jin and Chen, Xieyuanli and Yang, Jufeng and Vong, Chi-Man},
+      journal={IEEE Robotics and Automation Letters}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11480752" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Dejing Zhou, Xinyu Jiang, Sitao Chen, Zhonghao Cai, Jin Wu, **<u>Xieyuanli Chen</u>**, Jufeng Yang, Chi-Man Vong
+
+ - [Diffusion-Based Restoration for Multi-Modal 3D Object Detection in Adverse Weather](https://ieeexplore.ieee.org/abstract/document/11513993) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{he2026ral,
+      title={Diffusion-Based Restoration for Multi-Modal 3D Object Detection in Adverse Weather}, 
+      author={He, Zhijian and Liu, Feifei and Li, Yuwei and Luo, Zhanpeng and Cheng, Jintao and Chen, Xieyuanli and Tang, Xiaoyu},
+      journal={IEEE Robotics and Automation Letters}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11513993" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Zhijian He, Feifei Liu, Yuwei Li, Zhonghao Cai, Zhanpeng Luo, Jintao Cheng, **<u>Xieyuanli Chen</u>**, XiaoyuTang
+
+- [In-Training Masked Reconstruction as Structured Representation Augmentation for Collaboration-Aware V2X Perception](https://ieeexplore.ieee.org/document/11623678)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{wang2026ral,
+      title={In-Training Masked Reconstruction as Structured Representation Augmentation for Collaboration-Aware V2X Perception},
+      author={Wang, Benwu and Li, Xu and Chen, Xieyuanli and Kong, Dong and Che, Haoyang and Zhu, Wenkai and Wang, Zihang and Ni, Peizhou},
+      journal={IEEE Robotics and Automation Letters},
+      volume={11},
+      number={9},
+      pages={10999--11006},
+      year={2026},
+      doi={10.1109/LRA.2026.3717191}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/iel8/7083369/7339444/11623678.pdf" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Benwu Wang, Xu Li, **<u>Xieyuanli Chen</u>**, Dong Kong, Haoyang Che, Wenkai Zhu, Zihang Wang, Peizhou Ni
+ 
+ - [Guiding Multimodal LLMs for Efficient Visual Place Recognition](https://www.sciencedirect.com/science/article/pii/S0167865526000413) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{he2026prl,
+      title={Guiding Multimodal LLMs for Efficient Visual Place Recognition}, 
+      author={Zhijian He, Weibin Li, Jintao Cheng, Yipu Zhang, Chi-Man Vong, Jin Wu, Xieyuanli Chen},
+      journal={Pattern Recognition Letters}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://www.sciencedirect.com/science/article/pii/S0167865526000413" class="pub-link">[PDF]</a>
+   </div>
+   
+   *Pattern Recognition Letters*
+  
+   Zhijian He, Weibin Li, Jintao Cheng, Yipu Zhang, Chi-Man Vong, Jin Wu, **<u>Xieyuanli Chen</u>**
+
+ - [TTAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_TTAPFormer_Robust_Arbitrary_Point_Tracking_via_Transient_Asynchronous_Fusion_of_CVPR_2026_paper.html) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@InProceedings{liu2026cvpr,
+      title={TTAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events}, 
+      author={Liu, Jiaxiong and Tan, Zhen and Zhang, Jinpu and Zhou, Yi and Shen, Hui and Chen, Xieyuanli and Hu, Dewen},
+      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_TTAPFormer_Robust_Arbitrary_Point_Tracking_via_Transient_Asynchronous_Fusion_of_CVPR_2026_paper.pdf" class="pub-link">[PDF]</a>
+   <a href="https://tapformer.github.io/" class="pub-link">[Web]</a>
+   </div>
+   
+   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)***
+  
+   Jiaxiong Liu, Zhen Tan, Jinpu Zhang, Yi Zhou, Hui Shen, **<u>Xieyuanli Chen</u>**, Dewen Hu
+
+ - [SinGeo: Unlock Single Model's Potential for Robust Cross-View Geo-Localization](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_SinGeo_Unlock_Single_Models_Potential_for_Robust_Cross-View_Geo-Localization_CVPR_2026_paper.html) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@InProceedings{chen2026cvpr,
+      title={SinGeo: Unlock Single Model's Potential for Robust Cross-View Geo-Localization}, 
+      author={Chen, Yang and Chen, Xieyuanli and Li, Junxiang and Tang, Jie and Wu, Tao},
+      booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_SinGeo_Unlock_Single_Models_Potential_for_Robust_Cross-View_Geo-Localization_CVPR_2026_paper.pdf" class="pub-link">[PDF]</a>
+   <a href="https://github.com/Yangchen-nudt/SinGeo">
+    <img src="https://img.shields.io/github/stars/Yangchen-nudt/SinGeo?style=social&label=Code+Stars" alt="GitHub stars">
+    </a>
+   </div>
+   
+   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)***
+  
+   Yang Chen, **<u>Xieyuanli Chen</u>**, Junxiang Li, Jie Tang, Tao Wu
+
+ - [VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2026/html/Kang_VLM-Loc_Localization_in_Point_Cloud_Maps_via_Vision-Language_Models_CVPR_2026_paper.html) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@InProceedings{kang2026cvpr,
+      title={VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models}, 
+      author={Kang, Shuhao and Liao, Youqi and Wang, Peijie and Liao, Wenlong and Zhang, Qilin and Busam, Benjamin and Chen, Xieyuanli and Liu, Yun},
+      booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Kang_VLM-Loc_Localization_in_Point_Cloud_Maps_via_Vision-Language_Models_CVPR_2026_paper.pdf" class="pub-link">[PDF]</a>
+   <a href="https://github.com/MCG-NKU/nku-3d-vision">
+    <img src="https://img.shields.io/github/stars/MCG-NKU/nku-3d-vision?style=social&label=Code+Stars" alt="GitHub stars">
+    </a>
+   </div>
+   
+   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)***
+  
+   Shuhao Kang, Youqi Liao, Peijie Wang, Wenlong Liao, Qilin Zhang, Benjamin Busam, **<u>Xieyuanli Chen</u>**, Yun Liu
+
+- [LAG-IO: Multi-IMU State Estimation for Legged Robots Using Factor Graphs](https://github.com/nubot-nudt/LAG-IO)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{zhou2026iros,
+      title={LAG-IO: Multi-IMU State Estimation for Legged Robots Using Factor Graphs},
+      author={Zhou, Yicheng and Chen, Longwen and Yu, Qinghua and Xiao, Junhao and Lu, Huimin and Chen, Xieyuanli},
+      booktitle={In Proc. of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://github.com/nubot-nudt/LAG-IO" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/LAG-IO">
+    <img src="https://img.shields.io/github/stars/nubot-nudt/LAG-IO?style=social&label=Code+Stars" alt="GitHub stars">
+    </a>
+   </div>
+   
+   *IEEE/RSJ International Conference on Intelligent Robots and Systems **(IROS)***
+
+  Yicheng Zhou, Longwen Chen, Qinghua Yu, Junhao Xiao, Huimin Lu, **<u>Xieyuanli Chen</u>**
+
+- [GeoLoco: Leveraging 3D Geometric Priors from Visual Foundation Model for Robust RGB-Only Humanoid Locomotion](https://arxiv.org/abs/2603.07624)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{liu2026iros,
+      title={GeoLoco: Leveraging 3D Geometric Priors from Visual Foundation Model for Robust RGB-Only Humanoid Locomotion},
+      author={Liu, Yufei and Chen, Xieyuanli and Pan, Hainan and Shi, Chenghao and Chen, Yanjie and Huang, Kaihong and Zeng, Zhiwen and Lu, Huimin},
+      booktitle={In Proc. of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2603.07624" class="pub-link">[PDF]</a>
+   <a href="https://github.com/liuyufei-nubot/GeoLoco">
+    <img src="https://img.shields.io/github/stars/liuyufei-nubot/GeoLoco?style=social&label=Code+Stars" alt="GitHub stars">
+    </a>
+   </div>
+   
+   *IEEE/RSJ International Conference on Intelligent Robots and Systems **(IROS)***
+  
+   Yufei Liu, **<u>Xieyuanli Chen</u>**, Hainan Pan, Chenghao Shi, Yanjie Chen, Kaihong Huang, Zhiwen Zeng, Huimin Lu
+
+- [Integrating Vision-Language Planning and Closed-Loop Control for Robust Bimanual Robotic Manipulation](https://ieeexplore.ieee.org/abstract/document/11618061)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{chen2026icca,
+      title={Integrating Vision-Language Planning and Closed-Loop Control for Robust Bimanual Robotic Manipulation},
+      author={Chen, Wei and Wu, Haiwen and Wang, Gang and Meng, Qiwei and Wen, Youpeng and Jiang, Taoran and Chen, Xieyuanli and Liu, Yunhui},
+      booktitle={In Proc. of the 2026 IEEE 20th International Conference on Control \& Automation (ICCA)},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11618061" class="pub-link">[PDF]</a>
+   </div>
+   
+   *2026 IEEE 20th International Conference on Control & Automation **(ICCA)***
+  
+   Wei Chen, Haiwen Wu, Gang Wang, Qiwei Meng, Youpeng Wen, Taoran Jiang, **<u>Xieyuanli Chen</u>**, Yunhui Liu
+
+   
+##  2025
+  
+- [Grasp Like Humans: Learning Generalizable Multi-Fingered Grasping from Human Proprioceptive Sensorimotor Integration](https://ieeexplore.ieee.org/document/11176430)
+  <div class="pub-links">
+  <details class="bibtex-details">
+    <summary class="bibtex-button">[BibTeX]</summary>
+    <div class="bibtex-block">
+      <pre><code>@article{guo2025tro,
+   title={Grasp like humans: Learning generalizable multi-fingered grasping from human proprioceptive sensorimotor integration},
+   author={Guo, Ce and Chen, Xieyuanli and Zeng, Zhiwen and Guo, Zirui and Li, Yihong and Xiao, Haoran and Hu, Dewen and Lu, Huimin},
+   journal={IEEE Transactions on Robotics (T-RO)},
+   year={2025},
+   }</code></pre>
+  </div>
+  </details>
+  <a href="https://arxiv.org/pdf/2509.08354" class="pub-link">[PDF]</a>
+  <a href="https://grasplikehuman.github.io" class="pub-link">[Web]
+  </a>
+  </div>
+  
+  *IEEE Transactions on Robotics **(T-RO)***
+  
+  Ce Guo, **<u>Xieyuanli Chen</u>**, Zhiwen Zeng, Zirui Guo, Yihong Li, Haoran Xiao, Dewen Hu, Huimin Lu
+  
+- [RING#: PR-by-PE Global Localization with Roto-translation Equivariant Gram Learning](https://ieeexplore.ieee.org/document/10891747) 
+  <div class="pub-links">
+  <details class="bibtex-details">
+    <summary class="bibtex-button">[BibTeX]</summary>
+    <div class="bibtex-block">
+      <pre><code>@ARTICLE{lu2025tro,
+   title={RING#: PR-By-PE Global Localization With Roto-Translation Equivariant Gram Learning},
+   author={Lu, Sha and Xu, Xuecheng and Zhang, Dongkun and Wu, Yuxuan and Lu, Haojian and Chen, Xieyuanli and Xiong, Rong and Wang, Yue},
+   journal={IEEE Transactions on Robotics (T-RO)}, 
+   year={2025}
+   }</code></pre>
+  </div>
+  </details>
+  <a href="https://arxiv.org/pdf/2409.00206" class="pub-link">[PDF]</a>
+  <a href="https://github.com/lus6-Jenny/RINGSharp">
+    <img src="https://img.shields.io/github/stars/lus6-Jenny/RINGSharp?style=social&label=Code+Stars" alt="GitHub stars">
+  </a>
+  </div>
+  
+  *IEEE Transactions on Robotics **(T-RO)***
+   
+   Sha Lu, Xuecheng Xu, Yuxuan Wu, Haojian Lu, **<u>Xieyuanli Chen</u>**, Rong Xiong, Yue Wang
+
+- [BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Autonomous Ground Vehicles](https://ieeexplore.ieee.org/document/11063461)
+  <div class="pub-links">
+  <details class="bibtex-details">
+    <summary class="bibtex-button">[BibTeX]</summary>
+    <div class="bibtex-block">
+      <pre><code>@ARTICLE{luo2025tro,
+  title={BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Autonomous Ground Vehicles},
+  author={Luo, Lun and Cao, Si-Yuan and Li, Xiaorui and Xu, Jintao and Ai, Rui and Yu, Zhu and Chen, Xieyuanli},
+  journal={IEEE Transactions on Robotics (T-RO)},  
+  year={2025}
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://arxiv.org/pdf/2408.01841" class="pub-link">[PDF]</a>
+  <a href="https://github.com/zjuluolun/BEVPlace2">
+    <img src="https://img.shields.io/github/stars/zjuluolun/BEVPlace2?style=social&label=Code+Stars" alt="GitHub stars">
+  </a>
+  </div>
+  
+  *IEEE Transactions on Robotics **(T-RO)***
+  
+  Lun Luo, Si-Yuan Cao, Xiaorui Li, Jintao Xu, Rui Ai, Zhu Yu, **<u>Xieyuanli Chen</u>**
+
+- [MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos](https://www.computer.org/csdl/journal/tp/5555/01/11250770/2bIOy8s3mXS) 
+  <div class="pub-links">
+  <details class="bibtex-details">
+    <summary class="bibtex-button">[BibTeX]</summary>
+    <div class="bibtex-block">
+      <pre><code>@article{ma2025tpami,
+      title={MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos}, 
+      author={Junyi Ma and Xieyuanli Chen and Wentao Bao and Jingyi Xu and Hesheng Wang},
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)},
+      year={2025}
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://arxiv.org/pdf/2409.02638" class="pub-link">[PDF]</a>
+  <a href="https://github.com/IRMVLab/MADiff">
+    <img src="https://img.shields.io/github/stars/IRMVLab/MADiff?style=social&label=Code+Stars" alt="GitHub stars">
+  </a>
+  </div>
+  
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence **(T-PAMI)***
+   
+   Junyi Ma, **<u>Xieyuanli Chen</u>**, Wentao Bao, Jingyi Xu, Hesheng Wang
+   
+- [Stable grasp generation enabled by part segmentation for real-world robotic applications](https://www.sciencedirect.com/science/article/abs/pii/S0736584525002248)
+    <div class="pub-links">
+    <details class="bibtex-details">
+      <summary class="bibtex-button">[BibTeX]</summary>
+      <div class="bibtex-block">
+        <pre><code>@article{guo2025rcim,
+    title = {Stable grasp generation enabled by part segmentation for real-world robotic applications},
+    author = {Zirui Guo and Xieyuanli Chen and Junkai Ren and Zhiqiang Zheng and Huimin Lu and Ruibin Guo}
+    journal = {Robotics and Computer-Integrated Manufacturing},
+    year = {2026}
+    }</code></pre>
+    </div>
+    </details>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0736584525002248" class="pub-link">[PDF]</a>
+    </div>
+    
+    *Robotics and Computer-Integrated Manufacturing*
+    
+    Zirui Guo, **<u>Xieyuanli Chen</u>**, Junkai Ren, Zhiqiang Zheng, Huimin Lu, Ruibin Guo
+  
+ - [SegNet4D: Efficient Instance-Aware 4D Semantic Segmentation for LiDAR Point Cloud](https://ieeexplore.ieee.org/abstract/document/10993479/) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{wang2024tase,
+    title={SegNet4D: Efficient Instance-Aware 4D Semantic Segmentation for LiDAR Point Cloud},
+    author={Wang, Neng and Guo, Ruibin and Shi, Chenghao and Wang, Ziyue and Zhang, Hui and Lu, Huimin and Zheng, Zhiqiang and Chen, Xieyuanli},
+    journal={IEEE Transactions on Automation Science and Engineering (T-ASE)},
+    year={2024}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/abstract/document/10993479/" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/SegNet4D">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/SegNet4D?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+   *IEEE Transactions on Automation Science and Engineering **(T-ASE)***
+
+   Neng Wang, Ruibin Guo, Chenghao Shi, Ziyue Wang, Hui Zhang, Huimin Lu, Zhiqiang Zheng, **<u>Xieyuanli Chen</u>**
+
+ - [TiCoSS: Tightening the coupling between semantic segmentation and stereo matching within a joint learning framework](https://ieeexplore.ieee.org/abstract/document/11072253/)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{tang2025tase,
+    title={TiCoSS: Tightening the coupling between semantic segmentation and stereo matching within a joint learning framework},
+    author={Tang, Guanfeng and Wu, Zhiyuan and Li, Jiahang and Zhong, Ping and Ye, Wei and Chen, Xieyuanli and Lu, Huimin and Fan, Rui},
+    journal={IEEE Transactions on Automation Science and Engineering (T-ASE)},
+    year={2025}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2407.18038" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Transactions on Automation Science and Engineering **(T-ASE)***
+
+   Guanfeng Tang, Zhiyuan Wu, Jiahang Li, Ping Zhong, Wei Ye, **<u>Xieyuanli Chen</u>**, Huimin Lu, Rui Fan
+   
+- [Robust Visual Place Recognition Under Variational Views](https://ieeexplore.ieee.org/abstract/document/11052616) 
+  <div class="pub-links">
+  <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{huang2025tii,
+    title={Robust Visual Place Recognition Under Variational Views},
+    author={Huang, Junlang and Lin, Defu and Du, Jie and Jiang, Xinyu and Chen, Chuangquan and Chen, Xieyuanli and Zhou, Yimin and Vong, Chi-Man},
+    journal={IEEE Transactions on Industrial Informatics (T-II)},
+    year={2025}
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://ieeexplore.ieee.org/abstract/document/11052616" class="pub-link">[PDF]</a>
+  </div>
+   
+  *IEEE Transactions on Industrial Informatics **(T-II)***
+
+  Junlang Huang, Defu Lin, Jie Du, Xinyu Jiang, Chuangquan Chen,  **<u>Xieyuanli Chen</u>**, Yimin Zhou, Chi-Man Vong
+  
+- [DSBEV: Docking Space Segmentation for Autonomous Surface Vehicle in Bird's Eye View](https://ieeexplore.ieee.org/abstract/document/11017376/) 
+  <div class="pub-links">
+  <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{pang2025tii,
+    title={DSBEV: Docking Space Segmentation for Autonomous Surface Vehicle in Bird's Eye View},
+    author={Pang, Changsong and Zhang, Xiaomin and Chen, Xieyuanli and Xu, Hu and Yu, Yang and Cheng, Yuwei},
+    journal={IEEE Transactions on Industrial Informatics (T-II)},
+    year={2025}
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://ieeexplore.ieee.org/abstract/document/11017376" class="pub-link">[PDF]</a>
+  </div>
+  
+  *IEEE Transactions on Industrial Informatics **(T-II)***
+
+  Changsong Pang, Xiaomin Zhang, **<u>Xieyuanli Chen</u>**, Hu Xu, Yang Yu, Yuwei Cheng
+   
+- [UA-LIO: An Uncertainty-Aware LiDAR-Inertial Odometry for Autonomous Driving in Urban Environments](https://ieeexplore.ieee.org/abstract/document/10898027) 
+  <div class="pub-links">
+  <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{wu2025tim,
+    title={UA-LIO: An Uncertainty-Aware LiDAR-Inertial Odometry for Autonomous Driving in Urban Environments},
+    author={Wu, Qi and Chen, Xieyuanli and Xu, Xiangyu and Zhong, Xinliang and Qu, Xingwei and Xia, Songpengcheng and Liu, Guoqing and Liu, Liu and Yu, Wenxian and Pei, Ling},
+    journal={IEEE Transactions on Instrumentation and Measurement (T-IM)},
+    year={2025}
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://ieeexplore.ieee.org/abstract/document/10898027" class="pub-link">[PDF]</a>
+  </div>
+  
+  *IEEE Transactions on Instrumentation and Measurement **(T-IM)***
+  
+  Qi Wu, **<u>Xieyuanli Chen</u>**, Xiangyu Xu, Xinliang Zhong, Xingwei Qu, Songpengcheng Xia, Guoqing Liu, Liu Liu, Wenxian Yu, Ling Pei
+  
+- [TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal](https://ieeexplore.ieee.org/abstract/document/10981980/) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{jia2025tim,
+    title={TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal},
+    author={Jia, Yanpeng and Wang, Ting and Cao, Fengkui and Chen, Xieyuanli and Shao, Shiliang and Liu, Lianqing},
+    journal={IEEE Transactions on Instrumentation and Measurement (T-IM)},
+    year={2025}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2410.13240" class="pub-link">[PDF]</a>
+   <a href="https://github.com/Yaepiii/TRLO">
+     <img src="https://img.shields.io/github/stars/Yaepiii/TRLO?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+  *IEEE Transactions on Instrumentation and Measurement **(T-IM)***
+  
+  Yanpeng Jia, Ting Wang, **<u>Xieyuanli Chen</u>**, Shiliang Shao
+  
+- [Dynamic Gaits Locomotion for Quadrupedal Robots With Gait Phase Decomposition](https://ieeexplore.ieee.org/abstract/document/11214703) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{zhang2025tie,
+      title={Dynamic Gaits Locomotion for Quadrupedal Robots With Gait Phase Decomposition}, 
+      author={Zhang, Daoxun and Chen, Xieyuanli and Lang, Lin and Zhong, Zhengyu and Chen, Yanjie and Lu, Huimin},
+      journal={IEEE Transactions on Industrial Electronics (T-IE)}, 
+      year={2025}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://www.researchgate.net/profile/Huimin-Lu-3/publication/396839561_Dynamic_Gaits_Locomotion_for_Quadrupedal_Robots_With_Gait_Phase_Decomposition/links/68fdcce402d6215259bee27b/Dynamic-Gaits-Locomotion-for-Quadrupedal-Robots-With-Gait-Phase-Decomposition.pdf" class="pub-link">[PDF]</a>
+   </div>
+   
+  *IEEE Transactions on Industrial Electronics **(T-IE)***
+  
+  Daoxun Zhang, **<u>Xieyuanli Chen</u>**, Lin Lang, Zhengyu Zhong, Yanjie Chen, Huimin Lu
+  
+- [SeqLGPR: A Sequential Subsurface Feature-based Framework for Vehicle Place Recognition](https://ieeexplore.ieee.org/document/11126435) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{zhang2025trs,
+    title={SeqLGPR: A Sequential Subsurface Feature-Based Framework for Vehicle Place Recognition}, 
+    author={Zhang, Pengyu and Zhi, Shuaifeng and Chen, Xieyuanli and Bi, Beizhen and Xu, Zhuo and Chen, Yuwei and Shen, Liang and Jin, Tian and Huang, Xiaotao},
+    journal={IEEE Transactions on Radar Systems (T-RS)},    
+    year={2025}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/document/11126435" class="pub-link">[PDF]</a>
+   </div>
+   
+  *IEEE Transactions on Radar Systems **(T-RS)***
+  
+  Pengyu Zhang, Shuaifeng Zhi, **<u>Xieyuanli Chen</u>**, Beizhen Bi, Zhuo Xu, Yuwei Chen, Liang Shen, Tian Jin, Xiaotao Huang
+   
+ - [Selective Point Sampling for LiDAR-Inertial Odometry](https://ieeexplore.ieee.org/abstract/document/11206445) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{liu2025ral,
+    title={Selective Point Sampling for LiDAR-Inertial Odometry}, 
+    author={Liu, Changxiang and Yu, Hongshan and Chen, Xieyuanli and Lu, Huimin and Wang, Jingchuan and Huang, Yi and Civera, Javier},
+    journal={IEEE Robotics and Automation Letters (RA-L)}, 
+    year={2025}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/abstract/document/11206445" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Changxiang Liu, Hongshan Yu, **<u>Xieyuanli Chen</u>**, Huimin Lu, Jingchuan Wang, Yi Huang, Javier Civera
+   
+ - [RID-Net: A Hybrid MLP-Transformer network for Robust Point Cloud Registration](https://ieeexplore.ieee.org/document/10910198) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{cheng2025ral,
+    title={RID-Net: A Hybrid MLP-Transformer Network for Robust Point Cloud Registration},
+    author={Cheng, Panfei and Yu, Hongshan and Liu, Changxiang and Luo, Kan and Akhtar, Naveed and Chen, Xieyuanli},
+    journal={IEEE Robotics and Automation Letters (RA-L)},
+    year={2025}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/document/10910198" class="pub-link">[PDF]</a>
+   <a href="https://github.com/PANFEI-CHENG/RID-Net">
+     <img src="https://img.shields.io/github/stars/PANFEI-CHENG/RID-Net?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+   *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Panfei Cheng, Hongshan Yu, Changxiang Liu, Kan Luo, Naveed Akhtar, **<u>Xieyuanli Chen</u>**
+
+ - [SGT-LLC: LiDAR Loop Closing Based on Semantic Graph with Triangular Spatial Topology](https://ieeexplore.ieee.org/abstract/document/10891171)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{wang2025ral,
+    title={SGT-LLC: LiDAR Loop Closing Based on Semantic Graph with Triangular Spatial Topology},
+    author={Wang, Shaocong and Cao, Fengkui and Wang, Ting and Chen, Xieyuanli and Shao, Shiliang},
+    journal={IEEE Robotics and Automation Letters (RA-L)},
+    year={2025}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/abstract/document/10891171" class="pub-link">[PDF]</a>
+   <a href="https://github.com/ROBOT-WSC/SGT-LLC">
+     <img src="https://img.shields.io/github/stars/ROBOT-WSC/SGT-LLC?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+   *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Shaocong Wang, Fengkui Cao, Ting Wang,**<u>Xieyuanli Chen</u>**, Shiliang Shao
+  
+- [NeuroVE: Brain-inspired Linear-Angular Velocity Estimation with Spiking Neural Networks](https://ieeexplore.ieee.org/abstract/document/10839327)  
+  <div class="pub-links">
+  <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{li2025ral,
+   title={Neurove: Brain-inspired linear-angular velocity estimation with spiking neural networks},
+   author={Li, Xiao and Chen, Xieyuanli and Guo, Ruibin and Wu, Yujie and Zhou, Zongtan and Yu, Fangwen and Lu, Huimin},
+   journal={IEEE Robotics and Automation Letters (RA-L)},
+   year={2025}
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://arxiv.org/pdf/2408.15663" class="pub-link">[PDF]</a>
+  </div>
+  
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Xiao Li, **<u>Xieyuanli Chen</u>**, Ruibin Guo, Yujie Wu, Zongtan Zhou, Fangwen Yu, Huimin Lu
+  
+- [UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation](https://ieeexplore.ieee.org/document/10937714)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@@article{shen2025ral,
+     title={UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation},
+     author={Shen, Yehui and Zhang, Lei and Li, Qingqiu and Zhao, Xiongwei and Wang, Yue and Lu, Huimin and Chen, Xieyuanli},
+     journal={IEEE Robotics and Automation Letters (RA-L)},
+     year={2025}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2503.21338" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/UGNA-VPR">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/UGNA-VPR?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Yehui Shen, Lei Zhang, Qingqiu Li, Xiongwei Zhao, Yue Wang, Huimin Lu, **<u>Xieyuanli Chen</u>**
+  
+- [BEV-LSLAM: A Novel and Compact BEV LiDAR SLAM for Outdoor Environment](https://ieeexplore.ieee.org/document/10845798) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{cao2025ral,
+     title={Bev-lslam: A novel and compact bev lidar slam for outdoor environment},
+     author={Cao, Fengkui and Wang, Shaocong and Chen, Xieyuanli and Wang, Ting and Liu, Lianqing},
+     journal={IEEE Robotics and Automation Letters (RA-L)},
+     year={2025}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/document/10845798" class="pub-link">[PDF]</a>
+   <a href="https://github.com/ROBOT-WSC/BEV-LSLAM">
+     <img src="https://img.shields.io/github/stars/ROBOT-WSC/BEV-LSLAM?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Fengkui Cao, Shaocong Wang, **<u>Xieyuanli Chen</u>**, Ting Wang, Lianqing Liu
+    
+- [Self-Supervised Diffusion-Based Scene Flow Estimation and Motion Segmentation with 4D Radar](https://ieeexplore.ieee.org/document/10974572) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{liu2025ral,
+     title={Self-Supervised Diffusion-Based Scene Flow Estimation and Motion Segmentation with 4D Radar},
+     author={Liu, Yufei and Chen, Xieyuanli and Wang, Neng and Andreev, Stepan and Dvorkovich, Alexander and Fan, Rui and Lu, Huimin},
+     journal={IEEE Robotics and Automation Letters (RA-L)},
+     year={2025}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/document/10974572" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/RadarSFEMOS">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/RadarSFEMOS?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Yufei Liu, **<u>Xieyuanli Chen</u>**, Neng Wang, Stepan Andreev, Alexander Dvorkovich, Rui Fan, Huimin Lu
+
+- [OverlapMamba: A Shift State Space Model for LiDAR-based Place Recognition](https://ieeexplore.ieee.org/abstract/document/11045950) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{luo2025ral,
+     title={Overlapmamba: A shift state space model for lidar-based place recognition},
+     author={Luo, Jiehao and Cheng, Jintao and Xiang, Qiuchi and Wu, Jin and Fan, Rui and Chen, Xieyuanli and Tang, Xiaoyu},
+     journal={IEEE Robotics and Automation Letters (RA-L)},
+     year={2025}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/abstract/document/11045950" class="pub-link">[PDF]</a>
+   <a href="https://github.com/SCNU-RISLAB/OverlapMamba">
+     <img src="https://img.shields.io/github/stars/SCNU-RISLAB/OverlapMamba?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Jiehao Luo, Jintao Cheng, Qiuchi Xiang, Jin Wu, Rui Fan,  **<u>Xieyuanli Chen</u>**, Xiaoyu Tang
+  
+- [A glance over the past decade: road scene parsing towards safe and comfortable autonomous driving](https://link.springer.com/article/10.1007/s43684-025-00096-y)  
+  <div class="pub-links">
+  <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{fan2025ais,
+    title={A glance over the past decade: road scene parsing towards safe and comfortable autonomous driving},
+    author={Fan, Rui and Li, Jiahang and Li, Jiaqi and Wang, Jiale and Long, Ziwei and Jia, Ning and Liu, Yanan and Wang, Wenshuo and Bocus, Mohammud J and Vityazev, Sergey and others},
+    journal={Autonomous Intelligent Systems},
+    year={2025}
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://link.springer.com/content/pdf/10.1007/s43684-025-00096-y.pdf" class="pub-link">[PDF]</a>
+  </div>
+  
+  *Autonomous Intelligent Systems*
+  
+   Rui Fan, Jiahang Li, Jiaqi Li, Jiale Wang, Ziwei Long, Ning Jia, Yanan Liu, Wenshuo Wang, Mohammud J Bocus, Sergey Vityazev, <br />**<u>Xieyuanli Chen</u>**, Junhao Xiao, Stepan Andreev, Huimin Lu, Alexander Dvorkovich
+
+- [Spatio temporal Decoupling for Efficient Vision-Based Occupancy Forecasting](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Spatiotemporal_Decoupling_for_Efficient_Vision-Based_Occupancy_Forecasting_CVPR_2025_paper.html) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{xu2025scvpr,
+     title={Spatiotemporal decoupling for efficient vision-based occupancy forecasting},
+     author={Xu, Jingyi and Chen, Xieyuanli and Ma, Junyi and Huang, Jiawei and Xu, Jintao and Wang, Yue and Pei, Ling},
+     booktitle={In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR)},
+     year={2025}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Spatiotemporal_Decoupling_for_Efficient_Vision-Based_Occupancy_Forecasting_CVPR_2025_paper.pdf" class="pub-link">[PDF]</a>
+   <a href="https://github.com/BIT-XJY/EfficientOCF">
+     <img src="https://img.shields.io/github/stars/BIT-XJY/EfficientOCF?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+  *In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition **(CVPR 2025)***
+
+  Jingyi Xu, **<u>Xieyuanli Chen</u>**, Junyi Ma, Jiawei Huang, Jintao Xu, Yue Wang, Ling Pei
+
+- [EDENet: Echo Direction Encoding Network for Place Recognition Based on Ground Penetrating Radar](https://ojs.aaai.org/index.php/AAAI/article/view/33092) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{zhang2025aaai,
+     title={EDENet: Echo Direction Encoding Network for Place Recognition Based on Ground Penetrating Radar},
+     author={Zhang, Pengyu and Chen, Xieyuanli and Chen, Yuwei and Bi, Beizhen and Xu, Zhuo and Jin, Tian and Huang, Xiaotao and Shen, Liang},
+     booktitle={In Proc. of the Conference on Advancements of Artificial Intelligence (AAAI)},
+     year={2025}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33092/35247" class="pub-link">[PDF]</a>
+   </div>
+   
+  *In Proc. of the Conference on Advancements of Artificial Intelligence **(AAAI 2025)***
+
+  Pengyu Zhang, **<u>Xieyuanli Chen</u>**, Yuwei Chen, Beizhen Bi, Zhuo Xu, Tian Jin, Xiaotao Huang, Liang Shen
+
+- [A Novel Decomposed Feature-Oriented Framework for Open-Set Semantic Segmentation on LiDAR Data](https://arxiv.org/abs/2503.11097) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{deng2025icra,
+     title={A Novel Decomposed Feature-Oriented Framework for Open-Set Semantic Segmentation on LiDAR Data},
+     author={Deng, Wenbang and Chen, Xieyuanli and Yu, Qinghua and He, Yunze and Xiao, Junhao and Lu, Huimin},
+     journal={In Proc. of the IEEE Intl. Conf. on Robotics & Automation (ICRA)},
+     year={2025}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2503.11097" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/DOSS">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/DOSS?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+  *In Proc. of the IEEE Intl. Conf. on Robotics & Automation **(ICRA 2025)***
+
+  Wenbang Deng, **<u>Xieyuanli Chen</u>**, Qinghua Yu, Yunze He, Junhao Xiao, Huimin Lu
+  
+- [RLCNet: A Novel Deep Feature-Matching-Based Method for Online Target-Free Radar-LiDAR Calibration](https://ieeexplore.ieee.org/abstract/document/11127342)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{luan2025icra,
+     title={RLCNet: A Novel Deep Feature-Matching-Based Method for Online Target-Free Radar-LiDAR Calibration},
+     author={Luan, Kai and Shi, Chenghao and Chen, Xieyuanli and Fan, Rui and Zheng, Zhiqiang and Lu, Huimin},
+     booktitle={In Proc. of the IEEE Intl. Conf. on Robotics & Automation (ICRA)},
+     year={2025}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/abstract/document/11127342" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/RLCNet">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/RLCNet?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+  *In Proc. of the IEEE Intl. Conf. on Robotics & Automation **(ICRA 2025)***
+  
+   Kai Luan,Chenghao Shi, **<u>Xieyuanli Chen</u>**,Rui  Fan,  Zhiqiang Zheng, Huimin Lu
+  
+- [InsCMPR: Efficient Cross-Modal Place Recognition Via Instance-Aware Hybrid Mamba-Transformer](https://ieeexplore.ieee.org/abstract/document/11128210) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{jiao2025icra,
+      title={InsCMPR: Efficient Cross-Modal Place Recognition via Instance-Aware Hybrid Mamba-Transformer},
+      author={Jiao, Shuaifeng and Su, Zhuoqun and Luo, Lun and Yu, Hongshan and Zhou, Zongtan and Lu, Huimin and Chen, Xieyuanli},
+      booktitle={In Proc. of the IEEE Intl. Conf. on Robotics & Automation (ICRA)},
+      year={2025}
+   }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/abstract/document/11128210" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/InsCMPR">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/InsCMPR?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+  *In Proc. of the IEEE Intl. Conf. on Robotics & Automation **(ICRA 2025)***
+  
+  Shuaifeng Jiao, Zhuoqun Su, Lun Luo, Hongshan Yu, Zongtan Zhou, Huimin Lu, **<u>Xieyuanli Chen</u>**
+
+- [LuSeg: Efficient Negative and Positive Obstacles Segmentation via Contrast-Driven Multi-Modal Feature Fusion on the Lunar](https://arxiv.org/abs/2503.11409)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{jiao2025iros,
+      title={LuSeg: Efficient Negative and Positive Obstacles Segmentation via Contrast-Driven Multi-Modal Feature Fusion on the Lunar},
+      author={Jiao, Shuaifeng and Zeng, Zhiwen and Su, Zhuoqun and Chen, Xieyuanli and Zhou, Zongtan and Lu, Huimin},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS),
+      year={2025}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2503.11409" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/LuSeg">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/LuSeg?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+
+  Shuaifeng Jiao, Zhiwen Zeng, Zhuoqun Su, **<u>Xieyuanli Chen</u>**, Zongtan Zhou, Huimin Lu 
+
+ - [Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM](https://arxiv.org/abs/2503.11145)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{wang2025iros,
+      title={Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM},
+      author={Wang, Neng and Lu, Huimin and Zheng, Zhiqiang and Wang, Hesheng and Liu, Yun-Hui and Chen, Xieyuanli},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS),
+      year={2025}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2503.11145" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/SG-SLAM">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/SG-SLAM?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+
+   Neng Wang, Huimin Lu, Zhiqiang Zheng, Yun-Hui Liu, **<u>Xieyuanli Chen</u>**
+
+ - [Image-Goal Navigation Using Refined Feature Guidance and Scene Graph Enhancement](https://arxiv.org/abs/2503.10986)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{feng2025iros,
+      title={Image-Goal Navigation Using Refined Feature Guidance and Scene Graph Enhancement},
+      author={Feng, Zhicheng and Chen, Xieyuanli and Shi, Chenghao and Luo, Lun and Chen, Zhichao and Liu, Yun-Hui and Lu, Huimin},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS),
+      year={2025}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2503.10986" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/RFSG">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/RFSG?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+
+   Zhicheng Feng, **<u>Xieyuanli Chen</u>**, Chenghao Shi, Lun Luo, Zhichao Chen, Yun-Hui Liu, Huimin Lu
+
+ - [Improved 2D Hand Trajectory Prediction with Multi-View Consistency](https://ieeexplore.ieee.org/document/11246827)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{ma2025iros,
+     title={Improved 2D Hand Trajectory Prediction with Multi-View Consistency}, 
+     author={Ma, Junyi and Zhang, Erhang and Xu, Jingyi and Chen, Xieyuanli and Wang, Hesheng},
+     booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+     year={2025},
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/document/11246827" class="pub-link">[PDF]</a>
+   <a href="https://github.com/IRMVLab/EER-HTP">
+     <img src="https://img.shields.io/github/stars/IRMVLab/EER-HTP?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+  
+   Junyi Ma, Erhang Zhang, Jingyi Xu, **<u>Xieyuanli Chen</u>**,  Hesheng Wang
+  
+ - [Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction](https://arxiv.org/abs/2504.07375)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{ma2025iros,
+      title={Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction},
+      author={Ma, Junyi and Bao, Wentao and Xu, Jingyi and Sun, Guanzhong and Chen, Xieyuanli and Wang, Hesheng},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+      year={2025}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2504.07375" class="pub-link">[PDF]</a>
+   <a href="https://github.com/IRMVLab/MMTwin">
+     <img src="https://img.shields.io/github/stars/IRMVLab/MMTwin?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+  
+   Junyi Ma, Wentao Bao, Jingyi Xu, Guanzhong Sun, **<u>Xieyuanli Chen</u>**, Hesheng Wang
+
+ - [Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos](https://arxiv.org/abs/2405.04370)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{ma2024iros,
+      title={Diff-IP2D: Diffusion-based hand-object interaction prediction on egocentric videos},
+      author={Ma, Junyi and Xu, Jingyi and Chen, Xieyuanli and Wang, Hesheng},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS),
+      year={2025}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2405.04370" class="pub-link">[PDF]</a>
+   <a href="https://github.com/IRMVLab/Diff-IP2D">
+     <img src="https://img.shields.io/github/stars/IRMVLab/Diff-IP2D?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+  
+   Junyi Ma, Jingyi Xu, **<u>Xieyuanli Chen</u>**, Hesheng Wang
+
+ - [ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions](https://arxiv.org/abs/2503.12350) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{kuang2025iros,
+      title={Reslpr: A lidar data restoration network and benchmark for robust place recognition against weather corruptions},
+      author={Kuang, Wenqing and Zhao, Xiongwei and Shen, Yehui and Wen, Congcong and Lu, Huimin and Zhou, Zongtan and Chen, Xieyuanli},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS),
+      year={2025}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2503.12350" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/ResLPR">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/ResLPR?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+  
+   Wenqing Kuang, Xiongwei Zhao, Yehui Shen, Congcong Wen, Huimin Lu, Zongtan Zhou, **<u>Xieyuanli Chen</u>**
+  
+ - [BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model](https://arxiv.org/abs/2503.11372)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{wang2025iros,
+      title={BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model},
+      author={Wang, Ziyue and Shi, Chenghao and Wang, Neng and Yu, Qinghua and Chen, Xieyuanli and Lu, Huimin},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS),
+      year={2025}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2503.11372" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/BEVDiffLoc">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/BEVDiffLoc?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+  
+   Ziyue Wang, Chenghao Shi, Neng Wang, Qinghua Yu, **<u>Xieyuanli Chen</u>**, Huimin Lu
+
+ - [Efficient Multi-Modal 3D Object Detector via Instance Level Contrastive Distillation](https://arxiv.org/abs/2503.12914)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{su2025iros,
+      title={Efficient Multimodal 3D Object Detector via Instance-Level Contrastive Distillation},
+      author={Su, Zhuoqun and Lu, Huimin and Jiao, Shuaifeng and Xiao, Junhao and Wang, Yaonan and Chen, Xieyuanli},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS),
+      year={2025}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2503.12914" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/ICD-Fusion">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/ICD-Fusion?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+  
+   Zhuoqun Su, Huimin Lu, Shuaifeng Jiao, Junhao Xiao, Yaonan Wang, **<u>Xieyuanli Chen</u>**
+
+ - [MRMT-PR: A Multi-Scale Reverse-View Mamba-Transformer for LiDAR Place Recognition](https://ieeexplore.ieee.org/document/11247758)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{su2025iros,
+      title={Efficient Multimodal 3D Object Detector via Instance-Level Contrastive Distillation},
+      author={Su, Zhuoqun and Lu, Huimin and Jiao, Shuaifeng and Xiao, Junhao and Wang, Yaonan and Chen, Xieyuanli},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS),
+      year={2025}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/document/11247758" class="pub-link">[PDF]</a>
+   </div>
+   
+   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+  
+   Kan Luo, Jingwen Wang, Hongshan Yu*, Yaonan Wang, Javier Civera, **<u>Xieyuanli Chen</u>**
+
+ - [C-TRAC: Terrain-Adaptive Control for Articulated Tracked Robots via Contact-Aware Reinforcement Learning](https://ieeexplore.ieee.org/document/11247117)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{pan2025iros,
+      title={C-TRAC: Terrain-Adaptive Control for Articulated Tracked Robots via Contact-Aware Reinforcement Learning}, 
+      author={Pan, Hainan and Huang, Kaihong and Chen, Xieyuanli and Zhang, Hongchuan and Shi, Junfeng and Cheng, Chuang and Chen, Bailiang and Lu, Huimin},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS),
+      year={2025},
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/document/11247117" class="pub-link">[PDF]</a>
+   </div>
+
+   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+  
+   Hainan Pan, Kaihong Huang, **<u>Xieyuanli Chen</u>**, Hongchuan Zhang, Junfeng shi, Chuang Cheng, Bailiang Chen, Huimin Lu
+  
+ - [Efficient Instance Motion-Aware Point Cloud Scene Prediction](https://ieeexplore.ieee.org/document/11245889)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{fang2025iros,
+      title={Efficient Instance Motion-Aware Point Cloud Scene Prediction}, 
+      author={Fang, Yiming and Chen, Xieyuanli and Wang, Neng and Huang, Kaihong and Lu, Huimin},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS),
+      year={2025}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/document/11245889" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/IMPNet">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/IMPNet?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+
+   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+  
+   Yiming Fang, **<u>Xieyuanli Chen</u>**, Neng Wang, Kaihong Huang, Huimin Lu
+  
+-  [Fusion Scene Context: Robust and Efficient LiDAR Place Recognition Across Season](https://ieeexplore.ieee.org/document/11246014)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{cao2025iros,
+      title={Fusion Scene Context: Robust and Efficient LiDAR Place Recognition Across Season}, 
+      author={Cao, Fengkui and Jia, Yanpeng and Wang, Ting and Wang, Hesheng and Chen, Xieyuanli},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)}, 
+      year={2025},
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/document/11246014" class="pub-link">[PDF]</a>
+   </div>
+   
+   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
+  
+   Fengkui Cao, Yanpeng Jia, Ting Wang, Hesheng Wang, **<u>Xieyuanli Chen</u>**
+   
+- [Fast Intrinsic–Extrinsic Calibration for Pose-Only Structure-from-Motion](https://www.mdpi.com/2072-4292/17/13/2247)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{tian2025rs,
+      title={Fast Intrinsic--Extrinsic Calibration for Pose-Only Structure-from-Motion},
+      author={Tian, Xiaoyang and Ge, Yangbing and Tan, Zhen and Chen, Xieyuanli and Li, Ming and Hu, Dewen},
+      journal={Remote Sensing},
+      year={2025}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://www.mdpi.com/2072-4292/17/13/2247" class="pub-link">[PDF]</a>
+   </div>
+   
+  *Remote Sensing*
+  
+  Xiaoyang Tian, Yangbing Ge, Zhen Tan, **<u>Xieyuanli Chen</u>**, Ming Li, Dewen Hu
+
+- [Bio-Inspired 3D Affordance Understanding from Single Image with Neural Radiance Field for Enhanced Embodied Intelligence](https://www.mdpi.com/2313-7673/10/6/410) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{guo2025biomimetics,
+      title={Bio-Inspired 3D Affordance Understanding from Single Image with Neural Radiance Field for Enhanced Embodied Intelligence},
+      author={Guo, Zirui and Chen, Xieyuanli and Zheng, Zhiqiang and Lu, Huimin and Guo, Ruibin},
+      journal={Biomimetics},
+      year={2025}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://www.mdpi.com/2313-7673/10/6/410" class="pub-link">[PDF]</a>
+   </div>
+   
+  *Biomimetics*
+  
+  Zirui Guo, **<u>Xieyuanli Chen</u>**, Zhiqiang Zheng, Huimin Lu, Ruibin Guo
+  
+##  2024
+- [Fast and accurate deep loop closing and relocalization for reliable lidar slam](https://ieeexplore.ieee.org/abstract/document/10494918/)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{shi2024tro,
+      title={Fast and accurate deep loop closing and relocalization for reliable lidar slam},
+      author={Shi, Chenghao and Chen, Xieyuanli and Xiao, Junhao and Dai, Bin and Lu, Huimin},
+      journal={IEEE Transactions on Robotics (T-RO)},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2309.08086" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/LCR-Net">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/LCR-Net?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+  *IEEE Transactions on Robotics **(T-RO)***
+  
+  Chenghao Shi, **<u>Xieyuanli Chen</u>**, Junhao Xiao, Bin Dai, Huimin Lu
+
+- [Category-Level Multi-Object 9D State Tracking Using Object-Centric Multi-Scale Transformer in Point Cloud Stream](https://ieeexplore.ieee.org/abstract/document/10814715)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{sun202tmm,
+      title={Category-Level Multi-Object 9D State Tracking Using Object-Centric Multi-Scale Transformer in Point Cloud Stream},
+      author={Sun, Jingtao and Wang, Yaonan and Feng, Mingtao and Guo, Xiaofeng and Lu, Huimin and Chen, Xieyuanli},
+      journal={IEEE Transactions on Multimedia (T-MM)},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/abstract/document/10814715" class="pub-link">[PDF]</a>
+   </div>
+   
+  *IEEE Transactions on Multimedia **(T-MM)***
+  
+  Jingtao Sun, Yaonan Wang, Mingtao Feng, Xiaofeng Guo, Huimin Lu, **<u>Xieyuanli Chen</u>**
+
+- [Efficient and Precise Homo-Hetero Teleoperation Based on an Optimized Upper Limb Exoskeleton](https://ieeexplore.ieee.org/abstract/document/10740802)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{cheng2024tmech,
+      title={Efficient and precise homo-hetero teleoperation based on an optimized upper limb exoskeleton},
+      author={Cheng, Chuang and Dai, Wei and Wu, Tuochang and Chen, Xieyuanli and Wu, Meiping and Yu, Junzhi and Jiang, Jie and Lu, Huimin},
+      journal={IEEE/ASME Transactions on Mechatronics (T-MECH)},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://www.researchgate.net/profile/Huimin-Lu-3/publication/385488176_Efficient_and_Precise_Homo-Hetero_Teleoperation_Based_on_an_Optimized_Upper_Limb_Exoskeleton/links/6729da3d77f274616d5c789c/Efficient-and-Precise-Homo-Hetero-Teleoperation-Based-on-an-Optimized-Upper-Limb-Exoskeleton.pdf" class="pub-link">[PDF]</a>
+   </div>
+   
+  *IEEE/ASME Transactions on Mechatronics **(T-MECH)***
+  
+  Chuang Cheng, Wei Dai, Tuochang Wu, **<u>Xieyuanli Chen</u>**, Meiping Wu, Junzhi Yu, Jie Jiang, Huimin Lu
+
+- [CV-MOS: A Cross-View Model for Motion Segmentation](https://ieeexplore.ieee.org/abstract/document/10677454/)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{tang2024tim,
+      title={Cv-mos: A cross-view model for motion segmentation},
+      author={Tang, Xiaoyu and Chen, Zeyu and Cheng, Jintao and Chen, Xieyuanli and Wu, Jin and Xue, Bohuan},
+      journal={IEEE Transactions on Instrumentation and Measurement (T-IM)},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2408.13790" class="pub-link">[PDF]</a>
+   <a href="https://github.com/SCNU-RISLAB/CV-MOS">
+     <img src="https://img.shields.io/github/stars/SCNU-RISLAB/CV-MOS?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+  *IEEE Transactions on Instrumentation and Measurement **(T-IM)***
+  
+   Xiaoyu Tang, Zeyu Chen, Jintao Cheng, **<u>Xieyuanli Chen</u>**, Jin Wu, Bohuan Xue
+  
+- [Joint scene flow estimation and moving object segmentation on rotational LiDAR data](https://ieeexplore.ieee.org/abstract/document/10623536/) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{chen2024tits,
+      title={Joint scene flow estimation and moving object segmentation on rotational LiDAR data},
+      author={Chen, Xieyuanli and Cui, Jiafeng and Liu, Yufei and Zhang, Xianjing and Sun, Jiadai and Ai, Rui and Gu, Weihao and Xu, Jintao and Lu, Huimin},
+      journal={IEEE Transactions on Intelligent Transportation Systems (T-ITS)},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/abstract/document/10623536" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/SFEMOS">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/SFEMOS?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+  *IEEE Transactions on Intelligent Transportation Systems **(T-ITS)***
+  
+  **<u>Xieyuanli Chen</u>**, Jiafeng Cui, Yufei Liu, Xianjing Zhang, Jiadai Sun, Rui Ai, Weihao Gu, Jintao Xu, Huimin Lu
+
+- [IMPS: Informative Map Point Selection for Visual-Inertial SLAM](https://ieeexplore.ieee.org/abstract/document/10400950/)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{liu2024tiv,
+      title={IMPS: Informative map point selection for visual-inertial SLAM},
+      author={Liu, Changxiang and Yu, Hongshan and Fu, Qiang and Chen, Xieyuanli and Akhtar, Naveed and Mao, Zhi-Hong},
+      journal={IEEE Transactions on Intelligent Vehicles (T-IV)},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/abstract/document/10400950" class="pub-link">[PDF]</a>
+   </div>
+   
+  *IEEE Transactions on Intelligent Vehicles **(T-IV)***
+  
+  Changxiang Liu, Hongshan Yu, Qiang Fu, **<u>Xieyuanli Chen</u>**, Naveed Akhtar, Zhi-Hong Mao
+  
+- [PE-VINS: Accurate Monocular Visual-Inertial SLAM With Point-Edge Features](https://ieeexplore.ieee.org/abstract/document/10570337/) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{liu2024tiv,
+      title={Pe-vins: Accurate monocular visual-inertial slam with point-edge features},
+      author={Liu, Changxiang and Yu, Hongshan and Cheng, Panfei and Sun, Wei and Civera, Javier and Chen, Xieyuanli},
+      journal={IEEE Transactions on Intelligent Vehicles (T-IV)},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://zaguan.unizar.es/record/144803/files/texto_completo.pdf" class="pub-link">[PDF]</a>
+   <a href="https://github.com/BlueAkoasm/PE-VINS">
+     <img src="https://img.shields.io/github/stars/BlueAkoasm/PE-VINS?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+  *IEEE Transactions on Intelligent Vehicles **(T-IV)***
+  
+  Changxiang Liu, Hongshan Yu, Panfei Cheng, Wei Sun, Javier Civera, **<u>Xieyuanli Chen</u>**
+  
+- [A survey on global lidar localization: Challenges, advances and open problems](https://link.springer.com/article/10.1007/s11263-024-02019-5)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{yin2024ijcv,
+      title={A survey on global lidar localization: Challenges, advances and open problems},
+      author={Yin, Huan and Xu, Xuecheng and Lu, Sha and Chen, Xieyuanli and Xiong, Rong and Shen, Shaojie and Stachniss, Cyrill and Wang, Yue},
+      journal={International Journal of Computer Vision (IJCV)},
+      year={2024},
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/abs/2302.07433" class="pub-link">[PDF]</a>
+   </div>
+   
+  *Intl. Journal of Computer Vision **(IJCV)***
+  
+  Huan Yin, Xuecheng Xu, Sha Lu, **<u>Xieyuanli Chen</u>**, Rong Xiong, Shaojie Shen, Cyrill Stachniss, Yue Wang 
+
+- [GOReloc: Graph-Based Object-Level Relocalization for Visual SLAM](https://ieeexplore.ieee.org/abstract/document/10634741/)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{wang2024ral,
+      title={GOReloc: Graph-based object-level relocalization for visual SLAM},
+      author={Wang, Yutong and Jiang, Chaoyang and Chen, Xieyuanli},
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2408.07917" class="pub-link">[PDF]</a>
+   <a href="https://github.com/yutongwangBIT/GOReloc">
+     <img src="https://img.shields.io/github/stars/yutongwangBIT/GOReloc?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+  Yutong Wang, Chaoyang Jiang, **<u>Xieyuanli Chen</u>**
+
+- [CoFiI2P: Coarse-to-Fine Correspondences-Based Image to Point Cloud Registration](https://ieeexplore.ieee.org/abstract/document/10685082/)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{kang2024ral,
+      title={CoFiI2P: Coarse-to-fine correspondences-based image to point cloud registration},
+      author={Kang, Shuhao and Liao, Youqi and Li, Jianping and Liang, Fuxun and Li, Yuhao and Zou, Xianghong and Li, Fangning and Chen, Xieyuanli and Dong, Zhen and Yang, Bisheng},
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://www.researchgate.net/profile/Martin-Liao-3/publication/384282094_CoFiI2P_Coarse-to-Fine_Correspondences-Based_Image_to_Point_Cloud_Registration/links/66fbda20553d245f9e46e4be/CoFiI2P-Coarse-to-Fine-Correspondences-Based-Image-to-Point-Cloud-Registration.pdf" class="pub-link">[PDF]</a>
+   <a href="https://github.com/WHU-USI3DV/CoFiI2P">
+     <img src="https://img.shields.io/github/stars/WHU-USI3DV/CoFiI2P?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+  Shuhao Kang, Youqi Liao, Jianping Li, Fuxun Liang, Yuhao Li, Xianghong Zou, Fangning Li, **<u>Xieyuanli Chen</u>**, Zhen Dong, Bisheng Yang
+  
+- [SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM](https://ieeexplore.ieee.org/abstract/document/10750042)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{wang2024ral,
+      title={SGLC: Semantic graph-guided coarse-fine-refine full loop closing for LiDAR SLAM},
+      author={Wang, Neng and Chen, Xieyuanli and Shi, Chenghao and Zheng, Zhiqiang and Yu, Hongshan and Lu, Huimin},
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2407.08106" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/SGLC">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/SGLC?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+  Neng Wang, **<u>Xieyuanli Chen</u>**, Chenghao Shi, Zhiqiang Zheng, Hongshan Yu, Huimin Lu
+ 
+- [Mobile-Seed: Joint Semantic Segmentation and Boundary Detection for Mobile Robots](https://ieeexplore.ieee.org/abstract/document/10461032/)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{liao2024ral,
+      title={Mobile-seed: Joint semantic segmentation and boundary detection for mobile robots},
+      author={Liao, Youqi and Kang, Shuhao and Li, Jianping and Liu, Yang and Liu, Yun and Dong, Zhen and Yang, Bisheng and Chen, Xieyuanli},
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2311.12651" class="pub-link">[PDF]</a>
+   <a href="https://github.com/WHU-USI3DV/Mobile-Seed">
+     <img src="https://img.shields.io/github/stars/WHU-USI3DV/Mobile-Seed?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+  Youqi Liao, Shuhao Kang, Jianping Li, Yang Liu, Yun Liu, Zhen Dong, Bisheng Yang, **<u>Xieyuanli Chen</u>**
+  
+- [Link3d: Linear keypoints representation for 3d lidar point cloud](https://ieeexplore.ieee.org/abstract/document/10400838) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{cui2024ral,
+      title={Link3d: Linear keypoints representation for 3d lidar point cloud},
+      author={Cui, Yunge and Zhang, Yinlong and Dong, Jiahua and Sun, Haibo and Chen, Xieyuanli and Zhu, Feng},
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2024},
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2206.05927" class="pub-link">[PDF]</a>
+   <a href="https://github.com/YungeCui/LinK3D">
+     <img src="https://img.shields.io/github/stars/YungeCui/LinK3D?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+  Yunge Cui, Yinlong Zhang, Jiahua Dong, Haibo Sun, **<u>Xieyuanli Chen</u>**, Feng Zhu
+    
+- [3D point cloud-based place recognition: a survey](https://link.springer.com/article/10.1007/s10462-024-10713-6) [[PDF]](https://link.springer.com/content/pdf/10.1007/s10462-024-10713-6.pdf) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{luo2024air,
+      title={3D point cloud-based place recognition: a survey},
+      author={Luo, Kan and Yu, Hongshan and Chen, Xieyuanli and Yang, Zhengeng and Wang, Jingwen and Cheng, Panfei and Mian, Ajmal},
+      journal={Artificial Intelligence Review},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://link.springer.com/content/pdf/10.1007/s10462-024-10713-6.pdf" class="pub-link">[PDF]</a>
+   </div>
+   
+  *Artificial Intelligence Review*
+  
+  Kan Luo, Hongshan Yu, **<u>Xieyuanli Chen</u>**, Zhengeng Yang, Jingwen Wang, Panfei Cheng, Ajmal Mian
+ 
+- [Cam4docc: Benchmark for camera-only 4d occupancy forecasting in autonomous driving applications](https://openaccess.thecvf.com/content/CVPR2024/html/Ma_Cam4DOcc_Benchmark_for_Camera-Only_4D_Occupancy_Forecasting_in_Autonomous_Driving_CVPR_2024_paper.html) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{ma2024cvpr,
+      title={Cam4docc: Benchmark for camera-only 4d occupancy forecasting in autonomous driving applications},
+      author={Ma, Junyi and Chen, Xieyuanli and Huang, Jiawei and Xu, Jingyi and Luo, Zhen and Xu, Jintao and Gu, Weihao and Ai, Rui and Wang, Hesheng},
+      booktitle={In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR)},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Cam4DOcc_Benchmark_for_Camera-Only_4D_Occupancy_Forecasting_in_Autonomous_Driving_CVPR_2024_paper.pdf" class="pub-link">[PDF]</a>
+   <a href="https://github.com/haomo-ai/Cam4DOcc">
+     <img src="https://img.shields.io/github/stars/haomo-ai/Cam4DOcc?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+  *In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition **(CVPR 2024)***
+
+  Junyi Ma, **<u>Xieyuanli Chen</u>**, Jiawei Huang, Jingyi Xu, Zhen Luo, Jintao Xu, Weihao Gu, Rui Ai, Hesheng Wang
+  
+- [Tfnet: Exploiting temporal cues for fast and accurate lidar semantic segmentation](https://openaccess.thecvf.com/content/CVPR2024W/WAD/html/Li_TFNet_Exploiting_Temporal_Cues_for_Fast_and_Accurate_LiDAR_Semantic_CVPRW_2024_paper.html)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{li2024cvpr,
+      title={Tfnet: Exploiting temporal cues for fast and accurate lidar semantic segmentation},
+      author={Li, Rong and Li, Shijie and Chen, Xieyuanli and Ma, Teli and Gall, Juergen and Liang, Junwei},
+      booktitle={In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR)},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://openaccess.thecvf.com/content/CVPR2024W/WAD/papers/Li_TFNet_Exploiting_Temporal_Cues_for_Fast_and_Accurate_LiDAR_Semantic_CVPRW_2024_paper.pdf" class="pub-link">[PDF]</a>
+   </div>
+   
+  *In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition **(CVPR 2024)***
+
+  Rong Li, Shijie Li, **<u>Xieyuanli Chen</u>**, Teli Ma, Juergen Gall, Junwei Liang
+
+- [RadarMOSEVE: A Spatial-Temporal Transformer Network for Radar-Only Moving Object Segmentation and Ego-Velocity Estimation](https://ojs.aaai.org/index.php/AAAI/article/view/28240) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{pang2024aaai,
+      title={Radarmoseve: A spatial-temporal transformer network for radar-only moving object segmentation and ego-velocity estimation},
+      author={Pang, Changsong and Chen, Xieyuanli and Liu, Yimin and Lu, Huimin and Cheng, Yuwei},
+      booktitle={In Proc. of the Conference on Advancements of Artificial Intelligence (AAAI)},
+      year={2024}
+     }</code></pre>
+   </div>
+   </details>
+   <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28240/28475" class="pub-link">[PDF]</a>
+   <a href="https://github.com/ORCA-Uboat/RadarMOSEVE">
+     <img src="https://img.shields.io/github/stars/ORCA-Uboat/RadarMOSEVE?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div>
+   
+  *In Proc. of the Conference on Advancements of Artificial Intelligence **(AAAI 2024)***
+
+  Changsong Pang, **<u>Xieyuanli Chen</u>**, Yimin Liu, Huimin Lu, Yuwei Cheng
+  
+- [TSCM: A Teacher-Student Model for Vision Place Recognition Using Cross-Metric Knowledge Distillation](https://ieeexplore.ieee.org/document/10611612)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{shen2024icra,
+      title={TSCM: A teacher-student model for vision place recognition using cross-metric knowledge distillation},
+      author={Shen, Yehui and Liu, Mingmin and Lu, Huimin and Chen, Xieyuanli},
+      booktitle={In Proc. of the IEEE Intl. Conf. on Robotics & Automation (ICRA)},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2404.01587" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/TSCM">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/TSCM?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of the IEEE Intl. Conf. on Robotics & Automation **(ICRA 2024)***
+  
+  Yehui Shen, Mingmin Liu, Huimin Lu, **<u>Xieyuanli Chen</u>**
+  
+- [Superfusion: Multilevel lidar-camera fusion for long-range hd map generation](https://ieeexplore.ieee.org/abstract/document/10611320/) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{dong2024icra,
+      title={Superfusion: Multilevel lidar-camera fusion for long-range hd map generation},
+      author={Dong, Hao and Gu, Weihao and Zhang, Xianjing and Xu, Jintao and Ai, Rui and Lu, Huimin and Kannala, Juho and Chen, Xieyuanli},
+      booktitle={In Proc. of the IEEE Intl. Conf. on Robotics & Automation (ICRA)},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2211.15656" class="pub-link">[PDF]</a>
+   <a href="https://github.com/haomo-ai/SuperFusion">
+     <img src="https://img.shields.io/github/stars/haomo-ai/SuperFusion?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of the IEEE Intl. Conf. on Robotics & Automation **(ICRA 2024)***
+  
+  Hao Dong, Weihao Gu, Xianjing Zhang, Jintao Xu, Rui Ai, Huimin Lu, Juho Kannala, **<u>Xieyuanli Chen</u>**
+  
+- [Diffusion-Based Point Cloud Super-Resolution for mmWave Radar Data](https://ieeexplore.ieee.org/document/10611026)  
+  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{luan2024icra,
+      title={Diffusion-based point cloud super-resolution for mmwave radar data},
+      author={Luan, Kai and Shi, Chenghao and Wang, Neng and Cheng, Yuwei and Lu, Huimin and Chen, Xieyuanli},
+      booktitle={In Proc. of the IEEE Intl. Conf. on Robotics & Automation (ICRA)},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2404.06012" class="pub-link">[PDF]</a>
+   </div> 
+   
+  *In Proc. of the IEEE Intl. Conf. on Robotics & Automation **(ICRA 2024)***
+  
+  Kai Luan, Chenghao Shi, Neng Wang, Yuwei Cheng, Huimin Lu, **<u>Xieyuanli Chen</u>**
+
+- [VOOM: Robust Visual Object Odometry and Mapping using Hierarchical Landmarks](https://ieeexplore.ieee.org/document/10611684) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{wang2024icra,
+      title={Voom: Robust visual object odometry and mapping using hierarchical landmarks},
+      author={Wang, Yutong and Jiang, Chaoyang and Chen, Xieyuanli},
+      booktitle={In Proc. of the IEEE Intl. Conf. on Robotics & Automation (ICRA)},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2402.13609" class="pub-link">[PDF]</a>
+   <a href="https://github.com/yutongwangBIT/VOOM">
+     <img src="https://img.shields.io/github/stars/yutongwangBIT/VOOM?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of the IEEE Intl. Conf. on Robotics & Automation **(ICRA 2024)***
+  
+  Yutong Wang, Chaoyang Jiang, **<u>Xieyuanli Chen</u>**
+  
+- [ModaLink: Unifying Modalities for Efficient Image-to-PointCloud Place Recognition](https://ieeexplore.ieee.org/document/10801556) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{xie2024iros,
+      title={ModaLink: Unifying modalities for efficient image-to-PointCloud place recognition},
+      author={Xie, Weidong and Luo, Lun and Ye, Nanfei and Ren, Yi and Du, Shaoyi and Wang, Minhang and Xu, Jintao and Ai, Rui and Gu, Weihao and Chen, Xieyuanli},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2403.18762" class="pub-link">[PDF]</a>
+   <a href="https://github.com/haomo-ai/ModaLink">
+     <img src="https://img.shields.io/github/stars/haomo-ai/ModaLink?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2024)***
+  
+  Weidong Xie, Lun Luo, Nanfei Ye, Yi Ren, Shaoyi Du, Minhang Wang, Jintao Xu, Rui Ai, Weihao Gu, **<u>Xieyuanli Chen</u>**
+
+- [TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization](https://ieeexplore.ieee.org/document/10802634)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{tan2024iros,
+      title={Td-nerf: Novel truncated depth prior for joint camera pose and neural radiance field optimization},
+      author={Tan, Zhen and Zhou, Zongtan and Ge, Yangbing and Wang, Zi and Chen, Xieyuanli and Hu, Dewen},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+      year={2024},
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2405.07027" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/TD-NeRF">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/TD-NeRF?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2024)***
+  
+  Zhen Tan, Zongtan Zhou, Yangbing Ge, Zi Wang, **<u>Xieyuanli Chen</u>**, Dewen Hu
+  
+- [Explicit Interaction for Fusion-Based Place Recognition](https://ieeexplore.ieee.org/document/10802665)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{xu2024iros,
+      title={Explicit interaction for fusion-based place recognition},
+      author={Xu, Jingyi and Ma, Junyi and Wu, Qi and Zhou, Zijie and Wang, Yue and Chen, Xieyuanli and Yu, Wenxian and Pei, Ling},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2402.17264" class="pub-link">[PDF]</a>
+   <a href="https://github.com/BIT-XJY/EINet">
+     <img src="https://img.shields.io/github/stars/BIT-XJY/EINet?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2024)***
+  
+   Jingyi Xu, Junyi Ma, Qi Wu, Zijie Zhou, Yue Wang, **<u>Xieyuanli Chen</u>**, Wenxian Yu, Ling Pei
+
+##  2023
+- [CVTNet: A cross-view transformer network for LiDAR-based place recognition in autonomous driving environments](https://ieeexplore.ieee.org/abstract/document/10273716) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{ma2023tii,
+      title={CVTNet: A cross-view transformer network for LiDAR-based place recognition in autonomous driving environments},
+      author={Ma, Junyi and Xiong, Guangming and Xu, Jingyi and Chen, Xieyuanli},
+      journal={IEEE Transactions on Industrial Informatics (T-II)},
+      year={2023}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/abstract/document/10273716" class="pub-link">[PDF]</a>
+   <a href="https://github.com/BIT-MJY/CVTNet">
+     <img src="https://img.shields.io/github/stars/BIT-MJY/CVTNet?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *IEEE Transactions on Industrial Informatics **(T-II)***
+
+  Junyi Ma, Guangming Xiong, Jingyi Xu, **<u>Xieyuanli Chen</u>**
+  
+- [360-VIO: A Robust Visual–Inertial Odometry Using a 360° Camera](https://ieeexplore.ieee.org/abstract/document/10373205)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{wu2023tie,
+      title={360-vio: A robust visual--inertial odometry using a 360 camera},
+      author={Wu, Qi and Xu, Xiangyu and Chen, Xieyuanli and Pei, Ling and Long, Chao and Deng, Junyuan and Liu, Guoqing and Yang, Sheng and Wen, Shilei and Yu, Wenxian},
+      journal={IEEE Transactions on Industrial Electronics (T-IE)},
+      year={2023}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://www.researchgate.net/profile/Qi-Wu-42/publication/376825456_360-VIO_A_Robust_Visual-Inertial_Odometry_Using_a_360_Camera/links/6594b0b56f6e450f19c49549/360-VIO-A-Robust-Visual-Inertial-Odometry-Using-a-360-Camera.pdf" class="pub-link">[PDF]</a>
+   <a href="https://github.com/Gatsby23/360-VIO">
+     <img src="https://img.shields.io/github/stars/Gatsby23/360-VIO?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *IEEE Transactions on Industrial Electronics  **(T-IE)***
+  
+  Qi Wu, Xiangyu Xu, **<u>Xieyuanli Chen</u>**, Ling Pei, Chao Long, Junyuan Deng, Guoqing Liu, Sheng Yang, Shilei Wen, Wenxian Yu
+
+- [RDMNet: Reliable dense matching based point cloud registration for autonomous driving](https://ieeexplore.ieee.org/abstract/document/10246847/)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{shi2023tits,
+      title={RDMNet: Reliable dense matching based point cloud registration for autonomous driving},
+      author={Shi, Chenghao and Chen, Xieyuanli and Lu, Huimin and Deng, Wenbang and Xiao, Junhao and Dai, Bin},
+      journal={IEEE Transactions on intelligent transportation systems (T-ITS)},
+      year={2023}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2303.18084" class="pub-link">[PDF]</a>
+   </div> 
+   
+  *IEEE Transactions on intelligent transportation systems **(T-ITS)***
+  
+  Chenghao Shi, **<u>Xieyuanli Chen</u>**, Huimin Lu, Wenbang Deng, Junhao Xiao, Bin Dai
+  
+- [Geometry‐based flipper motion planning for articulated tracked robots traversing rough terrain in real‐time](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22236)   [[PDF]](https://www.researchgate.net/profile/Huimin-Lu-3/publication/372977710_Geometry-based_flipper_motion_planning_for_articulated_tracked_robots_traversing_rough_terrain_in_real-time/links/64d8477d78e40b48bd443d62/Geometry-based-flipper-motion-planning-for-articulated-tracked-robots-traversing-rough-terrain-in-real-time.pdf)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{chen2023jfr,
+      title={Geometry-based flipper motion planning for articulated tracked robots traversing rough terrain in real-time},
+      author={Chen, Bailiang and Huang, Kaihong and Pan, Hainan and Ren, Haoran and Chen, Xieyuanli and Xiao, Junhao and Wu, Wenqi and Lu, Huimin},
+      journal={Journal of Field Robotics (JFR)},
+      year={2023}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://www.researchgate.net/profile/Huimin-Lu-3/publication/372977710_Geometry-based_flipper_motion_planning_for_articulated_tracked_robots_traversing_rough_terrain_in_real-                     time/links/64d8477d78e40b48bd443d62/Geometry-based-flipper-motion-planning-for-articulated-tracked-robots-traversing-rough-terrain-in-real-time.pdf" class="pub-link">[PDF]</a>
+   </div> 
+   
+  *Journal of Field Robotics **(JFR)**
+  
+  Bailiang Chen, Kaihong Huang, Hainan Pan, Haoran Ren, **<u>Xieyuanli Chen</u>**, Junhao Xiao, Wenqi Wu, Huimin Lu
+  
+- [Extreme low-resolution action recognition with confident spatial-temporal attention transfer](https://link.springer.com/article/10.1007/s11263-023-01771-4)  [[PDF]](https://link.springer.com/article/10.1007/s11263-023-01771-4)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{bai2023ijcv,
+      title={Extreme low-resolution action recognition with confident spatial-temporal attention transfer},
+      author={Bai, Yucai and Zou, Qin and Chen, Xieyuanli and Li, Lingxi and Ding, Zhengming and Chen, Long},
+      journal={International Journal of Computer Vision (IJCV)},
+      year={2023}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://link.springer.com/article/10.1007/s11263-023-01771-4" class="pub-link">[PDF]</a>
+   </div> 
+   
+  *Intl. Journal of Computer Vision **(IJCV)***
+  
+  Yucai Bai, Qin Zou, **<u>Xieyuanli Chen</u>**, Lingxi Li, Zhengming Ding, Long Chen
+  
+- [CCL: Continual Contrastive Learning for LiDAR Place Recognition](https://ieeexplore.ieee.org/abstract/document/10146414/)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{cui2023ral,
+      title={CCL: Continual contrastive learning for LiDAR place recognition},
+      author={Cui, Jiafeng and Chen, Xieyuanli},
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2023}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2303.13952" class="pub-link">[PDF]</a>
+   <a href="https://github.com/cloudcjf/CCL">
+     <img src="https://img.shields.io/github/stars/cloudcjf/CCL?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+  Jiafeng Cui, **<u>Xieyuanli Chen</u>**
+  
+- [Ir-mcl: Implicit representation-based online global localization](https://ieeexplore.ieee.org/abstract/document/10024873/)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{kuang2023ral,
+      title={Ir-mcl: Implicit representation-based online global localization},
+      author={Kuang, Haofei and Chen, Xieyuanli and Guadagnino, Tiziano and Zimmerman, Nicky and Behley, Jens and Stachniss, Cyrill},
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2023}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2210.03113" class="pub-link">[PDF]</a>
+   <a href="https://github.com/PRBonn/ir-mcl">
+     <img src="https://img.shields.io/github/stars/PRBonn/ir-mcl?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+  Haofei Kuang, **<u>Xieyuanli Chen</u>**, Tiziano Guadagnino, Nicky Zimmerman, Jens Behley, Cyrill Stachniss
+  
+- [Building volumetric beliefs for dynamic environments exploiting map-based moving object segmentation](https://ieeexplore.ieee.org/abstract/document/10173578)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{mersch2023ral,
+      title={Building volumetric beliefs for dynamic environments exploiting map-based moving object segmentation},
+      author={Mersch, Benedikt and Guadagnino, Tiziano and Chen, Xieyuanli and Vizzo, Ignacio and Behley, Jens and Stachniss, Cyrill},
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2023}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2307.08314" class="pub-link">[PDF]</a>
+   <a href="https://github.com/PRBonn/MapMOS">
+     <img src="https://img.shields.io/github/stars/PRBonn/MapMOS?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+  Benedikt Mersch, Tiziano Guadagnino, **<u>Xieyuanli Chen</u>**, Ignacio Vizzo, Jens Behley, Cyrill Stachniss
+
+
+- [Static map generation from 3D LiDAR point clouds exploiting ground segmentation](https://www.sciencedirect.com/science/article/pii/S0921889022001762)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{arora2023ras,
+      title={Static map generation from 3D LiDAR point clouds exploiting ground segmentation},
+      author={Arora, Mehul and Wiesmann, Louis and Chen, Xieyuanli and Stachniss, Cyrill},
+      journal={Robotics and Autonomous Systems},
+      year={2023}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/arora2023jras.pdf" class="pub-link">[PDF]</a>
+   <a href="https://github.com/PRBonn/dynamic-point-removal">
+     <img src="https://img.shields.io/github/stars/PRBonn/dynamic-point-removal?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *IEEE Robotics and Autonomous Systems **(RAS)***
+
+  Mehul Arora, Louis Wiesmann, **<u>Xieyuanli Chen</u>**, Cyrill Stachniss
+
+- [Online pole segmentation on range images for long-term LiDAR localization in urban environments](https://www.sciencedirect.com/science/article/pii/S0921889022001725) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{dong2023ras,
+      title={Online pole segmentation on range images for long-term LiDAR localization in urban environments},
+      author={Dong, Hao and Chen, Xieyuanli and S{\"a}rkk{\"a}, Simo and Stachniss, Cyrill},
+      journal={Robotics and Autonomous Systems},
+      year={2023}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2208.07364" class="pub-link">[PDF]</a>
+   <a href="https://github.com/PRBonn/pole-localization">
+     <img src="https://img.shields.io/github/stars/PRBonn/pole-localization?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *IEEE Robotics and Autonomous Systems **(RAS)***
+  
+  Hao Dong, **<u>Xieyuanli Chen</u>**, Simo Särkkä, Cyrill Stachniss
+    
+- [Deep Reinforcement Learning for Flipper Control of Tracked Robots in Urban Rescuing Environments](https://www.mdpi.com/2072-4292/15/18/4616)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{pan2023rs,
+      title={Deep reinforcement learning for flipper control of tracked robots in urban rescuing environments},
+      author={Pan, Hainan and Chen, Xieyuanli and Ren, Junkai and Chen, Bailiang and Huang, Kaihong and Zhang, Hui and Lu, Huimin},
+      journal={Remote Sensing},
+      year={2023}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://www.mdpi.com/2072-4292/15/18/4616" class="pub-link">[PDF]</a>
+   </div> 
+   
+  *Remote Sensing*
+  
+  Hainan Pan, **<u>Xieyuanli Chen</u>**, Junkai Ren, Bailiang Chen, Kaihong Huang, Hui Zhang, Huimin Lu
+  
+- [Deep LiDAR-radar-visual fusion for object detection in urban environments](https://www.mdpi.com/2072-4292/15/18/4433)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{xiao2023rs,
+      title={Deep LiDAR-radar-visual fusion for object detection in urban environments},
+      author={Xiao, Yuhan and Liu, Yufei and Luan, Kai and Cheng, Yuwei and Chen, Xieyuanli and Lu, Huimin},
+      journal={Remote Sensing},
+      year={2023}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://www.mdpi.com/2072-4292/15/18/4433" class="pub-link">[PDF]</a>
+   </div> 
+   
+  *Remote Sensing*
+  
+  Yuhan Xiao, Yufei Liu, Kai Luan, Yuwei Cheng, **<u>Xieyuanli Chen</u>**, Huimin Lu
+  
+- [RSS-LIWOM: Rotating solid-state LiDAR for robust LiDAR-Inertial-Wheel odometry and mapping](https://www.mdpi.com/2072-4292/15/16/4040)  [[PDF]](https://www.mdpi.com/2072-4292/15/16/4040)  [![](https://img.shields.io/github/stars/nubot-nudt/RSS_LOAM_Datasets?style=social&label=Code+Stars)](https://github.com/nubot-nudt/RSS_LOAM_Datasets) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{gong2023rs,
+      title={RSS-LIWOM: Rotating solid-state LiDAR for robust LiDAR-Inertial-Wheel odometry and mapping},
+      author={Gong, Shunjie and Shi, Chenghao and Zhang, Hui and Lu, Huimin and Zeng, Zhiwen and Chen, Xieyuanli},
+      journal={Remote Sensing},
+      year={2023}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://www.mdpi.com/2072-4292/15/16/4040" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/RSS_LOAM_Datasets">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/RSS_LOAM_Datasets?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *Remote Sensing*
+  
+  Shunjie Gong, Chenghao Shi, Hui Zhang, Huimin Lu, Zhiwen Zeng, **<u>Xieyuanli Chen</u>**
+  
+- [Temporal consistent 3D lidar representation learning for semantic perception in autonomous driving](https://openaccess.thecvf.com/content/CVPR2023/html/Nunes_Temporal_Consistent_3D_LiDAR_Representation_Learning_for_Semantic_Perception_in_CVPR_2023_paper.html) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{nunes2023cvpr,
+      title={Temporal consistent 3d lidar representation learning for semantic perception in autonomous driving},
+      author={Nunes, Lucas and Wiesmann, Louis and Marcuzzi, Rodrigo and Chen, Xieyuanli and Behley, Jens and Stachniss, Cyrill},
+      booktitle={In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR)},
+      year={2023}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Nunes_Temporal_Consistent_3D_LiDAR_Representation_Learning_for_Semantic_Perception_in_CVPR_2023_paper.pdf" class="pub-link">[PDF]</a>
+   <a href="https://github.com/PRBonn/TARL">
+     <img src="https://img.shields.io/github/stars/PRBonn/TARL?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition **(CVPR 2023)***
+
+  Lucas Nunes, Louis Wiesmann, Rodrigo Marcuzzi, **<u>Xieyuanli Chen</u>**, Jens Behley, Cyrill Stachniss
+  
+- [Nerf-loam: Neural implicit representation for large-scale incremental lidar odometry and mapping](https://openaccess.thecvf.com/content/ICCV2023/html/Deng_NeRF-LOAM_Neural_Implicit_Representation_for_Large-Scale_Incremental_LiDAR_Odometry_and_ICCV_2023_paper.html) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{deng2023iccv,
+      title={Nerf-loam: Neural implicit representation for large-scale incremental lidar odometry and mapping},
+      author={Deng, Junyuan and Wu, Qi and Chen, Xieyuanli and Xia, Songpengcheng and Sun, Zhen and Liu, Guoqing and Yu, Wenxian and Pei, Ling},
+      booktitle={In Proc. of the IEEE/CVF Intl. Conf. on Computer Vision (ICCV)},
+      year={2023}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Deng_NeRF-LOAM_Neural_Implicit_Representation_for_Large-Scale_Incremental_LiDAR_Odometry_and_ICCV_2023_paper.pdf" class="pub-link">[PDF]</a>
+   <a href="https://github.com/JunyuanDeng/NeRF-LOAM">
+     <img src="https://img.shields.io/github/stars/JunyuanDeng/NeRF-LOAM?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of the IEEE/CVF Intl. Conf. on Computer Vision **(ICCV 2023)***
+  
+  Junyuan Deng, Qi Wu, **<u>Xieyuanli Chen</u>**, Songpengcheng Xia, Zhen Sun, Guoqing Liu, Wenxian Yu, Ling Pei
+    
+- [ERASOR2: Instance-aware robust 3D mapping of the static world in dynamic scenes](https://koasas.kaist.ac.kr/handle/10203/310608) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{lim2023rss,
+      title={ERASOR2: Instance-Aware Robust 3D Mapping of the Static World in Dynamic Scenes.},
+      author={Lim, Hyungtae and Nunes, Lucas and Mersch, Benedikt and Chen, Xieyuanli and Behley, Jens and Myung, Hyun and Stachniss, Cyrill},
+      booktitle={Robotics: Science and Systems (RSS)},
+      year={2023}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://www.researchgate.net/profile/Cyrill_Stachniss/publication/372792825_ERASOR2_Instance-Aware_Robust_3D_Mapping_of_the_Static_World_in_Dynamic_Scenes/links/65201a10b0df2f20a216393c/ERASOR2-Instance-Aware-Robust-3D-Mapping-of-the-Static-World-in-Dynamic-Scenes.pdf?__cf_chl_tk=H4hn6CSehEkJUimB0.cnEY1.PNbzVM0zV5Anw12IsmI-1736398204-1.0.1.1-rP4ZORj6jdhvXDd9fxFCrezumcdULhJEvG7sOJ4pvIg" class="pub-link">[PDF]</a>
+   <a href="https://github.com/url-kaist/ERASOR2">
+     <img src="https://img.shields.io/github/stars/url-kaist/ERASOR2?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of Robotics: Science and Systems **(RSS 2023)***
+  
+  Hyungtae Lim, Lucas Nunes, Benedikt Mersch, **Xieyunali Chen**, Jens Behley, Hyun Myung, Cyrill Stachniss
+  
+- [PowerBEV: A Powerful Yet Lightweight Framework for Instance Prediction in Bird's-Eye View](https://www.ijcai.org/proceedings/2023/120) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{li2023ijcai,
+      title={Powerbev: A powerful yet lightweight framework for instance prediction in bird's-eye view},
+      author={Li, Peizheng and Ding, Shuxiao and Chen, Xieyuanli and Hanselmann, Niklas and Cordts, Marius and Gall, Juergen},
+      booktitle={In Proc. of the Intl. Conf. on Artificial Intelligence (IJCAI)},
+      year={2023}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2306.10761" class="pub-link">[PDF]</a>
+   <a href="https://github.com/EdwardLeeLPZ/PowerBEV">
+     <img src="https://img.shields.io/github/stars/EdwardLeeLPZ/PowerBEV?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of the Intl. Conf. on Artificial Intelligence **(IJCAI 2023)***
+  
+  Peizheng Li, Shuxiao Ding, **<u>Xieyuanli Chen</u>**, Niklas Hanselmann, Marius Cordts, Juergen Gall
+  
+- [Learning-based dimensionality reduction for computing compact and effective local feature descriptors](https://ieeexplore.ieee.org/abstract/document/10161381/)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{dong2022icra,
+      title={Learning-based dimensionality reduction for computing compact and effective local feature descriptors},
+      author={Dong, Hao and Chen, Xieyuanli and Dusmanu, Mihai and Larsson, Viktor and Pollefeys, Marc and Stachniss, Cyrill},
+      journal={In Proc. of the IEEE Intl. Conf. on Robotics & Automation (ICRA)},
+      year={2022}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2209.13586" class="pub-link">[PDF]</a>
+   <a href="https://github.com/PRBonn/descriptor-dr">
+     <img src="https://img.shields.io/github/stars/PRBonn/descriptor-dr?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of the IEEE Intl. Conf. on Robotics & Automation **(ICRA 2023)***
+  
+  Hao Dong, **<u>Xieyuanli Chen</u>**, Mihai Dusmanu, Viktor Larsson, Marc Pollefeys, Cyrill Stachniss
+  
+- [Hybrid Map-Based Path Planning for Robot Navigation in Unstructured Environments](https://ieeexplore.ieee.org/abstract/document/10341666) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{liu2023iros,
+      title={Hybrid map-based path planning for robot navigation in unstructured environments},
+      author={Liu, Jiayang and Chen, Xieyuanli and Xiao, Junhao and Lin, Sichao and Zheng, Zhiqiang and Lu, Huimin},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+      year={2023}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2303.05304" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/T-Hybrid-planner">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/T-Hybrid-planner?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2023)***
+
+  Jiayang Liu, **<u>Xieyuanli Chen</u>**, Junhao Xiao, Sichao Lin, Zhiqiang Zheng, Huimin Lu
+  
+- [ElC-OIS: Ellipsoidal Clustering for Open-World Instance Segmentation on LiDAR Data](https://ieeexplore.ieee.org/abstract/document/10342356) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{deng2023iros,
+      title={Elc-ois: Ellipsoidal clustering for open-world instance segmentation on lidar data},
+      author={Deng, Wenbang and Huang, Kaihong and Yu, Qinghua and Lu, Huimin and Zheng, Zhiqiang and Chen, Xieyuanli},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+      year={2023}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2303.04351" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/ElC-OIS">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/ElC-OIS?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2023)***
+  
+  Wenbang Deng, Kaihong Huang, Qinghua Yu, Huimin Lu, Zhiqiang Zheng, **<u>Xieyuanli Chen</u>**
+  
+- [InsMOS: Instance-aware moving object segmentation in LiDAR data](https://ieeexplore.ieee.org/abstract/document/10342277/)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{wang2023iros,
+      title={Insmos: Instance-aware moving object segmentation in lidar data},
+      author={Wang, Neng and Shi, Chenghao and Guo, Ruibin and Lu, Huimin and Zheng, Zhiqiang and Chen, Xieyuanli},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+      year={2023}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2303.03909" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/InsMOS">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/InsMOS?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2023)***
+  
+  Neng Wang, Chenghao Shi, Ruibin Guo, Huimin Lu, Zhiqiang Zheng, **<u>Xieyuanli Chen</u>**
+
+- [Neu-nbv: Next best view planning using uncertainty estimation in image-based neural rendering](https://ieeexplore.ieee.org/abstract/document/10342226)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{jin2023niros,
+      title={Neu-nbv: Next best view planning using uncertainty estimation in image-based neural rendering},
+      author={Jin, Liren and Chen, Xieyuanli and R{\"u}ckin, Julius and Popovi{\'c}, Marija},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+      year={2023}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2303.01284" class="pub-link">[PDF]</a>
+   <a href="https://github.com/dmar-bonn/neu-nbv">
+     <img src="https://img.shields.io/github/stars/dmar-bonn/neu-nbv?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2023)***
+  
+  Liren Jin, **<u>Xieyuanli Chen</u>**, Julius Rückin, Marija Popović  
+  
+- [Kernel-Based Attention Network for Point Cloud Compression](https://ieeexplore.ieee.org/abstract/document/10354640/)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{yuan2023robio,
+      title={Kernel-Based Attention Network for Point Cloud Compression},
+      author={Yuan, Yang and Chen, Xieyuanli and Shi, Chenghao and Lv, Yunxiao and Lu, Huimin and Xiao, Junhao},
+      booktitle={IEEE International Conference on Robotics and Biomimetics (ROBIO)},
+      year={2023}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/abstract/document/10354640" class="pub-link">[PDF]</a>
+   </div> 
+   
+  *IEEE International Conference on Robotics and Biomimetics **(ROBIO 2023)***
+  
+  Yang Yuan, **<u>Xieyuanli Chen</u>**, Chenghao Shi, Yunxiao Lv, Huimin Lu, Junhao Xiao
+  
+## 2022
+- [SeqOT: A spatial–temporal transformer network for place recognition using sequential LiDAR data](https://ieeexplore.ieee.org/abstract/document/9994714/)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{ma2022tie,
+      title={SeqOT: A spatial--temporal transformer network for place recognition using sequential LiDAR data},
+      author={Ma, Junyi and Chen, Xieyuanli and Xu, Jingyi and Xiong, Guangming},
+      journal={IEEE Transactions on Industrial Electronics (T-IE)},
+      year={2022}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2209.07951" class="pub-link">[PDF]</a>
+   <a href="https://github.com/BIT-MJY/SeqOT">
+     <img src="https://img.shields.io/github/stars/BIT-MJY/SeqOT?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *IEEE Transactions on Industrial Electronics **(T-IE)***
+
+  Junyi Ma, **<u>Xieyuanli Chen</u>**, Jingyi Xu, Guangming Xiong
+  
+- [OverlapNet: a siamese network for computing LiDAR scan similarity with applications to loop closing and localization](https://link.springer.com/article/10.1007/s10514-021-09999-0) [[PDF]](https://link.springer.com/article/10.1007/s10514-021-09999-0)  [![](https://img.shields.io/github/stars/PRBonn/OverlapNet?style=social&label=Code+Stars)](https://github.com/PRBonn/OverlapNet)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{chen2022ar,
+      title={OverlapNet: A siamese network for computing LiDAR scan similarity with applications to loop closing and localization},
+      author={Chen, Xieyuanli and L{\"a}be, Thomas and Milioto, Andres and R{\"o}hling, Timo and Behley, Jens and Stachniss, Cyrill},
+      journal={Autonomous Robots},
+      year={2022}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://link.springer.com/article/10.1007/s10514-021-09999-0" class="pub-link">[PDF]</a>
+   <a href="https://github.com/github.com/PRBonn/OverlapNet">
+     <img src="https://img.shields.io/github/stars/PRBonn/OverlapNet?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+
+  *Autonomous Robots*
+  
+  **<u>Xieyuanli Chen</u>**, Thomas Läbe, Andres Milioto, Timo Röhling, Jens Behley, Cyrill Stachniss
+  
+- [Overlaptransformer: An efficient and yaw-angle-invariant transformer network for lidar-based place recognition](https://ieeexplore.ieee.org/abstract/document/9785497/)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{ma202ral,
+      title={OverlapTransformer: An efficient and yaw-angle-invariant transformer network for LiDAR-based place recognition},
+      author={Ma, Junyi and Zhang, Jun and Xu, Jintao and Ai, Rui and Gu, Weihao and Chen, Xieyuanli},
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2022}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2203.03397" class="pub-link">[PDF]</a>
+   <a href="https://github.com/github.com/haomo-ai/OverlapTransformer">
+     <img src="https://img.shields.io/github/stars/haomo-ai/OverlapTransformer?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+  Junyi Ma, Jun Zhang, Jintao Xu, Rui Ai, Weihao Gu, **<u>Xieyuanli Chen</u>**
+  
+- [Long-term localization using semantic cues in floor plan maps](https://ieeexplore.ieee.org/abstract/document/9956025/) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{zimmerman2022ral,
+      title={Long-term localization using semantic cues in floor plan maps},
+      author={Zimmerman, Nicky and Guadagnino, Tiziano and Chen, Xieyuanli and Behley, Jens and Stachniss, Cyrill},
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2022}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2210.01456" class="pub-link">[PDF]</a>
+   <a href="https://github.com/github.com/PRBonn/hsmcl">
+     <img src="https://img.shields.io/github/stars/PRBonn/hsmcl?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+  Nicky Zimmerman, Tiziano Guadagnino, **<u>Xieyuanli Chen</u>**, Jens Behley, Cyrill Stachniss
+  
+- [Unsupervised class-agnostic instance segmentation of 3d lidar data for autonomous vehicles](https://ieeexplore.ieee.org/abstract/document/9813403/)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{nunes2022ral,
+      title={Unsupervised class-agnostic instance segmentation of 3d lidar data for autonomous vehicles},
+      author={Nunes, Lucas and Chen, Xieyuanli and Marcuzzi, Rodrigo and Osep, Aljosa and Leal-Taix{\'e}, Laura and Stachniss, Cyrill and Behley, Jens},
+      journal={IEEE Robotics and Automation Letters(RA-L)},
+      year={2022}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://www.researchgate.net/profile/Xieyuanli-Chen/publication/361690937_Unsupervised_Class-Agnostic_Instance_Segmentation_of_3D_LiDAR_Data_for_Autonomous_Vehicles/links/641d0f8c92cfd54f842616ef/Unsupervised-Class-Agnostic-Instance-Segmentation-of-3D-LiDAR-Data-for-Autonomous-Vehicles.pdf" class="pub-link">[PDF]</a>
+   <a href="https://github.com/github.com/PRBonn/3DUIS">
+     <img src="https://img.shields.io/github/stars/PRBonn/3DUIS?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+  Lucas Nunes, **<u>Xieyuanli Chen</u>**, Rodrigo Marcuzzi, Aljosa Osep, Laura Leal-Taixé, Cyrill Stachniss, Jens Behley
+  
+- [Fast sparse LiDAR odometry using self-supervised feature selection on intensity images](https://ieeexplore.ieee.org/abstract/document/9801638/) 
+  [[PDF]](https://iris.uniroma1.it/bitstream/11573/1650161/4/Guadagnino_preprint_Fast_2022.pdf) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{guadagnino2022ral,
+      title={Fast sparse LiDAR odometry using self-supervised feature selection on intensity images},
+      author={Guadagnino, Tiziano and Chen, Xieyuanli and Sodano, Matteo and Behley, Jens and Grisetti, Giorgio and Stachniss, Cyrill},
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2022}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://iris.uniroma1.it/bitstream/11573/1650161/4/Guadagnino_preprint_Fast_2022.pdf" class="pub-link">[PDF]</a>
+   </div> 
+   
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+  Tiziano Guadagnino, **<u>Xieyuanli Chen</u>**, Matteo Sodano, Jens Behley, Giorgio Grisetti, Cyrill Stachniss
+  
+- [Receding moving object segmentation in 3d lidar data using sparse 4d convolutions](https://ieeexplore.ieee.org/abstract/document/9796597)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{mersch2022ral,
+      title={Receding moving object segmentation in 3d lidar data using sparse 4d convolutions},
+      author={Mersch, Benedikt and Chen, Xieyuanli and Vizzo, Ignacio and Nunes, Lucas and Behley, Jens and Stachniss, Cyrill},
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2022}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2206.04129" class="pub-link">[PDF]</a>
+   <a href="https://github.com/github.com/PRBonn/4DMOS">
+     <img src="https://img.shields.io/github/stars/PRBonn/4DMOS?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+  Benedikt Mersch, **<u>Xieyuanli Chen</u>**, Ignacio Vizzo, Lucas Nunes, Jens Behley, Cyrill Stachniss
+  
+- [Bow3d: Bag of words for real-time loop closing in 3d lidar slam](https://ieeexplore.ieee.org/abstract/document/9944848)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{cui2022ral,
+      title={Bow3d: Bag of words for real-time loop closing in 3d lidar slam},
+      author={Cui, Yunge and Chen, Xieyuanli and Zhang, Yinlong and Dong, Jiahua and Wu, Qingxiao and Zhu, Feng},
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2022}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2208.07473" class="pub-link">[PDF]</a>
+   <a href="https://github.com/github.com/YungeCui/BoW3D">
+     <img src="https://img.shields.io/github/stars/YungeCui/BoW3D?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+  Yunge Cui, **<u>Xieyuanli Chen</u>**, Yinlong Zhang, Jiahua Dong, Qingxiao Wu, Feng Zhu
+  
+- [Automatic labeling to generate training data for online LiDAR-based moving object segmentation](https://ieeexplore.ieee.org/abstract/document/9756222/) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{chen2022ral,
+      title={Automatic labeling to generate training data for online LiDAR-based moving object segmentation},
+      author={Chen, Xieyuanli and Mersch, Benedikt and Nunes, Lucas and Marcuzzi, Rodrigo and Vizzo, Ignacio and Behley, Jens and Stachniss, Cyrill},
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2022}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2201.04501" class="pub-link">[PDF]</a>
+   </div> 
+   
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+  **<u>Xieyuanli Chen</u>**, Benedikt Mersch, Lucas Nunes, Rodrigo Marcuzzi, Ignacio Vizzo, Jens Behley, Cyrill Stachniss
+  
+- [Segcontrast: 3d point cloud feature representation learning through self-supervised segment discrimination](https://ieeexplore.ieee.org/abstract/document/9681336/) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{nunes2022ral,
+      title={Segcontrast: 3d point cloud feature representation learning through self-supervised segment discrimination},
+      author={Nunes, Lucas and Marcuzzi, Rodrigo and Chen, Xieyuanli and Behley, Jens and Stachniss, Cyrill},
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2022}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://drive.google.com/file/d/1mJS5lO-vbdbbwexhVkManlUyQic08adN/view" class="pub-link">[PDF]</a>
+   <a href="https://github.com/github.com/PRBonn/segcontrast">
+     <img src="https://img.shields.io/github/stars/PRBonn/segcontrast?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+  Lucas Nunes, Rodrigo Marcuzzi, **<u>Xieyuanli Chen</u>**, Jens Behley, Cyrill Stachniss
+  
+- [Transfer learning from synthetic in-vitro soybean pods dataset for in-situ segmentation of on-branch soybean pods](https://openaccess.thecvf.com/content/CVPR2022W/AgriVision/html/Yang_Transfer_Learning_From_Synthetic_In-Vitro_Soybean_Pods_Dataset_for_In-Situ_CVPRW_2022_paper.html) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{yang2022cvpr,
+      title={Transfer learning from synthetic in-vitro soybean pods dataset for in-situ segmentation of on-branch soybean pods},
+      author={Yang, Si and Zheng, Lihua and Chen, Xieyuanli and Zabawa, Laura and Zhang, Man and Wang, Minjuan},
+      booktitle={In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR)},
+      year={2022}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://openaccess.thecvf.com/content/CVPR2022W/AgriVision/papers/Yang_Transfer_Learning_From_Synthetic_In-Vitro_Soybean_Pods_Dataset_for_In-Situ_CVPRW_2022_paper.pdf" class="pub-link">[PDF]</a>
+   </div> 
+   
+  *In Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition **(CVPR 2022)***
+  
+  Si Yang, Lihua Zheng, **<u>Xieyuanli Chen</u>**, Laura Zabawa, Man Zhang, Minjuan Wang
+  
+- [Ick-track: A category-level 6-dof pose tracker using inter-frame consistent keypoints for aerial manipulation](https://ieeexplore.ieee.org/abstract/document/9982183) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{sun2022iros,
+      title={Ick-track: A category-level 6-dof pose tracker using inter-frame consistent keypoints for aerial manipulation},
+      author={Sun, Jingtao and Wang, Yaonan and Feng, Mingtao and Wang, Danwei and Zhao, Jiawen and Stachniss, Cyrill and Chen, Xieyuanli},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+      year={2022}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://www.researchgate.net/profile/Xieyuanli-Chen/publication/366614462_ICK-Track_A_Category-Level_6-DoF_Pose_Tracker_Using_Inter-Frame_Consistent_Keypoints_for_Aerial_Manipulation/links/641d0de166f8522c38ccebed/ICK-Track-A-Category-Level-6-DoF-Pose-Tracker-Using-Inter-Frame-Consistent-Keypoints-for-Aerial-Manipulation.pdf" class="pub-link">[PDF]</a>
+   <a href="https://github.com/github.com/S-JingTao/Categorical_Pose_Tracking">
+     <img src="https://img.shields.io/github/stars/S-JingTao/Categorical_Pose_Tracking?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2022)***
+  
+  Jingtao Sun, Yaonan Wang, Mingtao Feng, Danwei Wang, Jiawen Zhao, Cyrill Stachniss, **<u>Xieyuanli Chen</u>**
+  
+- [Efficient spatial-temporal information fusion for lidar-based 3d moving object segmentation](https://ieeexplore.ieee.org/abstract/document/9981210/)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{sun2022iros,
+      title={Efficient spatial-temporal information fusion for lidar-based 3d moving object segmentation},
+      author={Sun, Jiadai and Dai, Yuchao and Zhang, Xianjing and Xu, Jintao and Ai, Rui and Gu, Weihao and Chen, Xieyuanli},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+      year={2022}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2207.02201" class="pub-link">[PDF]</a>
+   <a href="https://github.com/github.com/haomo-ai/MotionSeg3D">
+     <img src="https://img.shields.io/github/stars/haomo-ai/MotionSeg3D?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2022)***
+  
+  Jiadai Sun, Yuchao Dai, Xianjing Zhang, Jintao Xu, Rui Ai, Weihao Gu, **<u>Xieyuanli Chen</u>**
+  
+## 2021
+- [Multi-scale interaction for real-time lidar data segmentation on an embedded platform](https://ieeexplore.ieee.org/abstract/document/9633188) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{li2021ral,
+      title={Multi-scale interaction for real-time lidar data segmentation on an embedded platform},
+      author={Li, Shijie and Chen, Xieyuanli and Liu, Yun and Dai, Dengxin and Stachniss, Cyrill and Gall, Juergen},
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2021}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2008.09162" class="pub-link">[PDF]</a>
+   <a href="https://github.com/github.com/sj-li/MINet">
+     <img src="https://img.shields.io/github/stars/sj-li/MINet?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+  Shijie Li, **<u>Xieyuanli Chen</u>**, Yun Liu, Dengxin Dai, Cyrill Stachniss, Juergen Gall
+  
+- [Moving object segmentation in 3D LiDAR data: A learning-based approach exploiting sequential data](https://ieeexplore.ieee.org/abstract/document/9468982)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{chen2021ral,
+      title={Moving object segmentation in 3D LiDAR data: A learning-based approach exploiting sequential data},
+      author={Chen, Xieyuanli and Li, Shijie and Mersch, Benedikt and Wiesmann, Louis and Gall, J{\"u}rgen and Behley, Jens and Stachniss, Cyrill},
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2021}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2105.08971" class="pub-link">[PDF]</a>
+   <a href="https://github.com/github.com/PRBonn/LiDAR-MOS">
+     <img src="https://img.shields.io/github/stars/PRBonn/LiDAR-MOS?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+  **<u>Xieyuanli Chen</u>**, Shijie Li, Benedikt Mersch, Louis Wiesmann, Jürgen Gall, Jens Behley, Cyrill Stachniss
+  
+- [Keypoint matching for point cloud registration using multiplex dynamic graph attention networks](https://ieeexplore.ieee.org/abstract/document/9484762/)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{shi2021ral,
+      title={Keypoint matching for point cloud registration using multiplex dynamic graph attention networks},
+      author={Shi, Chenghao and Chen, Xieyuanli and Huang, Kaihong and Xiao, Junhao and Lu, Huimin and Stachniss, Cyrill},
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2021}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/shi2021ral.pdf" class="pub-link">[PDF]</a>
+   <a href="https://github.com/github.com/nubot-nudt/MDGAT-matcher">
+     <img src="https://img.shields.io/github/stars/nubot-nudt/MDGAT-matcher?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+  Chenghao Shi, **<u>Xieyuanli Chen</u>**, Kaihong Huang, Junhao Xiao, Huimin Lu, Cyrill Stachniss
+  
+- [Deep compression for dense point cloud maps](https://ieeexplore.ieee.org/abstract/document/9354895)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{wiesmann2021ral,
+      title={Deep compression for dense point cloud maps},
+      author={Wiesmann, Louis and Milioto, Andres and Chen, Xieyuanli and Stachniss, Cyrill and Behley, Jens},
+      journal={IEEE Robotics and Automation Letters (RA-L)},
+      year={2021}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://www.researchgate.net/profile/Xieyuanli-Chen/publication/349422231_Deep_Compression_for_Dense_Point_Cloud_Maps/links/604209d9a6fdcc9c78124aa5/Deep-Compression-for-Dense-Point-Cloud-Maps.pdf" class="pub-link">[PDF]</a>
+   <a href="https://github.com/github.com/PRBonn/deep-point-map-compression">
+     <img src="https://img.shields.io/github/stars/PRBonn/deep-point-map-compression?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *IEEE Robotics and Automation Letters **(RA-L)***
+  
+  Louis Wiesmann, Andres Milioto, **<u>Xieyuanli Chen</u>**, Cyrill Stachniss, Jens Behley
+  
+- [Self-supervised point cloud prediction using 3d spatio-temporal convolutional networks](https://proceedings.mlr.press/v164/mersch22a.html)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{mersch2022corl,
+      title={Self-supervised point cloud prediction using 3d spatio-temporal convolutional networks},
+      author={Mersch, Benedikt and Chen, Xieyuanli and Behley, Jens and Stachniss, Cyrill},
+      booktitle={In Proc. of the Conf. on Robot Learning (CoRL)},
+      year={2022}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://proceedings.mlr.press/v164/mersch22a/mersch22a.pdf" class="pub-link">[PDF]</a>
+   <a href="https://github.com/github.com/PRBonn/point-cloud-prediction">
+     <img src="https://img.shields.io/github/stars/PRBonn/point-cloud-prediction?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of the Conf. on Robot Learning **(CoRL 2021)***
+  
+  Benedikt Mersch, **<u>Xieyuanli Chen</u>**, Jens Behley, Cyrill Stachniss
+  
+- [Moving Object Segmentation for LiDAR-based Localization and Mapping](https://www.ipb.uni-bonn.de/pdfs/chen2021rss-pioneer.pdf) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{chenmoving,
+      title={Moving Object Segmentation for LiDAR-based Localization and Mapping},
+      author={Chen, Xieyuanli}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://www.ipb.uni-bonn.de/pdfs/chen2021rss-pioneer.pdf" class="pub-link">[PDF]</a>
+   </div> 
+   
+  *Robotics: Science and Systems **(RSS 2021)** Pioneer Workshop*
+  
+   **<u>Xieyuanli Chen</u>**
+  
+- [Range image-based LiDAR localization for autonomous vehicles](https://ieeexplore.ieee.org/abstract/document/9561335/) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{chen2021icra,
+      title={Range image-based LiDAR localization for autonomous vehicles},
+      author={Chen, Xieyuanli and Vizzo, Ignacio and L{\"a}be, Thomas and Behley, Jens and Stachniss, Cyrill},
+      booktitle={In Proc. of the IEEE Intl. Conf. on Robotics & Automation (ICRA)},
+      year={2021}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2105.12121" class="pub-link">[PDF]</a>
+   <a href="https://github.com/github.com/PRBonn/range-mcl">
+     <img src="https://img.shields.io/github/stars/PRBonn/range-mcl?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of the IEEE Intl. Conf. on Robotics & Automation **(ICRA 2021)***
+  
+  **<u>Xieyuanli Chen</u>** Ignacio Vizzo, Thomas Läbe, Jens Behley, Cyrill Stachniss
+  
+- [Poisson surface reconstruction for LiDAR odometry and mapping](https://ieeexplore.ieee.org/abstract/document/9562069/)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{vizzo2021icra,
+      title={Poisson surface reconstruction for LiDAR odometry and mapping},
+      author={Vizzo, Ignacio and Chen, Xieyuanli and Chebrolu, Nived and Behley, Jens and Stachniss, Cyrill},
+      booktitle={In Proc. of the IEEE Intl. Conf. on Robotics & Automation (ICRA)},
+      year={2021}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://www.researchgate.net/profile/Xieyuanli-Chen/publication/350399207_Poisson_Surface_Reconstruction_for_LiDAR_Odometry_and_Mapping/links/605daf9792851cd8ce69c865/Poisson-Surface-Reconstruction-for-LiDAR-Odometry-and-Mapping.pdf" class="pub-link">[PDF]</a>
+   <a href="https://github.com/github.com/PRBonn/puma">
+     <img src="https://img.shields.io/github/stars/PRBonn/puma?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of the IEEE Intl. Conf. on Robotics & Automation **(ICRA 2021)***
+  
+  Ignacio Vizzo, **<u>Xieyuanli Chen</u>**, Nived Chebrolu, Jens Behley, Cyrill Stachniss.
+
+- [Simple but effective redundant odometry for autonomous vehicles](https://ieeexplore.ieee.org/abstract/document/9562023/)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{reinke2021icra,
+      title={Simple but effective redundant odometry for autonomous vehicles},
+      author={Reinke, Andrzej and Chen, Xieyuanli and Stachniss, Cyrill},
+      booktitle={In Proc. of the IEEE Intl. Conf. on Robotics & Automation (ICRA)},
+      year={2021}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2105.11783" class="pub-link">[PDF]</a>
+   <a href="https://github.com/github.com/PRBonn/MutiverseOdometry">
+     <img src="https://img.shields.io/github/stars/PRBonn/MutiverseOdometry?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of the IEEE Intl. Conf. on Robotics & Automation **(ICRA 2021)***
+  
+  Andrzej Reinke, **<u>Xieyuanli Chen</u>**, Cyrill Stachniss
+  
+- [Efficient localisation using images and OpenStreetMaps](https://ieeexplore.ieee.org/abstract/document/9635972) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{zhou2021iros,
+      title={Efficient localisation using images and OpenStreetMaps},
+      author={Zhou, Mengjie and Chen, Xieyuanli and Samano, Noe and Stachniss, Cyrill and Calway, Andrew},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+      year={2021}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://www.researchgate.net/profile/Xieyuanli-Chen/publication/357101499_Efficient_Localisation_Using_Images_and_OpenStreetMaps/links/641d114c315dfb4ccea53804/Efficient-Localisation-Using-Images-and-OpenStreetMaps.pdf" class="pub-link">[PDF]</a>
+   <a href="https://github.com/github.com/ZhouMengjie/Image-to-2.5DMap-Matching">
+     <img src="https://img.shields.io/github/stars/ZhouMengjie/Image-to-2.5DMap-Matching?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2021)***
+  
+  Mengjie Zhou, **<u>Xieyuanli Chen</u>**, Noe Samano, Cyrill Stachniss, Andrew Calway
+  
+- [Mapping the static parts of dynamic scenes from 3D LiDAR point clouds exploiting ground segmentation](https://ieeexplore.ieee.org/abstract/document/9568799) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{arora2021ecmr,
+      title={Mapping the static parts of dynamic scenes from 3D LiDAR point clouds exploiting ground segmentation},
+      author={Arora, Mehul and Wiesmann, Louis and Chen, Xieyuanli and Stachniss, Cyrill},
+      booktitle={In Proc. of the Europ. Conf. on Mobile Robotics (ECMR)},
+      year={2021}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/arora2021ecmr.pdf" class="pub-link">[PDF]</a>
+   </div> 
+   
+  *In Proc. of the Europ. Conf. on Mobile Robotics **(ECMR 2021)***
+  
+  Mehul Arora, Louis Wiesmann, **<u>Xieyuanli Chen</u>**, Cyrill Stachniss
+  
+- [Online range image-based pole extractor for long-term lidar localization in urban environments](https://ieeexplore.ieee.org/abstract/document/9568850/)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{dong2021ecmr,
+      title={Online range image-based pole extractor for long-term lidar localization in urban environments},
+      author={Dong, Hao and Chen, Xieyuanli and Stachniss, Cyrill},
+      booktitle={In Proc. of the Europ. Conf. on Mobile Robotics (ECMR)},
+      year={2021}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2108.08621" class="pub-link">[PDF]</a>
+   <a href="https://github.com/github.com/PRBonn/pole-localization">
+     <img src="https://img.shields.io/github/stars/PRBonn/pole-localization?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of the Europ. Conf. on Mobile Robotics **(ECMR 2021)***
+  
+  Hao Dong, **<u>Xieyuanli Chen</u>**, Cyrill Stachniss
+  
+## 2020
+
+- [OverlapNet: Loop Closing for LiDAR-based SLAM](https://roboticsconference.org/2020/program/papers/9.html) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{chen2021rss,
+      title={OverlapNet: Loop closing for LiDAR-based SLAM},
+      author={Chen, Xieyuanli and L{\"a}be, Thomas and Milioto, Andres and R{\"o}hling, Timo and Vysotska, Olga and Haag, Alexandre and Behley, Jens and Stachniss, Cyrill},
+      booktitle={In Proc. of Robotics: Science and Systems (RSS)},
+      year={2021}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2105.11344" class="pub-link">[PDF]</a>
+   <a href="https://github.com/github.com/PRBonn/OverlapNet">
+     <img src="https://img.shields.io/github/stars/PRBonn/OverlapNet?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of Robotics: Science and Systems **(RSS 2020)***
+
+  **<u>Xieyuanli Chen</u>**, Thomas Läbe, Andres Milioto, Timo Röhling, Olga Vysotska, Alexandre Haag, Jens Behley, Cyrill Stachniss.
+  
+- [Learning an Overlap-based Observation Model for 3D LiDAR Localization](https://ieeexplore.ieee.org/abstract/document/9340769/)  
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{chen2020iros,
+      title={Learning an overlap-based observation model for 3D LiDAR localization},
+      author={Chen, Xieyuanli and L{\"a}be, Thomas and Nardi, Lorenzo and Behley, Jens and Stachniss, Cyrill},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+      year={2020}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/abs/2105.11717" class="pub-link">[PDF]</a>
+   <a href="https://github.com/github.com/PRBonn/overlap_localization">
+     <img src="https://img.shields.io/github/stars/PRBonn/overlap_localization?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2020)***
+  
+  **<u>Xieyuanli Chen</u>**, Thomas Läbe, Lorenzo Nardi, Jens Behley, Cyrill Stachniss
+
+- [Semantic RGB-D SLAM for rescue robot navigation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9226412) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@article{deng2020access,
+      title={Semantic RGB-D SLAM for rescue robot navigation},
+      author={Deng, Wenbang and Huang, Kaihong and Chen, Xieyuanli and Zhou, Zhiqian and Shi, Chenghao and Guo, Ruibin and Zhang, Hui},
+      journal={IEEE Access},
+      year={2020}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9226412" class="pub-link">[PDF]</a>
+   </div> 
+   
+  *IEEE Access*
+
+  Wenbang Deng, Kaihong Huang, **<u>Xieyuanli Chen</u>**, Zhiqian Zhou, Chenghao Shi, Ruibin Guo, Hui Zhang
+  
+## 2019
+- [SuMa++: Efficient LiDAR-based Semantic SLAM](https://ieeexplore.ieee.org/abstract/document/8967704) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{chen2019iros,
+      title={Suma++: Efficient lidar-based semantic slam},
+      author={Chen, Xieyuanli and Milioto, Andres and Palazzolo, Emanuele and Giguere, Philippe and Behley, Jens and Stachniss, Cyrill},
+      booktitle={In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)},
+      year={2019}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2105.11320" class="pub-link">[PDF]</a>
+   <a href="https://github.com/github.com/PRBonn/semantic_suma">
+     <img src="https://img.shields.io/github/stars/PRBonn/semantic_suma?style=social&label=Code+Stars" alt="GitHub stars">
+   </a>
+   </div> 
+   
+  *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2019)***
+  
+  **<u>Xieyuanli Chen</u>**, Andres Milioto, Emanuele Palazzolo, Philippe Giguère, Jens Behley, Cyrill Stachniss.
