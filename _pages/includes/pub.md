@@ -3,7 +3,7 @@
 # 📝 Publications
 ##  2026
 
- - [Dcreg: Decoupled characterization for efficient degenerate lidar registration](https://arxiv.org/abs/2509.06285) 
+ - [Dcreg: Decoupled characterization for efficient degenerate lidar registration](https://ieeexplore.ieee.org/document/11723264) 
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
