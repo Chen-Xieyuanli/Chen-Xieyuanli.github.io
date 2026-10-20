@@ -46,6 +46,26 @@
   
    Zhiwei Huang, Yanwei Fu, Yi Zhou, **<u>Xieyuanli Chen</u>**, Qijun Chen, Rui Fan
 
+- [Rethinking the Aggregation Head: Competitive Slot Distillation for Robust Visual Place Recognition](https://ieeexplore.ieee.org/abstract/document/11720234/) 
+  <div class="pub-links">
+  <details class="bibtex-details">
+    <summary class="bibtex-button">[BibTeX]</summary>
+    <div class="bibtex-block">
+      <pre><code>@ARTICLE{zou2026tpami,
+  title={Rethinking the Aggregation Head: Competitive Slot Distillation for Robust Visual Place Recognition}, 
+  author={Zong, Guanyu and Li, Xu and Kong, Dong and Xu, Qimin and Wang, Zihang and Zhu, Wenkai and Li, Dongen and Chen, Xieyuanli and Liu, Yunhui and Ang Jr, Marcelo H},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},   
+  year={2026}
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://www.computer.org/csdl/journal/tp/5555/01/11720234/2kmYMqsCeac" class="pub-link">[PDF]</a>
+  </div>
+  
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence **(T-PAMI)***
+   
+   Guanyu Zong, Xu Li, Dong Kong, Qimin Xu, Zihang Wang, Wenkai Zhu, Dongen Li, **<u>Xieyuanli Chen</u>**, Yunhui Liu, Marcelo H Ang Jr
+
 - [Efficient Point Cloud Processing with High-Dimensional Positional Encoding and Non-Local MLPs](https://ieeexplore.ieee.org/abstract/document/11397841) 
   <div class="pub-links">
   <details class="bibtex-details">
