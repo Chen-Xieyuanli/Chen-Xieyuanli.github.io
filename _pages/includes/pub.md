@@ -3,7 +3,7 @@
 # 📝 Publications
 ##  2026
 
- - [Dcreg: Decoupled characterization for efficient degenerate lidar registration](https://arxiv.org/abs/2509.06285) 
+ - [Dcreg: Decoupled characterization for efficient degenerate lidar registration](https://ieeexplore.ieee.org/document/11723264) 
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -46,24 +46,24 @@
   
    Zhiwei Huang, Yanwei Fu, Yi Zhou, **<u>Xieyuanli Chen</u>**, Qijun Chen, Rui Fan
 
-- [Rethinking the Aggregation Head: Competitive Slot Distillation for Robust Visual Place Recognition](https://ieeexplore.ieee.org/abstract/document/11720234/)
-   <div class="pub-links">
-   <details class="bibtex-details">
-     <summary class="bibtex-button">[BibTeX]</summary>
-     <div class="bibtex-block">
-       <pre><code>@ARTICLE{zou2026tpami,
-      title={Rethinking the Aggregation Head: Competitive Slot Distillation for Robust Visual Place Recognition},
-      author={Zong, Guanyu and Li, Xu and Kong, Dong and Xu, Qimin and Wang, Zihang and Zhu, Wenkai and Li, Dongen and Chen, Xieyuanli and Liu, Yunhui and Ang Jr, Marcelo H},
-      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-      year={2026}
-    }</code></pre>
-   </div>
-   </details>
-   <a href="https://www.computer.org/csdl/journal/tp/5555/01/11720234/2kmYMqsCeac" class="pub-link">[PDF]</a>
-   </div>
-   
-   *IEEE Transactions on Pattern Analysis and Machine Intelligence **(T-PAMI)***
+- [Rethinking the Aggregation Head: Competitive Slot Distillation for Robust Visual Place Recognition](https://ieeexplore.ieee.org/abstract/document/11720234/) 
+  <div class="pub-links">
+  <details class="bibtex-details">
+    <summary class="bibtex-button">[BibTeX]</summary>
+    <div class="bibtex-block">
+      <pre><code>@ARTICLE{zou2026tpami,
+  title={Rethinking the Aggregation Head: Competitive Slot Distillation for Robust Visual Place Recognition}, 
+  author={Zong, Guanyu and Li, Xu and Kong, Dong and Xu, Qimin and Wang, Zihang and Zhu, Wenkai and Li, Dongen and Chen, Xieyuanli and Liu, Yunhui and Ang Jr, Marcelo H},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},   
+  year={2026}
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://www.computer.org/csdl/journal/tp/5555/01/11720234/2kmYMqsCeac" class="pub-link">[PDF]</a>
+  </div>
   
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence **(T-PAMI)***
+   
    Guanyu Zong, Xu Li, Dong Kong, Qimin Xu, Zihang Wang, Wenkai Zhu, Dongen Li, **<u>Xieyuanli Chen</u>**, Yunhui Liu, Marcelo H Ang Jr
 
 - [Efficient Point Cloud Processing with High-Dimensional Positional Encoding and Non-Local MLPs](https://ieeexplore.ieee.org/abstract/document/11397841) 
@@ -352,7 +352,7 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11716674" class="pub-link">[PDF]</a>
+   <a href="https://arxiv.org/pdf/2606.17082" class="pub-link">[PDF]</a>
    </div>
    
    *IEEE Internet of Things Journal **(IoT-J)***
@@ -522,7 +522,7 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11743840" class="pub-link">[PDF]</a>
+   <a href="https://arxiv.org/pdf/2603.00694" class="pub-link">[PDF]</a>
    </div>
    
    *IEEE Robotics and Automation Letters **(RA-L)***
@@ -629,7 +629,7 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://dl.acm.org/doi/epdf/10.1145/3767308.3836434" class="pub-link">[PDF]</a>
+   <a href="https://arxiv.org/pdf/2602.00841" class="pub-link">[PDF]</a>
    </div>
    
    *ACM International Conference on Multimedia **(ACM MM)***
@@ -655,6 +655,29 @@
    *ACM International Conference on Multimedia **(ACM MM)***
   
    Yehui Shen, **<u>Xieyuanli Chen</u>**, Chenghao Shi, Zheng Xie, Junhao Xiao, Zhiwen Zeng, Huimin Lu
+
+- [LAG-IO: Multi-IMU State Estimation for Legged Robots Using Factor Graphs](https://github.com/nubot-nudt/LAG-IO)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{zhou2026iros,
+      title={LAG-IO: Multi-IMU State Estimation for Legged Robots Using Factor Graphs},
+      author={Zhou, Yicheng and Chen, Longwen and Yu, Qinghua and Xiao, Junhao and Lu, Huimin and Chen, Xieyuanli},
+      booktitle={In Proc. of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://github.com/nubot-nudt/LAG-IO" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/LAG-IO">
+    <img src="https://img.shields.io/github/stars/nubot-nudt/LAG-IO?style=social&label=Code+Stars" alt="GitHub stars">
+    </a>
+   </div>
+   
+   *IEEE/RSJ International Conference on Intelligent Robots and Systems **(IROS)***
+
+  Yicheng Zhou, Longwen Chen, Qinghua Yu, Junhao Xiao, Huimin Lu, **<u>Xieyuanli Chen</u>**
 
 - [GeoLoco: Leveraging 3D Geometric Priors from Visual Foundation Model for Robust RGB-Only Humanoid Locomotion](https://arxiv.org/abs/2603.07624)
    <div class="pub-links">
@@ -715,7 +738,7 @@
    }</code></pre>
   </div>
   </details>
-  <a href="https://arxiv.org/pdf/2409.00206" class="pub-link">[PDF]</a>
+  <a href="https://arxiv.org/pdf/2509.08354" class="pub-link">[PDF]</a>
   <a href="https://grasplikehuman.github.io" class="pub-link">[Web]
   </a>
   </div>
@@ -737,7 +760,7 @@
    }</code></pre>
   </div>
   </details>
-  <a href="https://arxiv.org/pdf/2509.08354" class="pub-link">[PDF]</a>
+  <a href="https://arxiv.org/pdf/2409.00206" class="pub-link">[PDF]</a>
   <a href="https://github.com/lus6-Jenny/RINGSharp">
     <img src="https://img.shields.io/github/stars/lus6-Jenny/RINGSharp?style=social&label=Code+Stars" alt="GitHub stars">
   </a>
