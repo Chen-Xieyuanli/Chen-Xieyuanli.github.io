@@ -157,6 +157,46 @@
   
    Yujie Tang, Meiling Wang, Sibo Zuo, Chengxi Yang, Jinhao Jiang, **<u>Xieyuanli Chen</u>**, Yufeng Yue
 
+- [LEMON-Mapping: Loop-Enhanced Large-Scale Multi-Session Point Cloud Merging and Optimization for Globally Consistent Mapping](https://ieeexplore.ieee.org/document/11593811/)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{wang2026tase,
+      title={LEMON-Mapping: Loop-Enhanced Large-Scale Multi-Session Point Cloud Merging and Optimization for Globally Consistent Mapping},
+      author={Wang, Lijie and Zhong, Xiaoyi and Xu, Ziyi and Chai, Kaixin and Zhao, Anke and Zhao, Tianyu and Jiang, Changjian and Wang, Qianhao and Chen, Xieyuanli and Gao, Fei},
+      journal={IEEE Transactions on Automation Science and Engineering},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11593811" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Transactions on Automation Science and Engineering **(T-ASE)***
+  
+   Lijie Wang, Xiaoyi Zhong, Ziyi Xu, Kaixin Chai, Anke Zhao, Tianyu Zhao, Changjian Jiang, Qianhao Wang, **<u>Xieyuanli Chen*</u>**, Fei Gao
+
+- [LOIC: Open-World Instance Classification in LiDAR Point Clouds](https://ieeexplore.ieee.org/document/11673255/)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{deng2026tase,
+      title={LOIC: Open-World Instance Classification in LiDAR Point Clouds},
+      author={Deng, Wenbang and Wang, Ziyue and Kuang, Wenqing and Shi, Chenghao and Chen, Xieyuanli and Zhang, Hui and Lu, Huimin and Xiao, Junhao},
+      journal={IEEE Transactions on Automation Science and Engineering},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11673255" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Transactions on Automation Science and Engineering **(T-ASE)***
+  
+   Wenbang Deng, Ziyue Wang, Wenqing Kuang, Chenghao Shi, **<u>Xieyuanli Chen</u>**, Hui Zhang, Huimin Lu, Junhao Xiao
+
 - [AmphiHip Exo: A Cable-Driven Amphibious Hip Exoskeleton With Physics-Informed Intention Perception for Lower Limb Augmentation](https://ieeexplore.ieee.org/abstract/document/11414442/) 
   <div class="pub-links">
   <details class="bibtex-details">
@@ -278,6 +318,46 @@
    *IEEE Transactions on Instrumentation and Measurement **(T-IM)***
   
    Yanpeng Jia, Ting Wang, Shiliang Shao, **<u>Xieyuanli Chen</u>**, Hao Liu
+
+- [DGAOT: Dynamic Graph Attention With Optimal Transport Based Re-Ranking for Mobile Robot Visual Place Recognition](https://ieeexplore.ieee.org/document/11682938/)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{jiang2026iotj,
+      title={DGAOT: Dynamic Graph Attention With Optimal Transport Based Re-Ranking for Mobile Robot Visual Place Recognition},
+      author={Jiang, Xinyu and Ge, Zhaoning and Jiang, Yimeng and Zhou, Dejing and Liu, Zhijie and Wu, Jin and Chen, Xieyuanli and Vong, Chi-Man},
+      journal={IEEE Internet of Things Journal},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11682938" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Internet of Things Journal **(IoT-J)***
+  
+   Xinyu Jiang, Zhaoning Ge, Yimeng Jiang, Dejing Zhou, Zhijie Liu, Jin Wu, **<u>Xieyuanli Chen</u>**, Chi-Man Vong
+
+- [ParkingTransformer: Language-Guided End-to-End Trajectory Planning for Autonomous Parking](https://ieeexplore.ieee.org/document/11716674/)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{wu2026iotj,
+      title={ParkingTransformer: Language-Guided End-to-End Trajectory Planning for Autonomous Parking},
+      author={Wu, Huateng and Li, Xu and Kong, Dong and Wang, Zihang and Chen, Xieyuanli and Wang, Benwu},
+      journal={IEEE Internet of Things Journal},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2606.17082" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Internet of Things Journal **(IoT-J)***
+  
+   Huateng Wu, Xu Li, Dong Kong, Zihang Wang, **<u>Xieyuanli Chen</u>**, Benwu Wang
 
  - [LiDAR-VGGT: Cross-Modal Coarse-to-Fine Fusion for Globally Consistent and Metric-Scale Dense Mapping](https://ieeexplore.ieee.org/abstract/document/11399876) 
    <div class="pub-links">
@@ -409,6 +489,46 @@
   
    Benwu Wang, Xu Li, **<u>Xieyuanli Chen</u>**, Dong Kong, Haoyang Che, Wenkai Zhu, Zihang Wang, Peizhou Ni
  
+- [TOL: Textual Localization With OpenStreetMap](https://ieeexplore.ieee.org/document/11661756/)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{liao2026ral,
+      title={TOL: Textual Localization With OpenStreetMap},
+      author={Liao, Youqi and Kang, Shuhao and Xu, Jingyu and Wysocki, Olaf and Xia, Yan and Li, Jianping and Dong, Zhen and Yang, Bisheng and Chen, Xieyuanli},
+      journal={IEEE Robotics and Automation Letters},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11661756" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Youqi Liao, Shuhao Kang, Jingyu Xu, Olaf Wysocki, Yan Xia, Jianping Li, Zhen Dong, Bisheng Yang, **<u>Xieyuanli Chen</u>**
+
+- [Wild-Drive: Off-Road Scene Captioning and Path Planning via Robust Multi-modal Routing and Efficient Large Language Model](https://ieeexplore.ieee.org/document/11743840/)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{wang2026ral,
+      title={Wild-Drive: Off-Road Scene Captioning and Path Planning via Robust Multi-modal Routing and Efficient Large Language Model},
+      author={Wang, Zihang and Li, Xu and Wang, Benwu and Zhu, Wenkai and Chen, Xieyuanli and Kong, Dong and Yan, Teng and Lyu, Kailin and Du, Yinan and Peng, Yiming and Che, Haoyang and Liu, Qingchao and Song, Yang},
+      journal={IEEE Robotics and Automation Letters},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2603.00694" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Zihang Wang, Xu Li, Benwu Wang, Wenkai Zhu, **<u>Xieyuanli Chen</u>**, Dong Kong, Teng Yan, Kailin Lyu, Yinan Du, Yiming Peng, Haoyang Che, Liu Qingchao, Song Yang
+
  - [Guiding Multimodal LLMs for Efficient Visual Place Recognition](https://www.sciencedirect.com/science/article/pii/S0167865526000413) 
    <div class="pub-links">
    <details class="bibtex-details">
@@ -495,6 +615,46 @@
    *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)***
   
    Shuhao Kang, Youqi Liao, Peijie Wang, Wenlong Liao, Qilin Zhang, Benjamin Busam, **<u>Xieyuanli Chen</u>**, Yun Liu
+
+- [Beyond First-Order: Learning Riemannian Geometries for Invariant Visual Place Recognition](https://dl.acm.org/doi/10.1145/3767308.3836434)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{cheng2026acmmm,
+      title={Beyond First-Order: Learning Riemannian Geometries for Invariant Visual Place Recognition},
+      author={Cheng, Jintao and Li, Weibin and Huang, Jiazheng and Jia, Mingkai and Chen, Xieyuanli and He, Zhijian and Wu, Jin and Vong, Chi Man and Zhang, Wei},
+      booktitle={In Proc. of the ACM International Conference on Multimedia (ACM MM)},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2602.00841" class="pub-link">[PDF]</a>
+   </div>
+   
+   *ACM International Conference on Multimedia **(ACM MM)***
+  
+   Jintao Cheng, Weibin Li, Jiazheng Huang, Mingkai Jia, **<u>Xieyuanli Chen</u>**, Zhijian He, Jin Wu, Chi Man Vong, Wei Zhang
+
+- [MaMoRetarget: Morphology-Aware Human-to-Robot Motion Retargeting Across Humanoid Embodiments](https://dl.acm.org/doi/10.1145/3767308.3835681)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{shen2026acmmm,
+      title={MaMoRetarget: Morphology-Aware Human-to-Robot Motion Retargeting Across Humanoid Embodiments},
+      author={Shen, Yehui and Chen, Xieyuanli and Shi, Chenghao and Xie, Zheng and Xiao, Junhao and Zeng, Zhiwen and Lu, Huimin},
+      booktitle={In Proc. of the ACM International Conference on Multimedia (ACM MM)},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://dl.acm.org/doi/pdf/10.1145/3767308.3835681" class="pub-link">[PDF]</a>
+   </div>
+   
+   *ACM International Conference on Multimedia **(ACM MM)***
+  
+   Yehui Shen, **<u>Xieyuanli Chen</u>**, Chenghao Shi, Zheng Xie, Junhao Xiao, Zhiwen Zeng, Huimin Lu
 
 - [LAG-IO: Multi-IMU State Estimation for Legged Robots Using Factor Graphs](https://github.com/nubot-nudt/LAG-IO)
    <div class="pub-links">
@@ -1946,6 +2106,26 @@
   
   Yutong Wang, Chaoyang Jiang, **<u>Xieyuanli Chen</u>**
   
+- [MF-MOS: A Motion-Focused Model for Moving Object Segmentation](https://ieeexplore.ieee.org/document/10611400/)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{cheng2024icra,
+      title={MF-MOS: A Motion-Focused Model for Moving Object Segmentation},
+      author={Cheng, Jintao and Zeng, Kang and Huang, Zhuoxu and Tang, Xiaoyu and Wu, Jin and Zhang, Chengxi and Chen, Xieyuanli and Fan, Rui},
+      booktitle={In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2401.17023" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE International Conference on Robotics and Automation **(ICRA)***
+  
+   Jintao Cheng, Kang Zeng, Zhuoxu Huang, Xiaoyu Tang, Jin Wu, Chengxi Zhang, **<u>Xieyuanli Chen</u>**, Rui Fan
+
 - [ModaLink: Unifying Modalities for Efficient Image-to-PointCloud Place Recognition](https://ieeexplore.ieee.org/document/10801556) 
    <div class="pub-links">
    <details class="bibtex-details">
@@ -2014,6 +2194,46 @@
   *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2024)***
   
    Jingyi Xu, Junyi Ma, Qi Wu, Zijie Zhou, Yue Wang, **<u>Xieyuanli Chen</u>**, Wenxian Yu, Ling Pei
+
+- [MV-MOS: Multi-View Feature Fusion for 3D Moving Object Segmentation](https://ieeexplore.ieee.org/document/10907321/)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{cheng2024robio,
+      title={MV-MOS: Multi-View Feature Fusion for 3D Moving Object Segmentation},
+      author={Cheng, Jintao and Chen, Xingming and Liang, Jinxin and Tang, Xiaoyu and Chen, Xieyuanli and Li, Dachuan},
+      booktitle={In Proc. of the IEEE International Conference on Robotics and Biomimetics (ROBIO)},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10907321" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE International Conference on Robotics and Biomimetics **(ROBIO)***
+  
+   Jintao Cheng, Xingming Chen, Jinxin Liang, Xiaoyu Tang, **<u>Xieyuanli Chen</u>**, Dachuan Li
+
+- [Semantic-Enhanced LiDAR-Inertial Odometry for Autonomous Driving in Urban Environments](https://ieeexplore.ieee.org/document/10839823/)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{wu2024icus,
+      title={Semantic-Enhanced LiDAR-Inertial Odometry for Autonomous Driving in Urban Environments},
+      author={Wu, Qi and Chen, Xieyuanli and Xia, Songpengcheng and Liu, Guoqing and Yu, Wenxian and Pei, Ling},
+      booktitle={In Proc. of the IEEE International Conference on Unmanned Systems (ICUS)},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10839823" class="pub-link">[PDF]</a>
+   </div>
+   
+   *2024 IEEE International Conference on Unmanned Systems **(ICUS)***
+  
+   Qi Wu, **<u>Xieyuanli Chen</u>**, Songpengcheng Xia, Guoqing Liu, Wenxian Yu, Ling Pei
 
 ##  2023
 - [CVTNet: A cross-view transformer network for LiDAR-based place recognition in autonomous driving environments](https://ieeexplore.ieee.org/abstract/document/10273716) 
