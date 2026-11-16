@@ -26,7 +26,7 @@
   
    Xiangcheng Hu, **<u>Xieyuanli Chen</u>**, Mingkai Jia, Jin Wu, Ping Tan, Steven L. Waslander
 
- - [DST-Calib: A Dual-Path, Self-Supervised, Target-Free LiDAR-Camera Extrinsic Calibration Network](https://arxiv.org/abs/2601.01188) 
+ - [DST-Calib: A Dual-Path, Self-Supervised, Target-Free LiDAR-Camera Extrinsic Calibration Network](https://ieeexplore.ieee.org/document/11723264) 
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -1243,7 +1243,7 @@
 
   Pengyu Zhang, **<u>Xieyuanli Chen</u>**, Yuwei Chen, Beizhen Bi, Zhuo Xu, Tian Jin, Xiaotao Huang, Liang Shen
 
-- [A Novel Decomposed Feature-Oriented Framework for Open-Set Semantic Segmentation on LiDAR Data](https://arxiv.org/abs/2503.11097) 
+- [A Novel Decomposed Feature-Oriented Framework for Open-Set Semantic Segmentation on LiDAR Data](https://ieeexplore.ieee.org/document/11128866) 
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -1312,7 +1312,7 @@
   
   Shuaifeng Jiao, Zhuoqun Su, Lun Luo, Hongshan Yu, Zongtan Zhou, Huimin Lu, **<u>Xieyuanli Chen</u>**
 
-- [LuSeg: Efficient Negative and Positive Obstacles Segmentation via Contrast-Driven Multi-Modal Feature Fusion on the Lunar](https://arxiv.org/abs/2503.11409)
+- [LuSeg: Efficient Negative and Positive Obstacles Segmentation via Contrast-Driven Multi-Modal Feature Fusion on the Lunar](https://ieeexplore.ieee.org/document/11246916)
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -1335,7 +1335,7 @@
 
   Shuaifeng Jiao, Zhiwen Zeng, Zhuoqun Su, **<u>Xieyuanli Chen</u>**, Zongtan Zhou, Huimin Lu 
 
- - [Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM](https://arxiv.org/abs/2503.11145)  
+ - [Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM](https://ieeexplore.ieee.org/document/11246943)  
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -1358,7 +1358,7 @@
 
    Neng Wang, Huimin Lu, Zhiqiang Zheng, Yun-Hui Liu, **<u>Xieyuanli Chen</u>**
 
- - [Image-Goal Navigation Using Refined Feature Guidance and Scene Graph Enhancement](https://arxiv.org/abs/2503.10986)  
+ - [Image-Goal Navigation Using Refined Feature Guidance and Scene Graph Enhancement](https://ieeexplore.ieee.org/document/11247696)  
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -1404,7 +1404,7 @@
   
    Junyi Ma, Erhang Zhang, Jingyi Xu, **<u>Xieyuanli Chen</u>**,  Hesheng Wang
   
- - [Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction](https://arxiv.org/abs/2504.07375)  
+ - [Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction](https://ieeexplore.ieee.org/document/11246803)  
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -1427,7 +1427,7 @@
   
    Junyi Ma, Wentao Bao, Jingyi Xu, Guanzhong Sun, **<u>Xieyuanli Chen</u>**, Hesheng Wang
 
- - [Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos](https://arxiv.org/abs/2405.04370)  
+ - [Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos](https://ieeexplore.ieee.org/document/11247704)  
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -1450,7 +1450,7 @@
   
    Junyi Ma, Jingyi Xu, **<u>Xieyuanli Chen</u>**, Hesheng Wang
 
- - [ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions](https://arxiv.org/abs/2503.12350) 
+ - [ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions](https://ieeexplore.ieee.org/document/11246484) 
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -1473,7 +1473,7 @@
   
    Wenqing Kuang, Xiongwei Zhao, Yehui Shen, Congcong Wen, Huimin Lu, Zongtan Zhou, **<u>Xieyuanli Chen</u>**
   
- - [BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model](https://arxiv.org/abs/2503.11372)  
+ - [BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model](https://ieeexplore.ieee.org/document/11246131)  
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -1496,7 +1496,7 @@
   
    Ziyue Wang, Chenghao Shi, Neng Wang, Qinghua Yu, **<u>Xieyuanli Chen</u>**, Huimin Lu
 
- - [Efficient Multi-Modal 3D Object Detector via Instance Level Contrastive Distillation](https://arxiv.org/abs/2503.12914)  
+ - [Efficient Multi-Modal 3D Object Detector via Instance Level Contrastive Distillation](https://ieeexplore.ieee.org/document/11246316)  
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
