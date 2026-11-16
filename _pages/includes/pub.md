@@ -110,30 +110,6 @@
   
    Junyi Ma, Wentao Bao, Jingyi Xu, Guanzhong Sun, Yu Zheng, Erhang Zhang, **<u>Xieyuanli Chen</u>**, Hesheng Wang
 
-- [OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Fused Geometric and Semantic Guidance](https://www.sciencedirect.com/science/article/pii/S1566253526004409) 
-   <div class="pub-links">
-   <details class="bibtex-details">
-     <summary class="bibtex-button">[BibTeX]</summary>
-     <div class="bibtex-block">
-       <pre><code>@ARTICLE{liao2026if,
-      title={OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Fused Geometric and Semantic Guidance}, 
-      author={Liao, Youqi and Chen, Xieyuanli and Kang, Shuhao and Li, Jianping and Dong, Zhen and Fan, Hongchao and Yang, Bisheng},
-      journal={Information Fusion}, 
-      year={2026}
-    }</code></pre>
-   </div>
-   </details>
-   <a href="https://arxiv.org/pdf/2411.08665" class="pub-link">[PDF]</a>
-   <a href="https://whu-usi3dv.github.io/OSMLoc/" class="pub-link">[Web]</a>
-   <a href="https://github.com/WHU-USI3DV/OSMLoc">
-    <img src="https://img.shields.io/github/stars/WHU-USI3DV/OSMLoc?style=social&label=Code+Stars" alt="GitHub stars">
-    </a>
-   </div>
-   
-   *Information Fusion  **(Inf. Fusion)***
-  
-   Youqi Liao, **<u>Xieyuanli Chen*</u>**, Shuhao Kang, Jianping Li, Zhen Dong, Hongchao Fan, Bisheng Yang
-
  - [Coupling Structural Descriptors With a Novel Semantic Graph Matching Approach for LiDAR Loop Detection](https://ieeexplore.ieee.org/abstract/document/11454605) 
    <div class="pub-links">
    <details class="bibtex-details">
@@ -257,6 +233,30 @@
    *IEEE Transactions on Intelligent Transportation Systems **(T-ITS)***
   
    Kan Luo, Hongshan Yu, Shuang Yang, Jingwen Wang, Yaonan Wang, Javier Civera, **<u>Xieyuanli Chen</u>**
+
+- [OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Fused Geometric and Semantic Guidance](https://www.sciencedirect.com/science/article/pii/S1566253526004409) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{liao2026if,
+      title={OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Fused Geometric and Semantic Guidance}, 
+      author={Liao, Youqi and Chen, Xieyuanli and Kang, Shuhao and Li, Jianping and Dong, Zhen and Fan, Hongchao and Yang, Bisheng},
+      journal={Information Fusion}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2411.08665" class="pub-link">[PDF]</a>
+   <a href="https://whu-usi3dv.github.io/OSMLoc/" class="pub-link">[Web]</a>
+   <a href="https://github.com/WHU-USI3DV/OSMLoc">
+    <img src="https://img.shields.io/github/stars/WHU-USI3DV/OSMLoc?style=social&label=Code+Stars" alt="GitHub stars">
+    </a>
+   </div>
+   
+   *Information Fusion  **(Inf. Fusion)***
+  
+   Youqi Liao, **<u>Xieyuanli Chen*</u>**, Shuhao Kang, Jianping Li, Zhen Dong, Hongchao Fan, Bisheng Yang
    
  - [An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather](https://ieeexplore.ieee.org/abstract/document/11458670) 
    <div class="pub-links">
@@ -297,67 +297,6 @@
   *IEEE Transactions on Industrial Informatics **(T-II)***
    
    Pengyu Zhang,  **<u>Xieyuanli Chen</u>** , Liang Shen, Xulei Yang, Bharadwaj Veeravalli, Shijie Li, Tian Jin, Xiaotao Huang
-
- - [STEP-Mover: Stratified and Tiered Multi-scale Descriptor for Efficient Static Pointcloud Environment Measurement](https://ieeexplore.ieee.org/abstract/document/11431192) 
-   <div class="pub-links">
-   <details class="bibtex-details">
-     <summary class="bibtex-button">[BibTeX]</summary>
-     <div class="bibtex-block">
-       <pre><code>@ARTICLE{jia2026tim,
-      title={STEP-Mover: Stratified and Tiered Multiscale Descriptor for Efficient Static Point Cloud Environment Measurement}, 
-      author={Jia, Yanpeng and Wang, Ting and Shao, Shiliang and Chen, Xieyuanli and Liu, Hao},
-      journal={IEEE Transactions on Instrumentation and Measurement}, 
-      year={2026}
-    }</code></pre>
-   </div>
-   </details>
-   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11431192" class="pub-link">[PDF]</a>
-   <a href="https://yaepiii.github.io/STEP-Mover/" class="pub-link">[Web]</a>
-   </div>
-   
-   *IEEE Transactions on Instrumentation and Measurement **(T-IM)***
-  
-   Yanpeng Jia, Ting Wang, Shiliang Shao, **<u>Xieyuanli Chen</u>**, Hao Liu
-
-- [DGAOT: Dynamic Graph Attention With Optimal Transport Based Re-Ranking for Mobile Robot Visual Place Recognition](https://ieeexplore.ieee.org/document/11682938/)
-   <div class="pub-links">
-   <details class="bibtex-details">
-     <summary class="bibtex-button">[BibTeX]</summary>
-     <div class="bibtex-block">
-       <pre><code>@ARTICLE{jiang2026iotj,
-      title={DGAOT: Dynamic Graph Attention With Optimal Transport Based Re-Ranking for Mobile Robot Visual Place Recognition},
-      author={Jiang, Xinyu and Ge, Zhaoning and Jiang, Yimeng and Zhou, Dejing and Liu, Zhijie and Wu, Jin and Chen, Xieyuanli and Vong, Chi-Man},
-      journal={IEEE Internet of Things Journal},
-      year={2026}
-    }</code></pre>
-   </div>
-   </details>
-   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11682938" class="pub-link">[PDF]</a>
-   </div>
-   
-   *IEEE Internet of Things Journal **(IoT-J)***
-  
-   Xinyu Jiang, Zhaoning Ge, Yimeng Jiang, Dejing Zhou, Zhijie Liu, Jin Wu, **<u>Xieyuanli Chen</u>**, Chi-Man Vong
-
-- [ParkingTransformer: Language-Guided End-to-End Trajectory Planning for Autonomous Parking](https://ieeexplore.ieee.org/document/11716674/)
-   <div class="pub-links">
-   <details class="bibtex-details">
-     <summary class="bibtex-button">[BibTeX]</summary>
-     <div class="bibtex-block">
-       <pre><code>@ARTICLE{wu2026iotj,
-      title={ParkingTransformer: Language-Guided End-to-End Trajectory Planning for Autonomous Parking},
-      author={Wu, Huateng and Li, Xu and Kong, Dong and Wang, Zihang and Chen, Xieyuanli and Wang, Benwu},
-      journal={IEEE Internet of Things Journal},
-      year={2026}
-    }</code></pre>
-   </div>
-   </details>
-   <a href="https://arxiv.org/pdf/2606.17082" class="pub-link">[PDF]</a>
-   </div>
-   
-   *IEEE Internet of Things Journal **(IoT-J)***
-  
-   Huateng Wu, Xu Li, Dong Kong, Zihang Wang, **<u>Xieyuanli Chen</u>**, Benwu Wang
 
  - [LiDAR-VGGT: Cross-Modal Coarse-to-Fine Fusion for Globally Consistent and Metric-Scale Dense Mapping](https://ieeexplore.ieee.org/abstract/document/11399876) 
    <div class="pub-links">
