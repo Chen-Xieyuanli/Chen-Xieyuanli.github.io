@@ -83,7 +83,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
 # 📝 Publications
 ##  2026
 
- - [Dcreg: Decoupled characterization for efficient degenerate lidar registration](https://ieeexplore.ieee.org/document/11723264) 
+ - [Dcreg: Decoupled characterization for efficient degenerate lidar registration](https://journals.sagepub.com/doi/10.1177/02783649261465040) 
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -106,7 +106,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
   
    Xiangcheng Hu, **<u>Xieyuanli Chen</u>**, Mingkai Jia, Jin Wu, Ping Tan, Steven L. Waslander
 
- - [DST-Calib: A Dual-Path, Self-Supervised, Target-Free LiDAR-Camera Extrinsic Calibration Network](https://arxiv.org/abs/2601.01188) 
+ - [DST-Calib: A Dual-Path, Self-Supervised, Target-Free LiDAR-Camera Extrinsic Calibration Network](https://ieeexplore.ieee.org/document/11723264) 
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -139,7 +139,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
   }</code></pre>
   </div>
   </details>
-  <a href="https://www.computer.org/csdl/journal/tp/5555/01/11720234/2kmYMqsCeac" class="pub-link">[PDF]</a>
+  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11720234" class="pub-link">[PDF]</a>
   </div>
   
   *IEEE Transactions on Pattern Analysis and Machine Intelligence **(T-PAMI)***
@@ -237,6 +237,46 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
   
    Yujie Tang, Meiling Wang, Sibo Zuo, Chengxi Yang, Jinhao Jiang, **<u>Xieyuanli Chen</u>**, Yufeng Yue
 
+- [LEMON-Mapping: Loop-Enhanced Large-Scale Multi-Session Point Cloud Merging and Optimization for Globally Consistent Mapping](https://ieeexplore.ieee.org/document/11593811/)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{wang2026tase,
+      title={LEMON-Mapping: Loop-Enhanced Large-Scale Multi-Session Point Cloud Merging and Optimization for Globally Consistent Mapping},
+      author={Wang, Lijie and Zhong, Xiaoyi and Xu, Ziyi and Chai, Kaixin and Zhao, Anke and Zhao, Tianyu and Jiang, Changjian and Wang, Qianhao and Chen, Xieyuanli and Gao, Fei},
+      journal={IEEE Transactions on Automation Science and Engineering},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11593811" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Transactions on Automation Science and Engineering **(T-ASE)***
+  
+   Lijie Wang, Xiaoyi Zhong, Ziyi Xu, Kaixin Chai, Anke Zhao, Tianyu Zhao, Changjian Jiang, Qianhao Wang, **<u>Xieyuanli Chen*</u>**, Fei Gao
+
+- [LOIC: Open-World Instance Classification in LiDAR Point Clouds](https://ieeexplore.ieee.org/document/11673255/)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{deng2026tase,
+      title={LOIC: Open-World Instance Classification in LiDAR Point Clouds},
+      author={Deng, Wenbang and Wang, Ziyue and Kuang, Wenqing and Shi, Chenghao and Chen, Xieyuanli and Zhang, Hui and Lu, Huimin and Xiao, Junhao},
+      journal={IEEE Transactions on Automation Science and Engineering},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11673255" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Transactions on Automation Science and Engineering **(T-ASE)***
+  
+   Wenbang Deng, Ziyue Wang, Wenqing Kuang, Chenghao Shi, **<u>Xieyuanli Chen</u>**, Hui Zhang, Huimin Lu, Junhao Xiao
+
 - [AmphiHip Exo: A Cable-Driven Amphibious Hip Exoskeleton With Physics-Informed Intention Perception for Lower Limb Augmentation](https://ieeexplore.ieee.org/abstract/document/11414442/) 
   <div class="pub-links">
   <details class="bibtex-details">
@@ -250,7 +290,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
   }</code></pre>
   </div>
   </details>
-  <a href="https://ieeexplore.ieee.org/abstract/document/11414442/" class="pub-link">[PDF]</a>
+  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11414442" class="pub-link">[PDF]</a>
   </div>
   
   *IEEE/ASME Transactions on Mechatronics **(T-Mech)***
@@ -331,7 +371,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
   }</code></pre>
   </div>
   </details>
-  <a href="https://ieeexplore.ieee.org/abstract/document/11346028" class="pub-link">[PDF]</a>
+  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11346028" class="pub-link">[PDF]</a>
   </div>
   
   *IEEE Transactions on Industrial Informatics **(T-II)***
@@ -358,6 +398,46 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    *IEEE Transactions on Instrumentation and Measurement **(T-IM)***
   
    Yanpeng Jia, Ting Wang, Shiliang Shao, **<u>Xieyuanli Chen</u>**, Hao Liu
+
+- [DGAOT: Dynamic Graph Attention With Optimal Transport Based Re-Ranking for Mobile Robot Visual Place Recognition](https://ieeexplore.ieee.org/document/11682938/)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{jiang2026iotj,
+      title={DGAOT: Dynamic Graph Attention With Optimal Transport Based Re-Ranking for Mobile Robot Visual Place Recognition},
+      author={Jiang, Xinyu and Ge, Zhaoning and Jiang, Yimeng and Zhou, Dejing and Liu, Zhijie and Wu, Jin and Chen, Xieyuanli and Vong, Chi-Man},
+      journal={IEEE Internet of Things Journal},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11682938" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Internet of Things Journal **(IoT-J)***
+  
+   Xinyu Jiang, Zhaoning Ge, Yimeng Jiang, Dejing Zhou, Zhijie Liu, Jin Wu, **<u>Xieyuanli Chen</u>**, Chi-Man Vong
+
+- [ParkingTransformer: Language-Guided End-to-End Trajectory Planning for Autonomous Parking](https://ieeexplore.ieee.org/document/11716674/)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{wu2026iotj,
+      title={ParkingTransformer: Language-Guided End-to-End Trajectory Planning for Autonomous Parking},
+      author={Wu, Huateng and Li, Xu and Kong, Dong and Wang, Zihang and Chen, Xieyuanli and Wang, Benwu},
+      journal={IEEE Internet of Things Journal},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2606.17082" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Internet of Things Journal **(IoT-J)***
+  
+   Huateng Wu, Xu Li, Dong Kong, Zihang Wang, **<u>Xieyuanli Chen</u>**, Benwu Wang
 
  - [LiDAR-VGGT: Cross-Modal Coarse-to-Fine Fusion for Globally Consistent and Metric-Scale Dense Mapping](https://ieeexplore.ieee.org/abstract/document/11399876) 
    <div class="pub-links">
@@ -395,7 +475,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/abstract/document/11373724" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11373724" class="pub-link">[PDF]</a>
    </div>
    
    *IEEE Robotics and Automation Letters **(RA-L)***
@@ -489,6 +569,46 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
   
    Benwu Wang, Xu Li, **<u>Xieyuanli Chen</u>**, Dong Kong, Haoyang Che, Wenkai Zhu, Zihang Wang, Peizhou Ni
  
+- [TOL: Textual Localization With OpenStreetMap](https://ieeexplore.ieee.org/document/11661756/)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{liao2026ral,
+      title={TOL: Textual Localization With OpenStreetMap},
+      author={Liao, Youqi and Kang, Shuhao and Xu, Jingyu and Wysocki, Olaf and Xia, Yan and Li, Jianping and Dong, Zhen and Yang, Bisheng and Chen, Xieyuanli},
+      journal={IEEE Robotics and Automation Letters},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11661756" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Youqi Liao, Shuhao Kang, Jingyu Xu, Olaf Wysocki, Yan Xia, Jianping Li, Zhen Dong, Bisheng Yang, **<u>Xieyuanli Chen</u>**
+
+- [Wild-Drive: Off-Road Scene Captioning and Path Planning via Robust Multi-modal Routing and Efficient Large Language Model](https://ieeexplore.ieee.org/document/11743840/)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{wang2026ral,
+      title={Wild-Drive: Off-Road Scene Captioning and Path Planning via Robust Multi-modal Routing and Efficient Large Language Model},
+      author={Wang, Zihang and Li, Xu and Wang, Benwu and Zhu, Wenkai and Chen, Xieyuanli and Kong, Dong and Yan, Teng and Lyu, Kailin and Du, Yinan and Peng, Yiming and Che, Haoyang and Liu, Qingchao and Song, Yang},
+      journal={IEEE Robotics and Automation Letters},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2603.00694" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Zihang Wang, Xu Li, Benwu Wang, Wenkai Zhu, **<u>Xieyuanli Chen</u>**, Dong Kong, Teng Yan, Kailin Lyu, Yinan Du, Yiming Peng, Haoyang Che, Liu Qingchao, Song Yang
+
  - [Guiding Multimodal LLMs for Efficient Visual Place Recognition](https://www.sciencedirect.com/science/article/pii/S0167865526000413) 
    <div class="pub-links">
    <details class="bibtex-details">
@@ -576,7 +696,47 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
   
    Shuhao Kang, Youqi Liao, Peijie Wang, Wenlong Liao, Qilin Zhang, Benjamin Busam, **<u>Xieyuanli Chen</u>**, Yun Liu
 
-- [LAG-IO: Multi-IMU State Estimation for Legged Robots Using Factor Graphs](https://github.com/nubot-nudt/LAG-IO)
+- [Beyond First-Order: Learning Riemannian Geometries for Invariant Visual Place Recognition](https://dl.acm.org/doi/10.1145/3767308.3836434)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{cheng2026acmmm,
+      title={Beyond First-Order: Learning Riemannian Geometries for Invariant Visual Place Recognition},
+      author={Cheng, Jintao and Li, Weibin and Huang, Jiazheng and Jia, Mingkai and Chen, Xieyuanli and He, Zhijian and Wu, Jin and Vong, Chi Man and Zhang, Wei},
+      booktitle={In Proc. of the ACM International Conference on Multimedia (ACM MM)},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2602.00841" class="pub-link">[PDF]</a>
+   </div>
+   
+   *ACM International Conference on Multimedia **(ACM MM)***
+  
+   Jintao Cheng, Weibin Li, Jiazheng Huang, Mingkai Jia, **<u>Xieyuanli Chen</u>**, Zhijian He, Jin Wu, Chi Man Vong, Wei Zhang
+
+- [MaMoRetarget: Morphology-Aware Human-to-Robot Motion Retargeting Across Humanoid Embodiments](https://dl.acm.org/doi/10.1145/3767308.3835681)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{shen2026acmmm,
+      title={MaMoRetarget: Morphology-Aware Human-to-Robot Motion Retargeting Across Humanoid Embodiments},
+      author={Shen, Yehui and Chen, Xieyuanli and Shi, Chenghao and Xie, Zheng and Xiao, Junhao and Zeng, Zhiwen and Lu, Huimin},
+      booktitle={In Proc. of the ACM International Conference on Multimedia (ACM MM)},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://dl.acm.org/doi/pdf/10.1145/3767308.3835681" class="pub-link">[PDF]</a>
+   </div>
+   
+   *ACM International Conference on Multimedia **(ACM MM)***
+  
+   Yehui Shen, **<u>Xieyuanli Chen</u>**, Chenghao Shi, Zheng Xie, Junhao Xiao, Zhiwen Zeng, Huimin Lu
+
+- [LAG-IO: Multi-IMU State Estimation for Legged Robots Using Factor Graphs](https://arxiv.org/abs/2610.17870)
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -589,7 +749,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
     }</code></pre>
    </div>
    </details>
-   <a href="https://github.com/nubot-nudt/LAG-IO" class="pub-link">[PDF]</a>
+   <a href="https://arxiv.org/pdf/2610.17870" class="pub-link">[PDF]</a>
    <a href="https://github.com/nubot-nudt/LAG-IO">
     <img src="https://img.shields.io/github/stars/nubot-nudt/LAG-IO?style=social&label=Code+Stars" alt="GitHub stars">
     </a>
@@ -769,7 +929,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/abstract/document/10993479/" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10993479" class="pub-link">[PDF]</a>
    <a href="https://github.com/nubot-nudt/SegNet4D">
      <img src="https://img.shields.io/github/stars/nubot-nudt/SegNet4D?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -812,7 +972,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
   }</code></pre>
   </div>
   </details>
-  <a href="https://ieeexplore.ieee.org/abstract/document/11052616" class="pub-link">[PDF]</a>
+  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11052616" class="pub-link">[PDF]</a>
   </div>
    
   *IEEE Transactions on Industrial Informatics **(T-II)***
@@ -832,7 +992,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
   }</code></pre>
   </div>
   </details>
-  <a href="https://ieeexplore.ieee.org/abstract/document/11017376" class="pub-link">[PDF]</a>
+  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11017376" class="pub-link">[PDF]</a>
   </div>
   
   *IEEE Transactions on Industrial Informatics **(T-II)***
@@ -852,7 +1012,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
   }</code></pre>
   </div>
   </details>
-  <a href="https://ieeexplore.ieee.org/abstract/document/10898027" class="pub-link">[PDF]</a>
+  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10898027" class="pub-link">[PDF]</a>
   </div>
   
   *IEEE Transactions on Instrumentation and Measurement **(T-IM)***
@@ -915,7 +1075,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/document/11126435" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11126435" class="pub-link">[PDF]</a>
    </div>
    
   *IEEE Transactions on Radar Systems **(T-RS)***
@@ -935,7 +1095,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/abstract/document/11206445" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11206445" class="pub-link">[PDF]</a>
    </div>
    
    *IEEE Robotics and Automation Letters **(RA-L)***
@@ -955,7 +1115,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/document/10910198" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10910198" class="pub-link">[PDF]</a>
    <a href="https://github.com/PANFEI-CHENG/RID-Net">
      <img src="https://img.shields.io/github/stars/PANFEI-CHENG/RID-Net?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -978,7 +1138,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/abstract/document/10891171" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10891171" class="pub-link">[PDF]</a>
    <a href="https://github.com/ROBOT-WSC/SGT-LLC">
      <img src="https://img.shields.io/github/stars/ROBOT-WSC/SGT-LLC?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -1044,7 +1204,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/document/10845798" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10845798" class="pub-link">[PDF]</a>
    <a href="https://github.com/ROBOT-WSC/BEV-LSLAM">
      <img src="https://img.shields.io/github/stars/ROBOT-WSC/BEV-LSLAM?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -1067,7 +1227,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/document/10974572" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10974572" class="pub-link">[PDF]</a>
    <a href="https://github.com/nubot-nudt/RadarSFEMOS">
      <img src="https://img.shields.io/github/stars/nubot-nudt/RadarSFEMOS?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -1090,7 +1250,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/abstract/document/11045950" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11045950" class="pub-link">[PDF]</a>
    <a href="https://github.com/SCNU-RISLAB/OverlapMamba">
      <img src="https://img.shields.io/github/stars/SCNU-RISLAB/OverlapMamba?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -1163,7 +1323,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
 
   Pengyu Zhang, **<u>Xieyuanli Chen</u>**, Yuwei Chen, Beizhen Bi, Zhuo Xu, Tian Jin, Xiaotao Huang, Liang Shen
 
-- [A Novel Decomposed Feature-Oriented Framework for Open-Set Semantic Segmentation on LiDAR Data](https://arxiv.org/abs/2503.11097) 
+- [A Novel Decomposed Feature-Oriented Framework for Open-Set Semantic Segmentation on LiDAR Data](https://ieeexplore.ieee.org/document/11128866) 
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -1199,7 +1359,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/abstract/document/11127342" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11127342" class="pub-link">[PDF]</a>
    <a href="https://github.com/nubot-nudt/RLCNet">
      <img src="https://img.shields.io/github/stars/nubot-nudt/RLCNet?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -1222,7 +1382,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/abstract/document/11128210" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11128210" class="pub-link">[PDF]</a>
    <a href="https://github.com/nubot-nudt/InsCMPR">
      <img src="https://img.shields.io/github/stars/nubot-nudt/InsCMPR?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -1232,7 +1392,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
   
   Shuaifeng Jiao, Zhuoqun Su, Lun Luo, Hongshan Yu, Zongtan Zhou, Huimin Lu, **<u>Xieyuanli Chen</u>**
 
-- [LuSeg: Efficient Negative and Positive Obstacles Segmentation via Contrast-Driven Multi-Modal Feature Fusion on the Lunar](https://arxiv.org/abs/2503.11409)
+- [LuSeg: Efficient Negative and Positive Obstacles Segmentation via Contrast-Driven Multi-Modal Feature Fusion on the Lunar](https://ieeexplore.ieee.org/document/11246916)
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -1255,7 +1415,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
 
   Shuaifeng Jiao, Zhiwen Zeng, Zhuoqun Su, **<u>Xieyuanli Chen</u>**, Zongtan Zhou, Huimin Lu 
 
- - [Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM](https://arxiv.org/abs/2503.11145)  
+ - [Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM](https://ieeexplore.ieee.org/document/11246943)  
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -1278,7 +1438,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
 
    Neng Wang, Huimin Lu, Zhiqiang Zheng, Yun-Hui Liu, **<u>Xieyuanli Chen</u>**
 
- - [Image-Goal Navigation Using Refined Feature Guidance and Scene Graph Enhancement](https://arxiv.org/abs/2503.10986)  
+ - [Image-Goal Navigation Using Refined Feature Guidance and Scene Graph Enhancement](https://ieeexplore.ieee.org/document/11247696)  
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -1314,7 +1474,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/document/11246827" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246827" class="pub-link">[PDF]</a>
    <a href="https://github.com/IRMVLab/EER-HTP">
      <img src="https://img.shields.io/github/stars/IRMVLab/EER-HTP?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -1324,7 +1484,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
   
    Junyi Ma, Erhang Zhang, Jingyi Xu, **<u>Xieyuanli Chen</u>**,  Hesheng Wang
   
- - [Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction](https://arxiv.org/abs/2504.07375)  
+ - [Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction](https://ieeexplore.ieee.org/document/11246803)  
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -1347,7 +1507,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
   
    Junyi Ma, Wentao Bao, Jingyi Xu, Guanzhong Sun, **<u>Xieyuanli Chen</u>**, Hesheng Wang
 
- - [Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos](https://arxiv.org/abs/2405.04370)  
+ - [Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos](https://ieeexplore.ieee.org/document/11247704)  
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -1370,7 +1530,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
   
    Junyi Ma, Jingyi Xu, **<u>Xieyuanli Chen</u>**, Hesheng Wang
 
- - [ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions](https://arxiv.org/abs/2503.12350) 
+ - [ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions](https://ieeexplore.ieee.org/document/11246484) 
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -1393,7 +1553,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
   
    Wenqing Kuang, Xiongwei Zhao, Yehui Shen, Congcong Wen, Huimin Lu, Zongtan Zhou, **<u>Xieyuanli Chen</u>**
   
- - [BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model](https://arxiv.org/abs/2503.11372)  
+ - [BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model](https://ieeexplore.ieee.org/document/11246131)  
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -1416,7 +1576,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
   
    Ziyue Wang, Chenghao Shi, Neng Wang, Qinghua Yu, **<u>Xieyuanli Chen</u>**, Huimin Lu
 
- - [Efficient Multi-Modal 3D Object Detector via Instance Level Contrastive Distillation](https://arxiv.org/abs/2503.12914)  
+ - [Efficient Multi-Modal 3D Object Detector via Instance Level Contrastive Distillation](https://ieeexplore.ieee.org/document/11246316)  
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -1452,7 +1612,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/document/11247758" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11247758" class="pub-link">[PDF]</a>
    </div>
    
    *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
@@ -1472,7 +1632,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/document/11247117" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11247117" class="pub-link">[PDF]</a>
    </div>
 
    *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
@@ -1492,7 +1652,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/document/11245889" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11245889" class="pub-link">[PDF]</a>
    <a href="https://github.com/nubot-nudt/IMPNet">
      <img src="https://img.shields.io/github/stars/nubot-nudt/IMPNet?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -1515,7 +1675,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/document/11246014" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246014" class="pub-link">[PDF]</a>
    </div>
    
    *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
@@ -1535,7 +1695,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
     }</code></pre>
    </div>
    </details>
-   <a href="https://www.mdpi.com/2072-4292/17/13/2247" class="pub-link">[PDF]</a>
+   <a href="https://www.mdpi.com/2072-4292/17/13/2247/pdf" class="pub-link">[PDF]</a>
    </div>
    
   *Remote Sensing*
@@ -1555,7 +1715,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
     }</code></pre>
    </div>
    </details>
-   <a href="https://www.mdpi.com/2313-7673/10/6/410" class="pub-link">[PDF]</a>
+   <a href="https://www.mdpi.com/2313-7673/10/6/410/pdf" class="pub-link">[PDF]</a>
    </div>
    
   *Biomimetics*
@@ -1599,7 +1759,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/abstract/document/10814715" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10814715" class="pub-link">[PDF]</a>
    </div>
    
   *IEEE Transactions on Multimedia **(T-MM)***
@@ -1662,7 +1822,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/abstract/document/10623536" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10623536" class="pub-link">[PDF]</a>
    <a href="https://github.com/nubot-nudt/SFEMOS">
      <img src="https://img.shields.io/github/stars/nubot-nudt/SFEMOS?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -1685,7 +1845,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/abstract/document/10400950" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10400950" class="pub-link">[PDF]</a>
    </div>
    
   *IEEE Transactions on Intelligent Vehicles **(T-IV)***
@@ -1728,7 +1888,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
     }</code></pre>
    </div>
    </details>
-   <a href="https://arxiv.org/abs/2302.07433" class="pub-link">[PDF]</a>
+   <a href="https://arxiv.org/pdf/2302.07433" class="pub-link">[PDF]</a>
    </div>
    
   *Intl. Journal of Computer Vision **(IJCV)***
@@ -2026,6 +2186,26 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
   
   Yutong Wang, Chaoyang Jiang, **<u>Xieyuanli Chen</u>**
   
+- [MF-MOS: A Motion-Focused Model for Moving Object Segmentation](https://ieeexplore.ieee.org/document/10611400/)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{cheng2024icra,
+      title={MF-MOS: A Motion-Focused Model for Moving Object Segmentation},
+      author={Cheng, Jintao and Zeng, Kang and Huang, Zhuoxu and Tang, Xiaoyu and Wu, Jin and Zhang, Chengxi and Chen, Xieyuanli and Fan, Rui},
+      booktitle={In Proc. of the IEEE International Conference on Robotics and Automation (ICRA)},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2401.17023" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE International Conference on Robotics and Automation **(ICRA)***
+  
+   Jintao Cheng, Kang Zeng, Zhuoxu Huang, Xiaoyu Tang, Jin Wu, Chengxi Zhang, **<u>Xieyuanli Chen</u>**, Rui Fan
+
 - [ModaLink: Unifying Modalities for Efficient Image-to-PointCloud Place Recognition](https://ieeexplore.ieee.org/document/10801556) 
    <div class="pub-links">
    <details class="bibtex-details">
@@ -2095,6 +2275,46 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
   
    Jingyi Xu, Junyi Ma, Qi Wu, Zijie Zhou, Yue Wang, **<u>Xieyuanli Chen</u>**, Wenxian Yu, Ling Pei
 
+- [MV-MOS: Multi-View Feature Fusion for 3D Moving Object Segmentation](https://ieeexplore.ieee.org/document/10907321/)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{cheng2024robio,
+      title={MV-MOS: Multi-View Feature Fusion for 3D Moving Object Segmentation},
+      author={Cheng, Jintao and Chen, Xingming and Liang, Jinxin and Tang, Xiaoyu and Chen, Xieyuanli and Li, Dachuan},
+      booktitle={In Proc. of the IEEE International Conference on Robotics and Biomimetics (ROBIO)},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10907321" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE International Conference on Robotics and Biomimetics **(ROBIO)***
+  
+   Jintao Cheng, Xingming Chen, Jinxin Liang, Xiaoyu Tang, **<u>Xieyuanli Chen</u>**, Dachuan Li
+
+- [Semantic-Enhanced LiDAR-Inertial Odometry for Autonomous Driving in Urban Environments](https://ieeexplore.ieee.org/document/10839823/)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{wu2024icus,
+      title={Semantic-Enhanced LiDAR-Inertial Odometry for Autonomous Driving in Urban Environments},
+      author={Wu, Qi and Chen, Xieyuanli and Xia, Songpengcheng and Liu, Guoqing and Yu, Wenxian and Pei, Ling},
+      booktitle={In Proc. of the IEEE International Conference on Unmanned Systems (ICUS)},
+      year={2024}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10839823" class="pub-link">[PDF]</a>
+   </div>
+   
+   *2024 IEEE International Conference on Unmanned Systems **(ICUS)***
+  
+   Qi Wu, **<u>Xieyuanli Chen</u>**, Songpengcheng Xia, Guoqing Liu, Wenxian Yu, Ling Pei
+
 ##  2023
 - [CVTNet: A cross-view transformer network for LiDAR-based place recognition in autonomous driving environments](https://ieeexplore.ieee.org/abstract/document/10273716) 
    <div class="pub-links">
@@ -2109,7 +2329,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/abstract/document/10273716" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10273716" class="pub-link">[PDF]</a>
    <a href="https://github.com/BIT-MJY/CVTNet">
      <img src="https://img.shields.io/github/stars/BIT-MJY/CVTNet?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -2175,14 +2395,14 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
     }</code></pre>
    </div>
    </details>
-   <a href="https://www.researchgate.net/profile/Huimin-Lu-3/publication/372977710_Geometry-based_flipper_motion_planning_for_articulated_tracked_robots_traversing_rough_terrain_in_real-                     time/links/64d8477d78e40b48bd443d62/Geometry-based-flipper-motion-planning-for-articulated-tracked-robots-traversing-rough-terrain-in-real-time.pdf" class="pub-link">[PDF]</a>
+   <a href="https://www.researchgate.net/profile/Huimin-Lu-3/publication/372977710_Geometry-based_flipper_motion_planning_for_articulated_tracked_robots_traversing_rough_terrain_in_real-time/links/64d8477d78e40b48bd443d62/Geometry-based-flipper-motion-planning-for-articulated-tracked-robots-traversing-rough-terrain-in-real-time.pdf" class="pub-link">[PDF]</a>
    </div> 
    
   *Journal of Field Robotics **(JFR)**
   
   Bailiang Chen, Kaihong Huang, Hainan Pan, Haoran Ren, **<u>Xieyuanli Chen</u>**, Junhao Xiao, Wenqi Wu, Huimin Lu
   
-- [Extreme low-resolution action recognition with confident spatial-temporal attention transfer](https://link.springer.com/article/10.1007/s11263-023-01771-4)  [[PDF]](https://link.springer.com/article/10.1007/s11263-023-01771-4)
+- [Extreme low-resolution action recognition with confident spatial-temporal attention transfer](https://link.springer.com/article/10.1007/s11263-023-01771-4)  [[PDF]](https://link.springer.com/content/pdf/10.1007/s11263-023-01771-4.pdf)
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -2195,7 +2415,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
     }</code></pre>
    </div>
    </details>
-   <a href="https://link.springer.com/article/10.1007/s11263-023-01771-4" class="pub-link">[PDF]</a>
+   <a href="https://link.springer.com/content/pdf/10.1007/s11263-023-01771-4.pdf" class="pub-link">[PDF]</a>
    </div> 
    
   *Intl. Journal of Computer Vision **(IJCV)***
@@ -2331,7 +2551,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
     }</code></pre>
    </div>
    </details>
-   <a href="https://www.mdpi.com/2072-4292/15/18/4616" class="pub-link">[PDF]</a>
+   <a href="https://www.mdpi.com/2072-4292/15/18/4616/pdf" class="pub-link">[PDF]</a>
    </div> 
    
   *Remote Sensing*
@@ -2351,14 +2571,14 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
     }</code></pre>
    </div>
    </details>
-   <a href="https://www.mdpi.com/2072-4292/15/18/4433" class="pub-link">[PDF]</a>
+   <a href="https://www.mdpi.com/2072-4292/15/18/4433/pdf" class="pub-link">[PDF]</a>
    </div> 
    
   *Remote Sensing*
   
   Yuhan Xiao, Yufei Liu, Kai Luan, Yuwei Cheng, **<u>Xieyuanli Chen</u>**, Huimin Lu
   
-- [RSS-LIWOM: Rotating solid-state LiDAR for robust LiDAR-Inertial-Wheel odometry and mapping](https://www.mdpi.com/2072-4292/15/16/4040)  [[PDF]](https://www.mdpi.com/2072-4292/15/16/4040)  [![](https://img.shields.io/github/stars/nubot-nudt/RSS_LOAM_Datasets?style=social&label=Code+Stars)](https://github.com/nubot-nudt/RSS_LOAM_Datasets) 
+- [RSS-LIWOM: Rotating solid-state LiDAR for robust LiDAR-Inertial-Wheel odometry and mapping](https://www.mdpi.com/2072-4292/15/16/4040)  [[PDF]](https://www.mdpi.com/2072-4292/15/16/4040/pdf)  [![](https://img.shields.io/github/stars/nubot-nudt/RSS_LOAM_Datasets?style=social&label=Code+Stars)](https://github.com/nubot-nudt/RSS_LOAM_Datasets) 
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -2371,7 +2591,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
     }</code></pre>
    </div>
    </details>
-   <a href="https://www.mdpi.com/2072-4292/15/16/4040" class="pub-link">[PDF]</a>
+   <a href="https://www.mdpi.com/2072-4292/15/16/4040/pdf" class="pub-link">[PDF]</a>
    <a href="https://github.com/nubot-nudt/RSS_LOAM_Datasets">
      <img src="https://img.shields.io/github/stars/nubot-nudt/RSS_LOAM_Datasets?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -2427,7 +2647,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
   
   Junyuan Deng, Qi Wu, **<u>Xieyuanli Chen</u>**, Songpengcheng Xia, Zhen Sun, Guoqing Liu, Wenxian Yu, Ling Pei
     
-- [ERASOR2: Instance-aware robust 3D mapping of the static world in dynamic scenes](https://koasas.kaist.ac.kr/handle/10203/310608) 
+- [ERASOR2: Instance-aware robust 3D mapping of the static world in dynamic scenes](https://doi.org/10.15607/RSS.2023.XIX.067) 
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -2440,7 +2660,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
     }</code></pre>
    </div>
    </details>
-   <a href="https://www.researchgate.net/profile/Cyrill_Stachniss/publication/372792825_ERASOR2_Instance-Aware_Robust_3D_Mapping_of_the_Static_World_in_Dynamic_Scenes/links/65201a10b0df2f20a216393c/ERASOR2-Instance-Aware-Robust-3D-Mapping-of-the-Static-World-in-Dynamic-Scenes.pdf?__cf_chl_tk=H4hn6CSehEkJUimB0.cnEY1.PNbzVM0zV5Anw12IsmI-1736398204-1.0.1.1-rP4ZORj6jdhvXDd9fxFCrezumcdULhJEvG7sOJ4pvIg" class="pub-link">[PDF]</a>
+   <a href="https://www.roboticsproceedings.org/rss19/p067.pdf" class="pub-link">[PDF]</a>
    <a href="https://github.com/url-kaist/ERASOR2">
      <img src="https://img.shields.io/github/stars/url-kaist/ERASOR2?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -2601,7 +2821,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/abstract/document/10354640" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10354640" class="pub-link">[PDF]</a>
    </div> 
    
   *IEEE International Conference on Robotics and Biomimetics **(ROBIO 2023)***
@@ -2632,7 +2852,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
 
   Junyi Ma, **<u>Xieyuanli Chen</u>**, Jingyi Xu, Guangming Xiong
   
-- [OverlapNet: a siamese network for computing LiDAR scan similarity with applications to loop closing and localization](https://link.springer.com/article/10.1007/s10514-021-09999-0) [[PDF]](https://link.springer.com/article/10.1007/s10514-021-09999-0)  [![](https://img.shields.io/github/stars/PRBonn/OverlapNet?style=social&label=Code+Stars)](https://github.com/PRBonn/OverlapNet)
+- [OverlapNet: a siamese network for computing LiDAR scan similarity with applications to loop closing and localization](https://link.springer.com/article/10.1007/s10514-021-09999-0) [[PDF]](https://link.springer.com/content/pdf/10.1007/s10514-021-09999-0.pdf)  [![](https://img.shields.io/github/stars/PRBonn/OverlapNet?style=social&label=Code+Stars)](https://github.com/PRBonn/OverlapNet)
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -2645,8 +2865,8 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
     }</code></pre>
    </div>
    </details>
-   <a href="https://link.springer.com/article/10.1007/s10514-021-09999-0" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/OverlapNet">
+   <a href="https://link.springer.com/content/pdf/10.1007/s10514-021-09999-0.pdf" class="pub-link">[PDF]</a>
+   <a href="https://github.com/PRBonn/OverlapNet">
      <img src="https://img.shields.io/github/stars/PRBonn/OverlapNet?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -2669,7 +2889,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2203.03397" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/haomo-ai/OverlapTransformer">
+   <a href="https://github.com/haomo-ai/OverlapTransformer">
      <img src="https://img.shields.io/github/stars/haomo-ai/OverlapTransformer?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -2692,7 +2912,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2210.01456" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/hsmcl">
+   <a href="https://github.com/PRBonn/hsmcl">
      <img src="https://img.shields.io/github/stars/PRBonn/hsmcl?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -2715,7 +2935,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    </div>
    </details>
    <a href="https://www.researchgate.net/profile/Xieyuanli-Chen/publication/361690937_Unsupervised_Class-Agnostic_Instance_Segmentation_of_3D_LiDAR_Data_for_Autonomous_Vehicles/links/641d0f8c92cfd54f842616ef/Unsupervised-Class-Agnostic-Instance-Segmentation-of-3D-LiDAR-Data-for-Autonomous-Vehicles.pdf" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/3DUIS">
+   <a href="https://github.com/PRBonn/3DUIS">
      <img src="https://img.shields.io/github/stars/PRBonn/3DUIS?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -2759,7 +2979,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2206.04129" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/4DMOS">
+   <a href="https://github.com/PRBonn/4DMOS">
      <img src="https://img.shields.io/github/stars/PRBonn/4DMOS?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -2782,7 +3002,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2208.07473" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/YungeCui/BoW3D">
+   <a href="https://github.com/YungeCui/BoW3D">
      <img src="https://img.shields.io/github/stars/YungeCui/BoW3D?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -2825,7 +3045,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    </div>
    </details>
    <a href="https://drive.google.com/file/d/1mJS5lO-vbdbbwexhVkManlUyQic08adN/view" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/segcontrast">
+   <a href="https://github.com/PRBonn/segcontrast">
      <img src="https://img.shields.io/github/stars/PRBonn/segcontrast?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -2868,7 +3088,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    </div>
    </details>
    <a href="https://www.researchgate.net/profile/Xieyuanli-Chen/publication/366614462_ICK-Track_A_Category-Level_6-DoF_Pose_Tracker_Using_Inter-Frame_Consistent_Keypoints_for_Aerial_Manipulation/links/641d0de166f8522c38ccebed/ICK-Track-A-Category-Level-6-DoF-Pose-Tracker-Using-Inter-Frame-Consistent-Keypoints-for-Aerial-Manipulation.pdf" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/S-JingTao/Categorical_Pose_Tracking">
+   <a href="https://github.com/S-JingTao/Categorical_Pose_Tracking">
      <img src="https://img.shields.io/github/stars/S-JingTao/Categorical_Pose_Tracking?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -2891,7 +3111,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2207.02201" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/haomo-ai/MotionSeg3D">
+   <a href="https://github.com/haomo-ai/MotionSeg3D">
      <img src="https://img.shields.io/github/stars/haomo-ai/MotionSeg3D?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -2915,7 +3135,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2008.09162" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/sj-li/MINet">
+   <a href="https://github.com/sj-li/MINet">
      <img src="https://img.shields.io/github/stars/sj-li/MINet?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -2938,7 +3158,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2105.08971" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/LiDAR-MOS">
+   <a href="https://github.com/PRBonn/LiDAR-MOS">
      <img src="https://img.shields.io/github/stars/PRBonn/LiDAR-MOS?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -2961,7 +3181,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    </div>
    </details>
    <a href="https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/shi2021ral.pdf" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/nubot-nudt/MDGAT-matcher">
+   <a href="https://github.com/nubot-nudt/MDGAT-matcher">
      <img src="https://img.shields.io/github/stars/nubot-nudt/MDGAT-matcher?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -2984,7 +3204,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    </div>
    </details>
    <a href="https://www.researchgate.net/profile/Xieyuanli-Chen/publication/349422231_Deep_Compression_for_Dense_Point_Cloud_Maps/links/604209d9a6fdcc9c78124aa5/Deep-Compression-for-Dense-Point-Cloud-Maps.pdf" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/deep-point-map-compression">
+   <a href="https://github.com/PRBonn/deep-point-map-compression">
      <img src="https://img.shields.io/github/stars/PRBonn/deep-point-map-compression?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -3007,7 +3227,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    </div>
    </details>
    <a href="https://proceedings.mlr.press/v164/mersch22a/mersch22a.pdf" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/point-cloud-prediction">
+   <a href="https://github.com/PRBonn/point-cloud-prediction">
      <img src="https://img.shields.io/github/stars/PRBonn/point-cloud-prediction?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -3048,7 +3268,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2105.12121" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/range-mcl">
+   <a href="https://github.com/PRBonn/range-mcl">
      <img src="https://img.shields.io/github/stars/PRBonn/range-mcl?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -3071,7 +3291,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    </div>
    </details>
    <a href="https://www.researchgate.net/profile/Xieyuanli-Chen/publication/350399207_Poisson_Surface_Reconstruction_for_LiDAR_Odometry_and_Mapping/links/605daf9792851cd8ce69c865/Poisson-Surface-Reconstruction-for-LiDAR-Odometry-and-Mapping.pdf" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/puma">
+   <a href="https://github.com/PRBonn/puma">
      <img src="https://img.shields.io/github/stars/PRBonn/puma?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -3094,7 +3314,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2105.11783" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/MutiverseOdometry">
+   <a href="https://github.com/PRBonn/MutiverseOdometry">
      <img src="https://img.shields.io/github/stars/PRBonn/MutiverseOdometry?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -3117,7 +3337,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    </div>
    </details>
    <a href="https://www.researchgate.net/profile/Xieyuanli-Chen/publication/357101499_Efficient_Localisation_Using_Images_and_OpenStreetMaps/links/641d114c315dfb4ccea53804/Efficient-Localisation-Using-Images-and-OpenStreetMaps.pdf" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/ZhouMengjie/Image-to-2.5DMap-Matching">
+   <a href="https://github.com/ZhouMengjie/Image-to-2.5DMap-Matching">
      <img src="https://img.shields.io/github/stars/ZhouMengjie/Image-to-2.5DMap-Matching?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -3160,7 +3380,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2108.08621" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/pole-localization">
+   <a href="https://github.com/PRBonn/pole-localization">
      <img src="https://img.shields.io/github/stars/PRBonn/pole-localization?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -3185,7 +3405,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2105.11344" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/OverlapNet">
+   <a href="https://github.com/PRBonn/OverlapNet">
      <img src="https://img.shields.io/github/stars/PRBonn/OverlapNet?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -3207,8 +3427,8 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
     }</code></pre>
    </div>
    </details>
-   <a href="https://arxiv.org/abs/2105.11717" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/overlap_localization">
+   <a href="https://arxiv.org/pdf/2105.11717" class="pub-link">[PDF]</a>
+   <a href="https://github.com/PRBonn/overlap_localization">
      <img src="https://img.shields.io/github/stars/PRBonn/overlap_localization?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -3217,7 +3437,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
   
   **<u>Xieyuanli Chen</u>**, Thomas Läbe, Lorenzo Nardi, Jens Behley, Cyrill Stachniss
 
-- [Semantic RGB-D SLAM for rescue robot navigation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9226412) 
+- [Semantic RGB-D SLAM for rescue robot navigation](https://ieeexplore.ieee.org/document/9226412) 
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -3230,7 +3450,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9226412" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9226412" class="pub-link">[PDF]</a>
    </div> 
    
   *IEEE Access*
@@ -3252,7 +3472,7 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2105.11320" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/semantic_suma">
+   <a href="https://github.com/PRBonn/semantic_suma">
      <img src="https://img.shields.io/github/stars/PRBonn/semantic_suma?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
