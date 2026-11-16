@@ -3,7 +3,7 @@
 # 📝 Publications
 ##  2026
 
- - [Dcreg: Decoupled characterization for efficient degenerate lidar registration](https://ieeexplore.ieee.org/document/11723264) 
+ - [Dcreg: Decoupled characterization for efficient degenerate lidar registration](https://journals.sagepub.com/doi/10.1177/02783649261465040) 
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -59,7 +59,7 @@
   }</code></pre>
   </div>
   </details>
-  <a href="https://www.computer.org/csdl/journal/tp/5555/01/11720234/2kmYMqsCeac" class="pub-link">[PDF]</a>
+  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11720234" class="pub-link">[PDF]</a>
   </div>
   
   *IEEE Transactions on Pattern Analysis and Machine Intelligence **(T-PAMI)***
@@ -210,7 +210,7 @@
   }</code></pre>
   </div>
   </details>
-  <a href="https://ieeexplore.ieee.org/abstract/document/11414442/" class="pub-link">[PDF]</a>
+  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11414442" class="pub-link">[PDF]</a>
   </div>
   
   *IEEE/ASME Transactions on Mechatronics **(T-Mech)***
@@ -291,7 +291,7 @@
   }</code></pre>
   </div>
   </details>
-  <a href="https://ieeexplore.ieee.org/abstract/document/11346028" class="pub-link">[PDF]</a>
+  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11346028" class="pub-link">[PDF]</a>
   </div>
   
   *IEEE Transactions on Industrial Informatics **(T-II)***
@@ -395,7 +395,7 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/abstract/document/11373724" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11373724" class="pub-link">[PDF]</a>
    </div>
    
    *IEEE Robotics and Automation Letters **(RA-L)***
@@ -656,7 +656,7 @@
   
    Yehui Shen, **<u>Xieyuanli Chen</u>**, Chenghao Shi, Zheng Xie, Junhao Xiao, Zhiwen Zeng, Huimin Lu
 
-- [LAG-IO: Multi-IMU State Estimation for Legged Robots Using Factor Graphs](https://github.com/nubot-nudt/LAG-IO)
+- [LAG-IO: Multi-IMU State Estimation for Legged Robots Using Factor Graphs](https://arxiv.org/abs/2610.17870)
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -669,7 +669,7 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://github.com/nubot-nudt/LAG-IO" class="pub-link">[PDF]</a>
+   <a href="https://arxiv.org/pdf/2610.17870" class="pub-link">[PDF]</a>
    <a href="https://github.com/nubot-nudt/LAG-IO">
     <img src="https://img.shields.io/github/stars/nubot-nudt/LAG-IO?style=social&label=Code+Stars" alt="GitHub stars">
     </a>
@@ -849,7 +849,7 @@
    }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/abstract/document/10993479/" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10993479" class="pub-link">[PDF]</a>
    <a href="https://github.com/nubot-nudt/SegNet4D">
      <img src="https://img.shields.io/github/stars/nubot-nudt/SegNet4D?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -892,7 +892,7 @@
   }</code></pre>
   </div>
   </details>
-  <a href="https://ieeexplore.ieee.org/abstract/document/11052616" class="pub-link">[PDF]</a>
+  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11052616" class="pub-link">[PDF]</a>
   </div>
    
   *IEEE Transactions on Industrial Informatics **(T-II)***
@@ -912,7 +912,7 @@
   }</code></pre>
   </div>
   </details>
-  <a href="https://ieeexplore.ieee.org/abstract/document/11017376" class="pub-link">[PDF]</a>
+  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11017376" class="pub-link">[PDF]</a>
   </div>
   
   *IEEE Transactions on Industrial Informatics **(T-II)***
@@ -932,7 +932,7 @@
   }</code></pre>
   </div>
   </details>
-  <a href="https://ieeexplore.ieee.org/abstract/document/10898027" class="pub-link">[PDF]</a>
+  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10898027" class="pub-link">[PDF]</a>
   </div>
   
   *IEEE Transactions on Instrumentation and Measurement **(T-IM)***
@@ -995,7 +995,7 @@
    }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/document/11126435" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11126435" class="pub-link">[PDF]</a>
    </div>
    
   *IEEE Transactions on Radar Systems **(T-RS)***
@@ -1015,7 +1015,7 @@
    }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/abstract/document/11206445" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11206445" class="pub-link">[PDF]</a>
    </div>
    
    *IEEE Robotics and Automation Letters **(RA-L)***
@@ -1035,7 +1035,7 @@
    }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/document/10910198" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10910198" class="pub-link">[PDF]</a>
    <a href="https://github.com/PANFEI-CHENG/RID-Net">
      <img src="https://img.shields.io/github/stars/PANFEI-CHENG/RID-Net?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -1058,7 +1058,7 @@
    }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/abstract/document/10891171" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10891171" class="pub-link">[PDF]</a>
    <a href="https://github.com/ROBOT-WSC/SGT-LLC">
      <img src="https://img.shields.io/github/stars/ROBOT-WSC/SGT-LLC?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -1124,7 +1124,7 @@
    }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/document/10845798" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10845798" class="pub-link">[PDF]</a>
    <a href="https://github.com/ROBOT-WSC/BEV-LSLAM">
      <img src="https://img.shields.io/github/stars/ROBOT-WSC/BEV-LSLAM?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -1147,7 +1147,7 @@
    }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/document/10974572" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10974572" class="pub-link">[PDF]</a>
    <a href="https://github.com/nubot-nudt/RadarSFEMOS">
      <img src="https://img.shields.io/github/stars/nubot-nudt/RadarSFEMOS?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -1170,7 +1170,7 @@
    }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/abstract/document/11045950" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11045950" class="pub-link">[PDF]</a>
    <a href="https://github.com/SCNU-RISLAB/OverlapMamba">
      <img src="https://img.shields.io/github/stars/SCNU-RISLAB/OverlapMamba?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -1279,7 +1279,7 @@
    }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/abstract/document/11127342" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11127342" class="pub-link">[PDF]</a>
    <a href="https://github.com/nubot-nudt/RLCNet">
      <img src="https://img.shields.io/github/stars/nubot-nudt/RLCNet?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -1302,7 +1302,7 @@
    }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/abstract/document/11128210" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11128210" class="pub-link">[PDF]</a>
    <a href="https://github.com/nubot-nudt/InsCMPR">
      <img src="https://img.shields.io/github/stars/nubot-nudt/InsCMPR?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -1394,7 +1394,7 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/document/11246827" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246827" class="pub-link">[PDF]</a>
    <a href="https://github.com/IRMVLab/EER-HTP">
      <img src="https://img.shields.io/github/stars/IRMVLab/EER-HTP?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -1532,7 +1532,7 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/document/11247758" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11247758" class="pub-link">[PDF]</a>
    </div>
    
    *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
@@ -1552,7 +1552,7 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/document/11247117" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11247117" class="pub-link">[PDF]</a>
    </div>
 
    *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
@@ -1572,7 +1572,7 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/document/11245889" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11245889" class="pub-link">[PDF]</a>
    <a href="https://github.com/nubot-nudt/IMPNet">
      <img src="https://img.shields.io/github/stars/nubot-nudt/IMPNet?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -1595,7 +1595,7 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/document/11246014" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246014" class="pub-link">[PDF]</a>
    </div>
    
    *In Proc. of the IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems **(IROS 2025)***
@@ -1615,7 +1615,7 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://www.mdpi.com/2072-4292/17/13/2247" class="pub-link">[PDF]</a>
+   <a href="https://www.mdpi.com/2072-4292/17/13/2247/pdf" class="pub-link">[PDF]</a>
    </div>
    
   *Remote Sensing*
@@ -1635,7 +1635,7 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://www.mdpi.com/2313-7673/10/6/410" class="pub-link">[PDF]</a>
+   <a href="https://www.mdpi.com/2313-7673/10/6/410/pdf" class="pub-link">[PDF]</a>
    </div>
    
   *Biomimetics*
@@ -1679,7 +1679,7 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/abstract/document/10814715" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10814715" class="pub-link">[PDF]</a>
    </div>
    
   *IEEE Transactions on Multimedia **(T-MM)***
@@ -1742,7 +1742,7 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/abstract/document/10623536" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10623536" class="pub-link">[PDF]</a>
    <a href="https://github.com/nubot-nudt/SFEMOS">
      <img src="https://img.shields.io/github/stars/nubot-nudt/SFEMOS?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -1765,7 +1765,7 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/abstract/document/10400950" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10400950" class="pub-link">[PDF]</a>
    </div>
    
   *IEEE Transactions on Intelligent Vehicles **(T-IV)***
@@ -1808,7 +1808,7 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://arxiv.org/abs/2302.07433" class="pub-link">[PDF]</a>
+   <a href="https://arxiv.org/pdf/2302.07433" class="pub-link">[PDF]</a>
    </div>
    
   *Intl. Journal of Computer Vision **(IJCV)***
@@ -2249,7 +2249,7 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/abstract/document/10273716" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10273716" class="pub-link">[PDF]</a>
    <a href="https://github.com/BIT-MJY/CVTNet">
      <img src="https://img.shields.io/github/stars/BIT-MJY/CVTNet?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -2315,14 +2315,14 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://www.researchgate.net/profile/Huimin-Lu-3/publication/372977710_Geometry-based_flipper_motion_planning_for_articulated_tracked_robots_traversing_rough_terrain_in_real-                     time/links/64d8477d78e40b48bd443d62/Geometry-based-flipper-motion-planning-for-articulated-tracked-robots-traversing-rough-terrain-in-real-time.pdf" class="pub-link">[PDF]</a>
+   <a href="https://www.researchgate.net/profile/Huimin-Lu-3/publication/372977710_Geometry-based_flipper_motion_planning_for_articulated_tracked_robots_traversing_rough_terrain_in_real-time/links/64d8477d78e40b48bd443d62/Geometry-based-flipper-motion-planning-for-articulated-tracked-robots-traversing-rough-terrain-in-real-time.pdf" class="pub-link">[PDF]</a>
    </div> 
    
   *Journal of Field Robotics **(JFR)**
   
   Bailiang Chen, Kaihong Huang, Hainan Pan, Haoran Ren, **<u>Xieyuanli Chen</u>**, Junhao Xiao, Wenqi Wu, Huimin Lu
   
-- [Extreme low-resolution action recognition with confident spatial-temporal attention transfer](https://link.springer.com/article/10.1007/s11263-023-01771-4)  [[PDF]](https://link.springer.com/article/10.1007/s11263-023-01771-4)
+- [Extreme low-resolution action recognition with confident spatial-temporal attention transfer](https://link.springer.com/article/10.1007/s11263-023-01771-4)  [[PDF]](https://link.springer.com/content/pdf/10.1007/s11263-023-01771-4.pdf)
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -2335,7 +2335,7 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://link.springer.com/article/10.1007/s11263-023-01771-4" class="pub-link">[PDF]</a>
+   <a href="https://link.springer.com/content/pdf/10.1007/s11263-023-01771-4.pdf" class="pub-link">[PDF]</a>
    </div> 
    
   *Intl. Journal of Computer Vision **(IJCV)***
@@ -2471,7 +2471,7 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://www.mdpi.com/2072-4292/15/18/4616" class="pub-link">[PDF]</a>
+   <a href="https://www.mdpi.com/2072-4292/15/18/4616/pdf" class="pub-link">[PDF]</a>
    </div> 
    
   *Remote Sensing*
@@ -2491,14 +2491,14 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://www.mdpi.com/2072-4292/15/18/4433" class="pub-link">[PDF]</a>
+   <a href="https://www.mdpi.com/2072-4292/15/18/4433/pdf" class="pub-link">[PDF]</a>
    </div> 
    
   *Remote Sensing*
   
   Yuhan Xiao, Yufei Liu, Kai Luan, Yuwei Cheng, **<u>Xieyuanli Chen</u>**, Huimin Lu
   
-- [RSS-LIWOM: Rotating solid-state LiDAR for robust LiDAR-Inertial-Wheel odometry and mapping](https://www.mdpi.com/2072-4292/15/16/4040)  [[PDF]](https://www.mdpi.com/2072-4292/15/16/4040)  [![](https://img.shields.io/github/stars/nubot-nudt/RSS_LOAM_Datasets?style=social&label=Code+Stars)](https://github.com/nubot-nudt/RSS_LOAM_Datasets) 
+- [RSS-LIWOM: Rotating solid-state LiDAR for robust LiDAR-Inertial-Wheel odometry and mapping](https://www.mdpi.com/2072-4292/15/16/4040)  [[PDF]](https://www.mdpi.com/2072-4292/15/16/4040/pdf)  [![](https://img.shields.io/github/stars/nubot-nudt/RSS_LOAM_Datasets?style=social&label=Code+Stars)](https://github.com/nubot-nudt/RSS_LOAM_Datasets) 
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -2511,7 +2511,7 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://www.mdpi.com/2072-4292/15/16/4040" class="pub-link">[PDF]</a>
+   <a href="https://www.mdpi.com/2072-4292/15/16/4040/pdf" class="pub-link">[PDF]</a>
    <a href="https://github.com/nubot-nudt/RSS_LOAM_Datasets">
      <img src="https://img.shields.io/github/stars/nubot-nudt/RSS_LOAM_Datasets?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -2567,7 +2567,7 @@
   
   Junyuan Deng, Qi Wu, **<u>Xieyuanli Chen</u>**, Songpengcheng Xia, Zhen Sun, Guoqing Liu, Wenxian Yu, Ling Pei
     
-- [ERASOR2: Instance-aware robust 3D mapping of the static world in dynamic scenes](https://koasas.kaist.ac.kr/handle/10203/310608) 
+- [ERASOR2: Instance-aware robust 3D mapping of the static world in dynamic scenes](https://doi.org/10.15607/RSS.2023.XIX.067) 
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -2580,7 +2580,7 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://www.researchgate.net/profile/Cyrill_Stachniss/publication/372792825_ERASOR2_Instance-Aware_Robust_3D_Mapping_of_the_Static_World_in_Dynamic_Scenes/links/65201a10b0df2f20a216393c/ERASOR2-Instance-Aware-Robust-3D-Mapping-of-the-Static-World-in-Dynamic-Scenes.pdf?__cf_chl_tk=H4hn6CSehEkJUimB0.cnEY1.PNbzVM0zV5Anw12IsmI-1736398204-1.0.1.1-rP4ZORj6jdhvXDd9fxFCrezumcdULhJEvG7sOJ4pvIg" class="pub-link">[PDF]</a>
+   <a href="https://www.roboticsproceedings.org/rss19/p067.pdf" class="pub-link">[PDF]</a>
    <a href="https://github.com/url-kaist/ERASOR2">
      <img src="https://img.shields.io/github/stars/url-kaist/ERASOR2?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
@@ -2741,7 +2741,7 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/abstract/document/10354640" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10354640" class="pub-link">[PDF]</a>
    </div> 
    
   *IEEE International Conference on Robotics and Biomimetics **(ROBIO 2023)***
@@ -2772,7 +2772,7 @@
 
   Junyi Ma, **<u>Xieyuanli Chen</u>**, Jingyi Xu, Guangming Xiong
   
-- [OverlapNet: a siamese network for computing LiDAR scan similarity with applications to loop closing and localization](https://link.springer.com/article/10.1007/s10514-021-09999-0) [[PDF]](https://link.springer.com/article/10.1007/s10514-021-09999-0)  [![](https://img.shields.io/github/stars/PRBonn/OverlapNet?style=social&label=Code+Stars)](https://github.com/PRBonn/OverlapNet)
+- [OverlapNet: a siamese network for computing LiDAR scan similarity with applications to loop closing and localization](https://link.springer.com/article/10.1007/s10514-021-09999-0) [[PDF]](https://link.springer.com/content/pdf/10.1007/s10514-021-09999-0.pdf)  [![](https://img.shields.io/github/stars/PRBonn/OverlapNet?style=social&label=Code+Stars)](https://github.com/PRBonn/OverlapNet)
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -2785,8 +2785,8 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://link.springer.com/article/10.1007/s10514-021-09999-0" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/OverlapNet">
+   <a href="https://link.springer.com/content/pdf/10.1007/s10514-021-09999-0.pdf" class="pub-link">[PDF]</a>
+   <a href="https://github.com/PRBonn/OverlapNet">
      <img src="https://img.shields.io/github/stars/PRBonn/OverlapNet?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -2809,7 +2809,7 @@
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2203.03397" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/haomo-ai/OverlapTransformer">
+   <a href="https://github.com/haomo-ai/OverlapTransformer">
      <img src="https://img.shields.io/github/stars/haomo-ai/OverlapTransformer?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -2832,7 +2832,7 @@
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2210.01456" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/hsmcl">
+   <a href="https://github.com/PRBonn/hsmcl">
      <img src="https://img.shields.io/github/stars/PRBonn/hsmcl?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -2855,7 +2855,7 @@
    </div>
    </details>
    <a href="https://www.researchgate.net/profile/Xieyuanli-Chen/publication/361690937_Unsupervised_Class-Agnostic_Instance_Segmentation_of_3D_LiDAR_Data_for_Autonomous_Vehicles/links/641d0f8c92cfd54f842616ef/Unsupervised-Class-Agnostic-Instance-Segmentation-of-3D-LiDAR-Data-for-Autonomous-Vehicles.pdf" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/3DUIS">
+   <a href="https://github.com/PRBonn/3DUIS">
      <img src="https://img.shields.io/github/stars/PRBonn/3DUIS?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -2899,7 +2899,7 @@
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2206.04129" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/4DMOS">
+   <a href="https://github.com/PRBonn/4DMOS">
      <img src="https://img.shields.io/github/stars/PRBonn/4DMOS?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -2922,7 +2922,7 @@
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2208.07473" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/YungeCui/BoW3D">
+   <a href="https://github.com/YungeCui/BoW3D">
      <img src="https://img.shields.io/github/stars/YungeCui/BoW3D?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -2965,7 +2965,7 @@
    </div>
    </details>
    <a href="https://drive.google.com/file/d/1mJS5lO-vbdbbwexhVkManlUyQic08adN/view" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/segcontrast">
+   <a href="https://github.com/PRBonn/segcontrast">
      <img src="https://img.shields.io/github/stars/PRBonn/segcontrast?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -3008,7 +3008,7 @@
    </div>
    </details>
    <a href="https://www.researchgate.net/profile/Xieyuanli-Chen/publication/366614462_ICK-Track_A_Category-Level_6-DoF_Pose_Tracker_Using_Inter-Frame_Consistent_Keypoints_for_Aerial_Manipulation/links/641d0de166f8522c38ccebed/ICK-Track-A-Category-Level-6-DoF-Pose-Tracker-Using-Inter-Frame-Consistent-Keypoints-for-Aerial-Manipulation.pdf" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/S-JingTao/Categorical_Pose_Tracking">
+   <a href="https://github.com/S-JingTao/Categorical_Pose_Tracking">
      <img src="https://img.shields.io/github/stars/S-JingTao/Categorical_Pose_Tracking?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -3031,7 +3031,7 @@
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2207.02201" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/haomo-ai/MotionSeg3D">
+   <a href="https://github.com/haomo-ai/MotionSeg3D">
      <img src="https://img.shields.io/github/stars/haomo-ai/MotionSeg3D?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -3055,7 +3055,7 @@
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2008.09162" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/sj-li/MINet">
+   <a href="https://github.com/sj-li/MINet">
      <img src="https://img.shields.io/github/stars/sj-li/MINet?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -3078,7 +3078,7 @@
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2105.08971" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/LiDAR-MOS">
+   <a href="https://github.com/PRBonn/LiDAR-MOS">
      <img src="https://img.shields.io/github/stars/PRBonn/LiDAR-MOS?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -3101,7 +3101,7 @@
    </div>
    </details>
    <a href="https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/shi2021ral.pdf" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/nubot-nudt/MDGAT-matcher">
+   <a href="https://github.com/nubot-nudt/MDGAT-matcher">
      <img src="https://img.shields.io/github/stars/nubot-nudt/MDGAT-matcher?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -3124,7 +3124,7 @@
    </div>
    </details>
    <a href="https://www.researchgate.net/profile/Xieyuanli-Chen/publication/349422231_Deep_Compression_for_Dense_Point_Cloud_Maps/links/604209d9a6fdcc9c78124aa5/Deep-Compression-for-Dense-Point-Cloud-Maps.pdf" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/deep-point-map-compression">
+   <a href="https://github.com/PRBonn/deep-point-map-compression">
      <img src="https://img.shields.io/github/stars/PRBonn/deep-point-map-compression?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -3147,7 +3147,7 @@
    </div>
    </details>
    <a href="https://proceedings.mlr.press/v164/mersch22a/mersch22a.pdf" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/point-cloud-prediction">
+   <a href="https://github.com/PRBonn/point-cloud-prediction">
      <img src="https://img.shields.io/github/stars/PRBonn/point-cloud-prediction?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -3188,7 +3188,7 @@
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2105.12121" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/range-mcl">
+   <a href="https://github.com/PRBonn/range-mcl">
      <img src="https://img.shields.io/github/stars/PRBonn/range-mcl?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -3211,7 +3211,7 @@
    </div>
    </details>
    <a href="https://www.researchgate.net/profile/Xieyuanli-Chen/publication/350399207_Poisson_Surface_Reconstruction_for_LiDAR_Odometry_and_Mapping/links/605daf9792851cd8ce69c865/Poisson-Surface-Reconstruction-for-LiDAR-Odometry-and-Mapping.pdf" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/puma">
+   <a href="https://github.com/PRBonn/puma">
      <img src="https://img.shields.io/github/stars/PRBonn/puma?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -3234,7 +3234,7 @@
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2105.11783" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/MutiverseOdometry">
+   <a href="https://github.com/PRBonn/MutiverseOdometry">
      <img src="https://img.shields.io/github/stars/PRBonn/MutiverseOdometry?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -3257,7 +3257,7 @@
    </div>
    </details>
    <a href="https://www.researchgate.net/profile/Xieyuanli-Chen/publication/357101499_Efficient_Localisation_Using_Images_and_OpenStreetMaps/links/641d114c315dfb4ccea53804/Efficient-Localisation-Using-Images-and-OpenStreetMaps.pdf" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/ZhouMengjie/Image-to-2.5DMap-Matching">
+   <a href="https://github.com/ZhouMengjie/Image-to-2.5DMap-Matching">
      <img src="https://img.shields.io/github/stars/ZhouMengjie/Image-to-2.5DMap-Matching?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -3300,7 +3300,7 @@
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2108.08621" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/pole-localization">
+   <a href="https://github.com/PRBonn/pole-localization">
      <img src="https://img.shields.io/github/stars/PRBonn/pole-localization?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -3325,7 +3325,7 @@
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2105.11344" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/OverlapNet">
+   <a href="https://github.com/PRBonn/OverlapNet">
      <img src="https://img.shields.io/github/stars/PRBonn/OverlapNet?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -3347,8 +3347,8 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://arxiv.org/abs/2105.11717" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/overlap_localization">
+   <a href="https://arxiv.org/pdf/2105.11717" class="pub-link">[PDF]</a>
+   <a href="https://github.com/PRBonn/overlap_localization">
      <img src="https://img.shields.io/github/stars/PRBonn/overlap_localization?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
@@ -3357,7 +3357,7 @@
   
   **<u>Xieyuanli Chen</u>**, Thomas Läbe, Lorenzo Nardi, Jens Behley, Cyrill Stachniss
 
-- [Semantic RGB-D SLAM for rescue robot navigation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9226412) 
+- [Semantic RGB-D SLAM for rescue robot navigation](https://ieeexplore.ieee.org/document/9226412) 
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -3370,7 +3370,7 @@
     }</code></pre>
    </div>
    </details>
-   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9226412" class="pub-link">[PDF]</a>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9226412" class="pub-link">[PDF]</a>
    </div> 
    
   *IEEE Access*
@@ -3392,7 +3392,7 @@
    </div>
    </details>
    <a href="https://arxiv.org/pdf/2105.11320" class="pub-link">[PDF]</a>
-   <a href="https://github.com/github.com/PRBonn/semantic_suma">
+   <a href="https://github.com/PRBonn/semantic_suma">
      <img src="https://img.shields.io/github/stars/PRBonn/semantic_suma?style=social&label=Code+Stars" alt="GitHub stars">
    </a>
    </div> 
