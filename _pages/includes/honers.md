@@ -3,6 +3,14 @@
 
 # 🎖 Honors and Awards
 - <p style="margin: 0; line-height: 1.2;">
+  2026 <strong> Excellent Young Editor </strong> <br>
+  <span style="font-size: 90%;">The Innovation</span>
+  </p>
+- <p style="margin: 0; line-height: 1.2;">
+  2026 <strong> Outstanding Paper Award</strong> <br>
+  <span style="font-size: 90%;">ACM Multimedia</span>
+  </p>
+- <p style="margin: 0; line-height: 1.2;">
   2026, 2025, 2024<strong> World’s Top 2% Scientists</strong> <br>
   <span style="font-size: 90%;">Stanford and Elsevier</span>
   </p>
