@@ -110,69 +110,6 @@
   
    Junyi Ma, Wentao Bao, Jingyi Xu, Guanzhong Sun, Yu Zheng, Erhang Zhang, **<u>Xieyuanli Chen</u>**, Hesheng Wang
 
- - [Coupling Structural Descriptors With a Novel Semantic Graph Matching Approach for LiDAR Loop Detection](https://ieeexplore.ieee.org/abstract/document/11454605) 
-   <div class="pub-links">
-   <details class="bibtex-details">
-     <summary class="bibtex-button">[BibTeX]</summary>
-     <div class="bibtex-block">
-       <pre><code>@ARTICLE{tang2026tase,
-      title={Coupling Structural Descriptors With a Novel Semantic Graph Matching Approach for LiDAR Loop Detection}, 
-      author={Tang, Yujie and Wang, Meiling and Zuo, Sibo and Yang, Chengxi and Jiang, Jinhao and Chen, Xieyuanli and Yue, Yufeng},
-      journal={IEEE Transactions on Automation Science and Engineering}, 
-      year={2026}
-    }</code></pre>
-   </div>
-   </details>
-   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11454605" class="pub-link">[PDF]</a>
-   <a href="https://github.com/ANCHOR9178/SAGE">
-    <img src="https://img.shields.io/github/stars/ANCHOR9178/SAGE?style=social&label=Code+Stars" alt="GitHub stars">
-    </a>
-   </div>
-   
-   *IEEE Transactions on Automation Science and Engineering **(T-ASE)***
-  
-   Yujie Tang, Meiling Wang, Sibo Zuo, Chengxi Yang, Jinhao Jiang, **<u>Xieyuanli Chen</u>**, Yufeng Yue
-
-- [LEMON-Mapping: Loop-Enhanced Large-Scale Multi-Session Point Cloud Merging and Optimization for Globally Consistent Mapping](https://ieeexplore.ieee.org/document/11593811/)
-   <div class="pub-links">
-   <details class="bibtex-details">
-     <summary class="bibtex-button">[BibTeX]</summary>
-     <div class="bibtex-block">
-       <pre><code>@ARTICLE{wang2026tase,
-      title={LEMON-Mapping: Loop-Enhanced Large-Scale Multi-Session Point Cloud Merging and Optimization for Globally Consistent Mapping},
-      author={Wang, Lijie and Zhong, Xiaoyi and Xu, Ziyi and Chai, Kaixin and Zhao, Anke and Zhao, Tianyu and Jiang, Changjian and Wang, Qianhao and Chen, Xieyuanli and Gao, Fei},
-      journal={IEEE Transactions on Automation Science and Engineering},
-      year={2026}
-    }</code></pre>
-   </div>
-   </details>
-   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11593811" class="pub-link">[PDF]</a>
-   </div>
-   
-   *IEEE Transactions on Automation Science and Engineering **(T-ASE)***
-  
-   Lijie Wang, Xiaoyi Zhong, Ziyi Xu, Kaixin Chai, Anke Zhao, Tianyu Zhao, Changjian Jiang, Qianhao Wang, **<u>Xieyuanli Chen*</u>**, Fei Gao
-
-- [LOIC: Open-World Instance Classification in LiDAR Point Clouds](https://ieeexplore.ieee.org/document/11673255/)
-   <div class="pub-links">
-   <details class="bibtex-details">
-     <summary class="bibtex-button">[BibTeX]</summary>
-     <div class="bibtex-block">
-       <pre><code>@ARTICLE{deng2026tase,
-      title={LOIC: Open-World Instance Classification in LiDAR Point Clouds},
-      author={Deng, Wenbang and Wang, Ziyue and Kuang, Wenqing and Shi, Chenghao and Chen, Xieyuanli and Zhang, Hui and Lu, Huimin and Xiao, Junhao},
-      journal={IEEE Transactions on Automation Science and Engineering},
-      year={2026}
-    }</code></pre>
-   </div>
-   </details>
-   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11673255" class="pub-link">[PDF]</a>
-   </div>
-   
-   *IEEE Transactions on Automation Science and Engineering **(T-ASE)***
-  
-   Wenbang Deng, Ziyue Wang, Wenqing Kuang, Chenghao Shi, **<u>Xieyuanli Chen</u>**, Hui Zhang, Huimin Lu, Junhao Xiao
-
 - [AmphiHip Exo: A Cable-Driven Amphibious Hip Exoskeleton With Physics-Informed Intention Perception for Lower Limb Augmentation](https://ieeexplore.ieee.org/abstract/document/11414442/) 
   <div class="pub-links">
   <details class="bibtex-details">
@@ -257,6 +194,92 @@
    *Information Fusion  **(Inf. Fusion)***
   
    Youqi Liao, **<u>Xieyuanli Chen*</u>**, Shuhao Kang, Jianping Li, Zhen Dong, Hongchao Fan, Bisheng Yang
+
+ - [STCMPR: Robust Cross-Modal Place Recognition with Instance-Aware Alignment and Spatio-Temporal Consistency](https://ieeexplore.ieee.org/abstract/document/11806771) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{tang2026tase,
+      title={STCMPR: Robust Cross-Modal Place Recognition with Instance-Aware Alignment and Spatio-Temporal Consistency}, 
+      author={Jiao, Shuaifeng and Chen, Xieyuanli and Shi, Chenghao and Wang, Ziyue and Zeng, Zhiwen and Lu, Huimin and Zhou, Zongtan},
+      journal={IEEE Transactions on Automation Science and Engineering}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11806771" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/STCMPR">
+    <img src="https://img.shields.io/github/stars/nubot-nudt/STCMPR?style=social&label=Code+Stars" alt="GitHub stars">
+    </a>
+   </div>
+
+   *IEEE Transactions on Automation Science and Engineering **(T-ASE)***
+ 
+  Shuaifeng Jiao, **<u>Xieyuanli Chen</u>**, Chenghao Shi, Ziyue Wang, Zhiwen Zeng, Huimin Lu, Zongtan Zhou
+
+ - [Coupling Structural Descriptors With a Novel Semantic Graph Matching Approach for LiDAR Loop Detection](https://ieeexplore.ieee.org/abstract/document/11454605) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{tang2026tase,
+      title={Coupling Structural Descriptors With a Novel Semantic Graph Matching Approach for LiDAR Loop Detection}, 
+      author={Tang, Yujie and Wang, Meiling and Zuo, Sibo and Yang, Chengxi and Jiang, Jinhao and Chen, Xieyuanli and Yue, Yufeng},
+      journal={IEEE Transactions on Automation Science and Engineering}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11454605" class="pub-link">[PDF]</a>
+   <a href="https://github.com/ANCHOR9178/SAGE">
+    <img src="https://img.shields.io/github/stars/ANCHOR9178/SAGE?style=social&label=Code+Stars" alt="GitHub stars">
+    </a>
+   </div>
+   
+   *IEEE Transactions on Automation Science and Engineering **(T-ASE)***
+  
+   Yujie Tang, Meiling Wang, Sibo Zuo, Chengxi Yang, Jinhao Jiang, **<u>Xieyuanli Chen</u>**, Yufeng Yue
+
+- [LEMON-Mapping: Loop-Enhanced Large-Scale Multi-Session Point Cloud Merging and Optimization for Globally Consistent Mapping](https://ieeexplore.ieee.org/document/11593811/)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{wang2026tase,
+      title={LEMON-Mapping: Loop-Enhanced Large-Scale Multi-Session Point Cloud Merging and Optimization for Globally Consistent Mapping},
+      author={Wang, Lijie and Zhong, Xiaoyi and Xu, Ziyi and Chai, Kaixin and Zhao, Anke and Zhao, Tianyu and Jiang, Changjian and Wang, Qianhao and Chen, Xieyuanli and Gao, Fei},
+      journal={IEEE Transactions on Automation Science and Engineering},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11593811" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Transactions on Automation Science and Engineering **(T-ASE)***
+  
+   Lijie Wang, Xiaoyi Zhong, Ziyi Xu, Kaixin Chai, Anke Zhao, Tianyu Zhao, Changjian Jiang, Qianhao Wang, **<u>Xieyuanli Chen*</u>**, Fei Gao
+
+- [LOIC: Open-World Instance Classification in LiDAR Point Clouds](https://ieeexplore.ieee.org/document/11673255/)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{deng2026tase,
+      title={LOIC: Open-World Instance Classification in LiDAR Point Clouds},
+      author={Deng, Wenbang and Wang, Ziyue and Kuang, Wenqing and Shi, Chenghao and Chen, Xieyuanli and Zhang, Hui and Lu, Huimin and Xiao, Junhao},
+      journal={IEEE Transactions on Automation Science and Engineering},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11673255" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Transactions on Automation Science and Engineering **(T-ASE)***
+  
+   Wenbang Deng, Ziyue Wang, Wenqing Kuang, Chenghao Shi, **<u>Xieyuanli Chen</u>**, Hui Zhang, Huimin Lu, Junhao Xiao
    
  - [An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather](https://ieeexplore.ieee.org/abstract/document/11458670) 
    <div class="pub-links">
