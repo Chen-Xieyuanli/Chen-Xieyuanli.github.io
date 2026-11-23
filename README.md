@@ -190,6 +190,67 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
   
    Junyi Ma, Wentao Bao, Jingyi Xu, Guanzhong Sun, Yu Zheng, Erhang Zhang, **<u>Xieyuanli Chen</u>**, Hesheng Wang
 
+- [AmphiHip Exo: A Cable-Driven Amphibious Hip Exoskeleton With Physics-Informed Intention Perception for Lower Limb Augmentation](https://ieeexplore.ieee.org/abstract/document/11414442/) 
+  <div class="pub-links">
+  <details class="bibtex-details">
+    <summary class="bibtex-button">[BibTeX]</summary>
+    <div class="bibtex-block">
+      <pre><code>@ARTICLE{chen2026,
+  title={AmphiHip Exo: A Cable-Driven Amphibious Hip Exoskeleton With Physics-Informed Intention Perception for Lower Limb Augmentation}, 
+  author={Chen, Longwen and Chen, Xieyuanli and Xu, Junpeng and Cui, Fangge and Gui, Ke and Cheng, Chuang and Lu, Huimin},
+  journal={IEEE/ASME Transactions on Mechatronics}, 
+  year={2026}
+  }</code></pre>
+  </div>
+  </details>
+  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11414442" class="pub-link">[PDF]</a>
+  </div>
+  
+  *IEEE/ASME Transactions on Mechatronics **(T-Mech)***
+
+   Longwen Chen, **<u>Xieyuanli Chen</u>**, Junpeng Xu, Fangge Cui, Ke Gui, Chuang Cheng, Huimin Lu
+
+- [Multimodal Place Recognition With Feed-Forward Gaussian and Mamba-Based Enhancement in Mixed Traffic Environments](https://ieeexplore.ieee.org/document/11563912)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{xu2026tits,
+      title={Multimodal Place Recognition With Feed-Forward Gaussian and Mamba-Based Enhancement in Mixed Traffic Environments},
+      author={Xu, Jingyi and Qi, Zhangshuo and Jiao, Xianyun and Tian, Qijian and Yan, Zhongmiao and Wu, Qi and Chen, Xieyuanli and Pei, Ling},
+      journal={IEEE Transactions on Intelligent Transportation Systems},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11563912" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Transactions on Intelligent Transportation Systems **(T-ITS)***
+  
+   Jingyi Xu, Zhangshuo Qi, Xianyun Jiao, Qijian Tian, Zhongmiao Yan, Qi Wu, **<u>Xieyuanli Chen</u>**, Ling Pei
+
+- [RMT-PR: A Reverse-View Mamba-Transformer With Cross-View Adaptive Feature Fusion for LiDAR Place Recognition](https://ieeexplore.ieee.org/document/11640899)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{luo2026tits,
+      title={RMT-PR: A Reverse-View Mamba-Transformer With Cross-View Adaptive Feature Fusion for LiDAR Place Recognition},
+      author={Luo, Kan and Yu, Hongshan and Yang, Shuang and Wang, Jingwen and Wang, Yaonan and Civera, Javier and Chen, Xieyuanli},
+      journal={IEEE Transactions on Intelligent Transportation Systems},
+      year={2026},
+      doi={10.1109/TITS.2026.3709652}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11640899" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Transactions on Intelligent Transportation Systems **(T-ITS)***
+  
+   Kan Luo, Hongshan Yu, Shuang Yang, Jingwen Wang, Yaonan Wang, Javier Civera, **<u>Xieyuanli Chen</u>**
+
 - [OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Fused Geometric and Semantic Guidance](https://www.sciencedirect.com/science/article/pii/S1566253526004409) 
    <div class="pub-links">
    <details class="bibtex-details">
@@ -213,6 +274,29 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    *Information Fusion  **(Inf. Fusion)***
   
    Youqi Liao, **<u>Xieyuanli Chen*</u>**, Shuhao Kang, Jianping Li, Zhen Dong, Hongchao Fan, Bisheng Yang
+
+ - [STCMPR: Robust Cross-Modal Place Recognition with Instance-Aware Alignment and Spatio-Temporal Consistency](https://ieeexplore.ieee.org/abstract/document/11806771) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{tang2026tase,
+      title={STCMPR: Robust Cross-Modal Place Recognition with Instance-Aware Alignment and Spatio-Temporal Consistency}, 
+      author={Jiao, Shuaifeng and Chen, Xieyuanli and Shi, Chenghao and Wang, Ziyue and Zeng, Zhiwen and Lu, Huimin and Zhou, Zongtan},
+      journal={IEEE Transactions on Automation Science and Engineering}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11806771" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/STCMPR">
+    <img src="https://img.shields.io/github/stars/nubot-nudt/STCMPR?style=social&label=Code+Stars" alt="GitHub stars">
+    </a>
+   </div>
+
+   *IEEE Transactions on Automation Science and Engineering **(T-ASE)***
+ 
+  Shuaifeng Jiao, **<u>Xieyuanli Chen</u>**, Chenghao Shi, Ziyue Wang, Zhiwen Zeng, Huimin Lu, Zongtan Zhou
 
  - [Coupling Structural Descriptors With a Novel Semantic Graph Matching Approach for LiDAR Loop Detection](https://ieeexplore.ieee.org/abstract/document/11454605) 
    <div class="pub-links">
@@ -276,67 +360,6 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
    *IEEE Transactions on Automation Science and Engineering **(T-ASE)***
   
    Wenbang Deng, Ziyue Wang, Wenqing Kuang, Chenghao Shi, **<u>Xieyuanli Chen</u>**, Hui Zhang, Huimin Lu, Junhao Xiao
-
-- [AmphiHip Exo: A Cable-Driven Amphibious Hip Exoskeleton With Physics-Informed Intention Perception for Lower Limb Augmentation](https://ieeexplore.ieee.org/abstract/document/11414442/) 
-  <div class="pub-links">
-  <details class="bibtex-details">
-    <summary class="bibtex-button">[BibTeX]</summary>
-    <div class="bibtex-block">
-      <pre><code>@ARTICLE{chen2026,
-  title={AmphiHip Exo: A Cable-Driven Amphibious Hip Exoskeleton With Physics-Informed Intention Perception for Lower Limb Augmentation}, 
-  author={Chen, Longwen and Chen, Xieyuanli and Xu, Junpeng and Cui, Fangge and Gui, Ke and Cheng, Chuang and Lu, Huimin},
-  journal={IEEE/ASME Transactions on Mechatronics}, 
-  year={2026}
-  }</code></pre>
-  </div>
-  </details>
-  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11414442" class="pub-link">[PDF]</a>
-  </div>
-  
-  *IEEE/ASME Transactions on Mechatronics **(T-Mech)***
-
-   Longwen Chen, **<u>Xieyuanli Chen</u>**, Junpeng Xu, Fangge Cui, Ke Gui, Chuang Cheng, Huimin Lu
-
-- [Multimodal Place Recognition With Feed-Forward Gaussian and Mamba-Based Enhancement in Mixed Traffic Environments](https://ieeexplore.ieee.org/document/11563912)
-   <div class="pub-links">
-   <details class="bibtex-details">
-     <summary class="bibtex-button">[BibTeX]</summary>
-     <div class="bibtex-block">
-       <pre><code>@ARTICLE{xu2026tits,
-      title={Multimodal Place Recognition With Feed-Forward Gaussian and Mamba-Based Enhancement in Mixed Traffic Environments},
-      author={Xu, Jingyi and Qi, Zhangshuo and Jiao, Xianyun and Tian, Qijian and Yan, Zhongmiao and Wu, Qi and Chen, Xieyuanli and Pei, Ling},
-      journal={IEEE Transactions on Intelligent Transportation Systems},
-      year={2026}
-    }</code></pre>
-   </div>
-   </details>
-   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11563912" class="pub-link">[PDF]</a>
-   </div>
-   
-   *IEEE Transactions on Intelligent Transportation Systems **(T-ITS)***
-  
-   Jingyi Xu, Zhangshuo Qi, Xianyun Jiao, Qijian Tian, Zhongmiao Yan, Qi Wu, **<u>Xieyuanli Chen</u>**, Ling Pei
-
-- [RMT-PR: A Reverse-View Mamba-Transformer With Cross-View Adaptive Feature Fusion for LiDAR Place Recognition](https://ieeexplore.ieee.org/document/11640899)
-   <div class="pub-links">
-   <details class="bibtex-details">
-     <summary class="bibtex-button">[BibTeX]</summary>
-     <div class="bibtex-block">
-       <pre><code>@ARTICLE{luo2026tits,
-      title={RMT-PR: A Reverse-View Mamba-Transformer With Cross-View Adaptive Feature Fusion for LiDAR Place Recognition},
-      author={Luo, Kan and Yu, Hongshan and Yang, Shuang and Wang, Jingwen and Wang, Yaonan and Civera, Javier and Chen, Xieyuanli},
-      journal={IEEE Transactions on Intelligent Transportation Systems},
-      year={2026},
-      doi={10.1109/TITS.2026.3709652}
-    }</code></pre>
-   </div>
-   </details>
-   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11640899" class="pub-link">[PDF]</a>
-   </div>
-   
-   *IEEE Transactions on Intelligent Transportation Systems **(T-ITS)***
-  
-   Kan Luo, Hongshan Yu, Shuang Yang, Jingwen Wang, Yaonan Wang, Javier Civera, **<u>Xieyuanli Chen</u>**
    
  - [An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather](https://ieeexplore.ieee.org/abstract/document/11458670) 
    <div class="pub-links">
@@ -377,67 +400,6 @@ I have authored over 100 peer-reviewed papers in leading robotics venues, includ
   *IEEE Transactions on Industrial Informatics **(T-II)***
    
    Pengyu Zhang,  **<u>Xieyuanli Chen</u>** , Liang Shen, Xulei Yang, Bharadwaj Veeravalli, Shijie Li, Tian Jin, Xiaotao Huang
-
- - [STEP-Mover: Stratified and Tiered Multi-scale Descriptor for Efficient Static Pointcloud Environment Measurement](https://ieeexplore.ieee.org/abstract/document/11431192) 
-   <div class="pub-links">
-   <details class="bibtex-details">
-     <summary class="bibtex-button">[BibTeX]</summary>
-     <div class="bibtex-block">
-       <pre><code>@ARTICLE{jia2026tim,
-      title={STEP-Mover: Stratified and Tiered Multiscale Descriptor for Efficient Static Point Cloud Environment Measurement}, 
-      author={Jia, Yanpeng and Wang, Ting and Shao, Shiliang and Chen, Xieyuanli and Liu, Hao},
-      journal={IEEE Transactions on Instrumentation and Measurement}, 
-      year={2026}
-    }</code></pre>
-   </div>
-   </details>
-   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11431192" class="pub-link">[PDF]</a>
-   <a href="https://yaepiii.github.io/STEP-Mover/" class="pub-link">[Web]</a>
-   </div>
-   
-   *IEEE Transactions on Instrumentation and Measurement **(T-IM)***
-  
-   Yanpeng Jia, Ting Wang, Shiliang Shao, **<u>Xieyuanli Chen</u>**, Hao Liu
-
-- [DGAOT: Dynamic Graph Attention With Optimal Transport Based Re-Ranking for Mobile Robot Visual Place Recognition](https://ieeexplore.ieee.org/document/11682938/)
-   <div class="pub-links">
-   <details class="bibtex-details">
-     <summary class="bibtex-button">[BibTeX]</summary>
-     <div class="bibtex-block">
-       <pre><code>@ARTICLE{jiang2026iotj,
-      title={DGAOT: Dynamic Graph Attention With Optimal Transport Based Re-Ranking for Mobile Robot Visual Place Recognition},
-      author={Jiang, Xinyu and Ge, Zhaoning and Jiang, Yimeng and Zhou, Dejing and Liu, Zhijie and Wu, Jin and Chen, Xieyuanli and Vong, Chi-Man},
-      journal={IEEE Internet of Things Journal},
-      year={2026}
-    }</code></pre>
-   </div>
-   </details>
-   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11682938" class="pub-link">[PDF]</a>
-   </div>
-   
-   *IEEE Internet of Things Journal **(IoT-J)***
-  
-   Xinyu Jiang, Zhaoning Ge, Yimeng Jiang, Dejing Zhou, Zhijie Liu, Jin Wu, **<u>Xieyuanli Chen</u>**, Chi-Man Vong
-
-- [ParkingTransformer: Language-Guided End-to-End Trajectory Planning for Autonomous Parking](https://ieeexplore.ieee.org/document/11716674/)
-   <div class="pub-links">
-   <details class="bibtex-details">
-     <summary class="bibtex-button">[BibTeX]</summary>
-     <div class="bibtex-block">
-       <pre><code>@ARTICLE{wu2026iotj,
-      title={ParkingTransformer: Language-Guided End-to-End Trajectory Planning for Autonomous Parking},
-      author={Wu, Huateng and Li, Xu and Kong, Dong and Wang, Zihang and Chen, Xieyuanli and Wang, Benwu},
-      journal={IEEE Internet of Things Journal},
-      year={2026}
-    }</code></pre>
-   </div>
-   </details>
-   <a href="https://arxiv.org/pdf/2606.17082" class="pub-link">[PDF]</a>
-   </div>
-   
-   *IEEE Internet of Things Journal **(IoT-J)***
-  
-   Huateng Wu, Xu Li, Dong Kong, Zihang Wang, **<u>Xieyuanli Chen</u>**, Benwu Wang
 
  - [LiDAR-VGGT: Cross-Modal Coarse-to-Fine Fusion for Globally Consistent and Metric-Scale Dense Mapping](https://ieeexplore.ieee.org/abstract/document/11399876) 
    <div class="pub-links">
